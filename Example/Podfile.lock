@@ -1,0 +1,16 @@
+PODS:
+  - C2CB-iOS-Library (0.1.0)
+
+DEPENDENCIES:
+  - C2CB-iOS-Library (from `../`)
+
+EXTERNAL SOURCES:
+  C2CB-iOS-Library:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  C2CB-iOS-Library: bb43d4cd7d747fc73a58d93c5f8273970546bc63
+
+PODFILE CHECKSUM: 34e841cf6be1c41259e59b74d38b6cf8ebfade72
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,22 @@
+{
+  "name": "C2CB-iOS-Library",
+  "version": "0.1.0",
+  "summary": "A short description of C2CB-iOS-Library.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Satyam Kumar/C2CB-iOS-Library",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Satyam Kumar": "satyam.kumar@vgroup.net"
+  },
+  "source": {
+    "git": "https://github.com/Satyam Kumar/C2CB-iOS-Library.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "C2CB-iOS-Library/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_C2CB_iOS_Library_Example {
+  umbrella header "Pods-C2CB-iOS-Library_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
