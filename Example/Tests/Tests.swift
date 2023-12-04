@@ -1,5 +1,5 @@
 import XCTest
-import C2CB-iOS-Library
+import C2CB_iOS_Library
 
 class Tests: XCTestCase {
     
