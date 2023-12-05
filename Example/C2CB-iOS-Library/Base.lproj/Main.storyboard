@@ -33,6 +33,9 @@
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uP9-nf-PGO" customClass="SmsViewIcons" customModule="C2CB_iOS_Library">
                                         <rect key="frame" x="80" y="0.0" width="40" height="40"/>
                                         <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                        <connections>
+                                            <action selector="actionOnSmsBtn:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Pud-Cv-RCe"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9L4-XW-5X2" customClass="EmailViewIcons" customModule="C2CB_iOS_Library">
                                         <rect key="frame" x="160" y="0.0" width="40" height="40"/>
@@ -40,8 +43,14 @@
                                     </button>
                                 </subviews>
                             </stackView>
+                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="MhF-G6-8ND">
+                                <rect key="frame" x="178" y="210" width="97" height="34"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="BKl-AN-Twd" firstAttribute="centerY" secondItem="kh9-bI-dsS" secondAttribute="centerY" id="49l-Wb-zLi"/>
                             <constraint firstItem="BKl-AN-Twd" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="L3i-qi-UV5"/>
@@ -53,4 +62,15 @@
             <point key="canvasLocation" x="-92" y="-36"/>
         </scene>
     </scenes>
+    <designables>
+        <designable name="9L4-XW-5X2">
+            <size key="intrinsicContentSize" width="256" height="256"/>
+        </designable>
+        <designable name="dSI-zg-eiB">
+            <size key="intrinsicContentSize" width="1024" height="1024"/>
+        </designable>
+        <designable name="uP9-nf-PGO">
+            <size key="intrinsicContentSize" width="256" height="256"/>
+        </designable>
+    </designables>
 </document>

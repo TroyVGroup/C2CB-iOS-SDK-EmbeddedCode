@@ -7,12 +7,12 @@
 //
 
 import UIKit
-
+import C2CB_iOS_Library
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+       // self.DoneKeyboard(dismissOnTap: true)
     }
 
     override func didReceiveMemoryWarning() {
@@ -21,4 +21,11 @@ class ViewController: UIViewController {
     }
 
 }
-
+extension ViewController{
+    @IBAction func actionOnSmsBtn(_ sender:UIButton){
+        print("actionOnSmsBtn")
+        SmsHandleView.onPresent(on: self){_ in
+            print("actionOnSmsBtn 22")
+        }
+    }
+}

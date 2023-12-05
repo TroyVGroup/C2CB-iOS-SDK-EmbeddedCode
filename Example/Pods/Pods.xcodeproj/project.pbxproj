@@ -15,10 +15,14 @@
 		7A2D6E2A3FBAFD9B539A2ABC90CFA379 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		A13150542B1DA37800A423FB /* IBDesignableFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = A13150532B1DA37800A423FB /* IBDesignableFiles.swift */; };
 		A13150562B1DA40600A423FB /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = A13150552B1DA40600A423FB /* Constant.swift */; };
-		A13150592B1DA5CB00A423FB /* messenger.png in Resources */ = {isa = PBXBuildFile; fileRef = A13150582B1DA5CB00A423FB /* messenger.png */; };
-		A131505B2B1DA62F00A423FB /* phone-call.png in Resources */ = {isa = PBXBuildFile; fileRef = A131505A2B1DA62F00A423FB /* phone-call.png */; };
-		A131505E2B1DA63A00A423FB /* envelope.png in Resources */ = {isa = PBXBuildFile; fileRef = A131505C2B1DA63A00A423FB /* envelope.png */; };
-		A131505F2B1DA63A00A423FB /* Cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = A131505D2B1DA63A00A423FB /* Cancel.png */; };
+		A13150812B1E00AF00A423FB /* email.png in Resources */ = {isa = PBXBuildFile; fileRef = A13150802B1E00AF00A423FB /* email.png */; };
+		A13150832B1E00D400A423FB /* call.png in Resources */ = {isa = PBXBuildFile; fileRef = A13150822B1E00D400A423FB /* call.png */; };
+		A13150892B1E027E00A423FB /* sms.png in Resources */ = {isa = PBXBuildFile; fileRef = A13150882B1E027E00A423FB /* sms.png */; };
+		A131508B2B1E030E00A423FB /* cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = A131508A2B1E030E00A423FB /* cancel.png */; };
+		A131508D2B1E171800A423FB /* SmsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A131508C2B1E171800A423FB /* SmsViewController.swift */; };
+		A131508F2B1E176300A423FB /* SmsHandleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A131508E2B1E176300A423FB /* SmsHandleView.swift */; };
+		A1D2666F2B1F0C5D007CB43D /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D2666E2B1F0C5D007CB43D /* GradientView.swift */; };
+		A1D266712B1F0E24007CB43D /* EIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D266702B1F0E24007CB43D /* EIColor.swift */; };
 		C72038C3CE97419C7F74D8CDB1C5DAF0 /* Pods-C2CB-iOS-Library_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DF6FC40004E2F24EFFDC9263A13A93DF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		E2E88CEBDBD2735754C2AE30ED67C4D0 /* Pods-C2CB-iOS-Library_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 522B5319B55E155BBD40EEE4F2A3DC09 /* Pods-C2CB-iOS-Library_Example-dummy.m */; };
@@ -65,10 +69,14 @@
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A13150532B1DA37800A423FB /* IBDesignableFiles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = IBDesignableFiles.swift; path = "C2CB-iOS-Library/Classes/IBDesignableFiles.swift"; sourceTree = "<group>"; };
 		A13150552B1DA40600A423FB /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Constant.swift; path = "C2CB-iOS-Library/Classes/Constant.swift"; sourceTree = "<group>"; };
-		A13150582B1DA5CB00A423FB /* messenger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = messenger.png; sourceTree = "<group>"; };
-		A131505A2B1DA62F00A423FB /* phone-call.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "phone-call.png"; sourceTree = "<group>"; };
-		A131505C2B1DA63A00A423FB /* envelope.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = envelope.png; sourceTree = "<group>"; };
-		A131505D2B1DA63A00A423FB /* Cancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Cancel.png; sourceTree = "<group>"; };
+		A13150802B1E00AF00A423FB /* email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = email.png; sourceTree = "<group>"; };
+		A13150822B1E00D400A423FB /* call.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = call.png; sourceTree = "<group>"; };
+		A13150882B1E027E00A423FB /* sms.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sms.png; sourceTree = "<group>"; };
+		A131508A2B1E030E00A423FB /* cancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
+		A131508C2B1E171800A423FB /* SmsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SmsViewController.swift; path = "C2CB-iOS-Library/Classes/SmsViewController.swift"; sourceTree = "<group>"; };
+		A131508E2B1E176300A423FB /* SmsHandleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SmsHandleView.swift; path = "C2CB-iOS-Library/Classes/SmsHandleView.swift"; sourceTree = "<group>"; };
+		A1D2666E2B1F0C5D007CB43D /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = GradientView.swift; path = "C2CB-iOS-Library/Classes/GradientView.swift"; sourceTree = "<group>"; };
+		A1D266702B1F0E24007CB43D /* EIColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EIColor.swift; path = "C2CB-iOS-Library/Classes/EIColor.swift"; sourceTree = "<group>"; };
 		A7E09460C76092E773DF1A65A641CDD4 /* Pods-C2CB-iOS-Library_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B0203A85D551A85F5BDEE0113E418E38 /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "C2CB-iOS-Library.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		C2CAF510A3DCAF2F55662C9CB82F8FB4 /* C2CB-iOS-Library-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "C2CB-iOS-Library-Info.plist"; sourceTree = "<group>"; };
@@ -138,6 +146,10 @@
 				4F75FD7C97EF8462082B25B9F1C780D5 /* Support Files */,
 				A13150532B1DA37800A423FB /* IBDesignableFiles.swift */,
 				A13150552B1DA40600A423FB /* Constant.swift */,
+				A131508C2B1E171800A423FB /* SmsViewController.swift */,
+				A131508E2B1E176300A423FB /* SmsHandleView.swift */,
+				A1D2666E2B1F0C5D007CB43D /* GradientView.swift */,
+				A1D266702B1F0E24007CB43D /* EIColor.swift */,
 			);
 			name = "C2CB-iOS-Library";
 			path = ../..;
@@ -178,10 +190,10 @@
 		A13150572B1DA58C00A423FB /* Resouces */ = {
 			isa = PBXGroup;
 			children = (
-				A131505D2B1DA63A00A423FB /* Cancel.png */,
-				A131505C2B1DA63A00A423FB /* envelope.png */,
-				A131505A2B1DA62F00A423FB /* phone-call.png */,
-				A13150582B1DA5CB00A423FB /* messenger.png */,
+				A13150802B1E00AF00A423FB /* email.png */,
+				A131508A2B1E030E00A423FB /* cancel.png */,
+				A13150882B1E027E00A423FB /* sms.png */,
+				A13150822B1E00D400A423FB /* call.png */,
 			);
 			path = Resouces;
 			sourceTree = "<group>";
@@ -379,10 +391,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A131505E2B1DA63A00A423FB /* envelope.png in Resources */,
-				A131505B2B1DA62F00A423FB /* phone-call.png in Resources */,
-				A13150592B1DA5CB00A423FB /* messenger.png in Resources */,
-				A131505F2B1DA63A00A423FB /* Cancel.png in Resources */,
+				A13150832B1E00D400A423FB /* call.png in Resources */,
+				A13150892B1E027E00A423FB /* sms.png in Resources */,
+				A13150812B1E00AF00A423FB /* email.png in Resources */,
+				A131508B2B1E030E00A423FB /* cancel.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,8 +428,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A131508F2B1E176300A423FB /* SmsHandleView.swift in Sources */,
+				A131508D2B1E171800A423FB /* SmsViewController.swift in Sources */,
+				A1D2666F2B1F0C5D007CB43D /* GradientView.swift in Sources */,
 				A13150542B1DA37800A423FB /* IBDesignableFiles.swift in Sources */,
 				61EB3AE08CB8267ADF3BAC426A6AECA6 /* C2CB-iOS-Library-dummy.m in Sources */,
+				A1D266712B1F0E24007CB43D /* EIColor.swift in Sources */,
 				A13150562B1DA40600A423FB /* Constant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

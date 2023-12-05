@@ -19,4 +19,5 @@ public class Constant{
         return UIImage(named: named, in: bundle, compatibleWith: nil)
     }
     
+    
 }
