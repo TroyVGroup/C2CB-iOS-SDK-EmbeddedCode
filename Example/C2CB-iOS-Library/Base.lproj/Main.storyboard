@@ -19,58 +19,43 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="40" translatesAutoresizingMaskIntoConstraints="NO" id="BKl-AN-Twd">
-                                <rect key="frame" x="107" y="428" width="200" height="40"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TNV-gn-uTn" customClass="CustomView" customModule="C2CB_iOS_Library">
+                                <rect key="frame" x="57" y="348" width="300" height="200"/>
                                 <subviews>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dSI-zg-eiB" customClass="CallViewIcons" customModule="C2CB_iOS_Library">
-                                        <rect key="frame" x="0.0" y="0.0" width="40" height="40"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e7W-vN-XiM">
+                                        <rect key="frame" x="250" y="171" width="42" height="21"/>
                                         <constraints>
-                                            <constraint firstAttribute="width" constant="40" id="Lfs-NE-BEk"/>
-                                            <constraint firstAttribute="height" constant="40" id="pF7-eS-yIH"/>
+                                            <constraint firstAttribute="width" constant="42" id="fGl-CJ-0rQ"/>
+                                            <constraint firstAttribute="height" constant="21" id="k9c-J7-tea"/>
                                         </constraints>
-                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
-                                    </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uP9-nf-PGO" customClass="SmsViewIcons" customModule="C2CB_iOS_Library">
-                                        <rect key="frame" x="80" y="0.0" width="40" height="40"/>
-                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
-                                        <connections>
-                                            <action selector="actionOnSmsBtn:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="Pud-Cv-RCe"/>
-                                        </connections>
-                                    </button>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9L4-XW-5X2" customClass="EmailViewIcons" customModule="C2CB_iOS_Library">
-                                        <rect key="frame" x="160" y="0.0" width="40" height="40"/>
-                                        <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
-                                    </button>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
                                 </subviews>
-                            </stackView>
-                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="MhF-G6-8ND">
-                                <rect key="frame" x="178" y="210" width="97" height="34"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits"/>
-                            </textField>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="bottom" secondItem="e7W-vN-XiM" secondAttribute="bottom" constant="8" id="Iv2-Rt-qhd"/>
+                                    <constraint firstAttribute="width" constant="300" id="QHc-5o-ze7"/>
+                                    <constraint firstAttribute="trailing" secondItem="e7W-vN-XiM" secondAttribute="trailing" constant="8" id="nWY-Br-zZq"/>
+                                    <constraint firstAttribute="height" constant="200" id="ouy-TT-b9z"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="doneAccessory" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="channel_id" value="657b0f55632f4ca91909ce0e"/>
+                                </userDefinedRuntimeAttributes>
+                            </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="BKl-AN-Twd" firstAttribute="centerY" secondItem="kh9-bI-dsS" secondAttribute="centerY" id="49l-Wb-zLi"/>
-                            <constraint firstItem="BKl-AN-Twd" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="L3i-qi-UV5"/>
+                            <constraint firstItem="TNV-gn-uTn" firstAttribute="centerY" secondItem="kh9-bI-dsS" secondAttribute="centerY" id="lLQ-iB-DMN"/>
+                            <constraint firstItem="TNV-gn-uTn" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="y2J-ZE-C2i"/>
                         </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-92" y="-36"/>
+            <point key="canvasLocation" x="113.04347826086958" y="-123.21428571428571"/>
         </scene>
     </scenes>
-    <designables>
-        <designable name="9L4-XW-5X2">
-            <size key="intrinsicContentSize" width="256" height="256"/>
-        </designable>
-        <designable name="dSI-zg-eiB">
-            <size key="intrinsicContentSize" width="1024" height="1024"/>
-        </designable>
-        <designable name="uP9-nf-PGO">
-            <size key="intrinsicContentSize" width="256" height="256"/>
-        </designable>
-    </designables>
 </document>

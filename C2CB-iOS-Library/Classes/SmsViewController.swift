@@ -46,7 +46,7 @@ open class SmsViewController:UIViewController{
         let contactNoText = UITextField()
         contactNoText.placeholder = "Contact number"
         contactNoText.addDoneButtonOnKeyboard()
-        contactNoText.keyboardType = .namePhonePad
+        contactNoText.keyboardType = .numberPad
         contactNoText.textColor = .black
         contactNoText.borderStyle = .roundedRect
         contactNoText.heightAnchor.constraint(equalToConstant: 50).isActive = true
@@ -92,7 +92,7 @@ open class SmsViewController:UIViewController{
         stackView.axis = .vertical
         return stackView
     }()
-    private let placeholderMess = "Enter your message.."
+     let placeholderMess = "Enter your message.."
     open override func viewWillLayoutSubviews() {
         super.viewWillLayoutSubviews()
         setupViews()
@@ -100,7 +100,7 @@ open class SmsViewController:UIViewController{
     
     private func setupViews(){
         view.addSubview(containerView)
-        self.DoneKeyboard(dismissOnTap: false)
+        //self.DoneKeyboard(dismissOnTap: false)
         containerView.centerXAnchor.constraint(equalTo: view.centerXAnchor).isActive = true
         containerView.centerYAnchor.constraint(equalTo: view.centerYAnchor).isActive = true
         containerView.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 40).isActive = true
@@ -136,7 +136,7 @@ open class SmsViewController:UIViewController{
             messageTextView.textColor = .black
         }
         cancelButton.addTarget(self, action: #selector(dismissSubView), for: .touchUpInside)
-        sendButton.addTarget(self, action: #selector(dismissSubView), for: .touchUpInside)
+        sendButton.addTarget(self, action: #selector(actionOnSendBtn), for: .touchUpInside)
         messageTextView.delegate = self
     }
     
@@ -146,11 +146,18 @@ open class SmsViewController:UIViewController{
         
     }
     
+    @objc private func actionOnSendBtn(){
+        if smsModel.validation(){
+            print("actionOnSendBtn")
+            dismiss(animated: true)
+        }
+    }
     
-    
+    let smsModel = SmsViewModel()
     
     override open func viewDidLoad() {
         super.viewDidLoad()
+        smsModel.smsView = self
         messageTextView.text = placeholderMess
 
     }

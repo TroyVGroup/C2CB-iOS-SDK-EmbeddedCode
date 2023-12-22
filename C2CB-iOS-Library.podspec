@@ -32,12 +32,14 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.source_files = 'C2CB-iOS-Library/Classes/**/*'
   
-   #s.resource_bundles = {
-    # 'C2CB-iOS-Library' => ['C2CB-iOS-Library/Assets/*.png']
-   #}
+   s.resource_bundles = {
+     'Resources' => ['C2CB-iOS-Library/Assets/*.png']
+   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit'
+   #s.dependency 'Alamofire'
+   #s.dependency 'KRProgressHUD', '~> 3.4.4';
   # s.dependency 'AFNetworking', '~> 2.3'
 end
 #https://github.com/TroyVGroup/C2CB-iOS-SDK-EmbeddedCode

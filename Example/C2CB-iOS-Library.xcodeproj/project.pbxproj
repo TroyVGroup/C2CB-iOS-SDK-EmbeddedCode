@@ -526,6 +526,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4F4298ADEB362355451AACA9 /* Pods-C2CB-iOS-Library_Tests.debug.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = NQL478KXAA;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
@@ -552,6 +553,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F354FFC27EDF2403275E3120 /* Pods-C2CB-iOS-Library_Tests.release.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = NQL478KXAA;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 					"$(inherited)",
