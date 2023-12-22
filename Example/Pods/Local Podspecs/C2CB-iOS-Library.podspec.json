@@ -21,7 +21,7 @@
   "swift_versions": "5.0",
   "source_files": "C2CB-iOS-Library/Classes/**/*",
   "resource_bundles": {
-    "C2CB-iOS-Library": [
+    "Resources": [
       "C2CB-iOS-Library/Assets/*.png"
     ]
   },

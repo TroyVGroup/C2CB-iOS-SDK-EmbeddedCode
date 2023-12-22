@@ -7,153 +7,164 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0021A0BB979CAB5A2067BF8617E8EA16 /* EmailValidationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 584A5ED0BA4C9292B90F707B3A96B432 /* EmailValidationModel.swift */; };
-		064609AC5D8CBB735BDB6A76EE2F7471 /* SMSValidationSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0C48C8ADB51A72BBEEBE7D8AB92683 /* SMSValidationSetUp.swift */; };
-		0D7DC6485B353875DA6116C5920DCBD3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */; };
-		0E11D74BF7DE8318F5F4DA1E6827CF2F /* CallValidationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 034EFEDC41C296FBFF54ECE0AAEB6753 /* CallValidationModel.swift */; };
-		1100246743457FC8BF8415508B5121E7 /* CallViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3302303A6AB41C86D0F916179EDC6A6C /* CallViewController.swift */; };
-		1185B2F2738B59934DD9AD17E7089A88 /* CallValidationSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9204DF62F32C9ABDFF3075C5BA201B5 /* CallValidationSetUp.swift */; };
-		1B2FD2B155658FAA830DAECD2A9783B3 /* ApiParaKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDB37E02060E60513FBF86AAFA4894A5 /* ApiParaKey.swift */; };
-		258392A86201AA9BF1C088936223CD69 /* EIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0BF45DA18BA1F45BB4262CEA42F977B /* EIColor.swift */; };
+		00960705711DD14F7E1FA68FC1BC2B3C /* email.png in Sources */ = {isa = PBXBuildFile; fileRef = 6A58CB89A5AC5F8441A35EC905CE9AC7 /* email.png */; };
+		011431C21A0CD715C2722F0BE3E70AED /* unChecked.png in Sources */ = {isa = PBXBuildFile; fileRef = 2EDA660A2DC8D18FD8DC81A39270EDEB /* unChecked.png */; };
+		0552C618B2566A7F5B422E9149B4F35D /* call.png in Sources */ = {isa = PBXBuildFile; fileRef = E7175B0EC081560C8812DB6D5FD66B44 /* call.png */; };
+		13E8DDFA790DB3643944E58137A11466 /* C2CB-iOS-Library-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F16E722538BA618740F2A6CA5F27A990 /* C2CB-iOS-Library-dummy.m */; };
+		1C1A8F93D6816CB5417D39BA18F0353E /* keypad.png in Sources */ = {isa = PBXBuildFile; fileRef = F6E6FB86BBF6FE7B68451826AE40CDC1 /* keypad.png */; };
+		2B1FB4A2FB358F26F7C8ACF935993815 /* SMSValidationSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F87762A433907E6A10EE25ED3BF9E47 /* SMSValidationSetUp.swift */; };
+		2D9AEC15B0DE49656758DC0160DCF787 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7F6DA8F687AE47877C41E8E3AFCBC6B /* Helper.swift */; };
 		2F9F7EEB6D826EF111094B92666CD439 /* Pods-C2CB-iOS-Library_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FB09D3EB2C8565D005C21EE6B1B5B691 /* Pods-C2CB-iOS-Library_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		2FF7D6AF943FD15F2FDFFC0445A0C7DC /* keypad.png in Sources */ = {isa = PBXBuildFile; fileRef = A602EDD692D03C625BFE4FA4D99F1D66 /* keypad.png */; };
-		344273108A32C86969BFA0974DBD08F5 /* ProgressHud.swift in Sources */ = {isa = PBXBuildFile; fileRef = 793DF05E0CE361C61CEE2D008E32375E /* ProgressHud.swift */; };
-		3AE47DB466EFAE51B710CA980BD1B6FC /* C2CB-iOS-Library-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A861DA22BD5B81167A9A5D2825904A8B /* C2CB-iOS-Library-dummy.m */; };
-		408844CF46B67CFB37850C10C27DC596 /* cancel.png in Sources */ = {isa = PBXBuildFile; fileRef = 6E307A58CCB8EE8FACF785E5B019B056 /* cancel.png */; };
-		45022994FBAAB75A3A701AC309D3EEBC /* CallHandleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A0B126632E69A91C6F0BC2F3124971D /* CallHandleView.swift */; };
-		5FABDACDA548C3A8489081A3A56F06EF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
-		631031E2F0AAF3EC20FE054B7C703443 /* email.png in Sources */ = {isa = PBXBuildFile; fileRef = 7695AB322FFE6DFB051162D976B10505 /* email.png */; };
-		641A1AC93C276FA4E0828FC0823065D3 /* C2CB-iOS-Library-C2CB-iOS-Library in Resources */ = {isa = PBXBuildFile; fileRef = 0536677F69210CA9B1063D29F8C2D8AE /* C2CB-iOS-Library-C2CB-iOS-Library */; };
+		3133AC3416AF649FBE4F421797046046 /* IBDesignableFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52B47E837587FDF8AE143374CE917126 /* IBDesignableFiles.swift */; };
+		374AEE31CCADB2C1968564E2FED954C3 /* sms.png in Sources */ = {isa = PBXBuildFile; fileRef = DB8FA664064599185257B46CD059CBDE /* sms.png */; };
+		3AFB36AD64DC5C29CD2C9478A59C12C6 /* EmailValidationSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5824D6559DD47CBB8251A8911EBF5C9D /* EmailValidationSetUp.swift */; };
+		3BEF24119C679A16F751BBF4C2E46223 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FB4041638896DA6995BECACC85CBB27 /* Constant.swift */; };
+		495CD6BA0C55826B35070C4AC2EC7E5C /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CB4C2943AC828F4F30BA2927EE89569 /* GradientView.swift */; };
+		4A6F1E733839165CB1596B3AF5ED5A1E /* ApiParaKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = D109861C149E5301473BD05D5924E7D7 /* ApiParaKey.swift */; };
+		4B01A60E0694309D64B6316AF26E688B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */; };
+		54D82AFFF066A2210F089F058CAEFA69 /* C2CB-iOS-Library-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C612287CA765A8DCF5C432564872F365 /* C2CB-iOS-Library-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5612CD0A24D776570FFEB1A5780893DC /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B6CD60BBCF42A358FAA09A4F34C22E6 /* Alerts.swift */; };
+		56286CC17456FAC7EB510E668EDC7322 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AAD140AADED9F46A27A81903E3F8E7E /* BaseViewController.swift */; };
+		6256A50CB48145FD2E3987BBC7A8F1A8 /* CallViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1BA58C2182A9C8DF21737C3AB7E847E /* CallViewController.swift */; };
+		662798D4EEC49AAFBC9B52DACBC66C8B /* APIConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4C31E417250B72E3727EF2B63044725 /* APIConfig.swift */; };
 		6805017B632EAEB09CB18EFA8169D559 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
-		69921FBF679BB83CA1515A15C66F6532 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E845D962375F8EF55B059DCFBF39326D /* GradientView.swift */; };
+		6845353C3492F6DB90F4D9685DF8850E /* CountryCodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC656589056B5346C3792E07F111C7E5 /* CountryCodeViewController.swift */; };
 		6BCABA6E972BAE861D0445A86E21FED3 /* Pods-C2CB-iOS-Library_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */; };
-		6E1D0CB3DE2376A03E6DC9FB1281F07B /* SmsHandleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28D505CA3376754420144C415C17E192 /* SmsHandleView.swift */; };
-		6E8D79AF6530842A87441FA30EAF9548 /* IBDesignableFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = E16496FA5299A7C5176CB6A6B5CBF6DF /* IBDesignableFiles.swift */; };
-		7279D42E43356338D4F2687F5A81079C /* audio.png in Sources */ = {isa = PBXBuildFile; fileRef = D70D5AE28B4C7A0BFB780C63E7D8EED7 /* audio.png */; };
-		72BBF7A64BDE286363C4CB54A0C46944 /* checked.png in Sources */ = {isa = PBXBuildFile; fileRef = E93EFDBA94B8A9FE4C79A1D3C67B9CB2 /* checked.png */; };
-		7A17B63E0D3EE56E40C815D0A1F9DCC9 /* unChecked.png in Sources */ = {isa = PBXBuildFile; fileRef = 3A824EC0CFF01E50DBF97FFA07614E2D /* unChecked.png */; };
+		6FEB80F4938C741855F73F38EE3073F6 /* ProgressHud.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BED602A36C1B42F10A01FC0E3FC3E51 /* ProgressHud.swift */; };
+		743B9F99A42F290FE6D9BE87B654009F /* SmsHandleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A391E308AA0A0F33211A42155F380BB /* SmsHandleView.swift */; };
+		77AF59A1C7E2C39324026AE7F6293F08 /* EmailValidationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5547A62C4840FFF495D2D2242ED171A4 /* EmailValidationModel.swift */; };
 		7A2D6E2A3FBAFD9B539A2ABC90CFA379 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
-		903E0102424D9C47C147403F9FFC3921 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A6EF9BEA1A79255DBA5AD7786021318 /* Alerts.swift */; };
-		9276A22F9702BBA93F97DC815A9090C9 /* SmsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7EB0C2084584C50BDDAA4E6FAB3DA3D /* SmsViewController.swift */; };
-		930B36A3D86528D5B735045CE32799B2 /* sms.png in Sources */ = {isa = PBXBuildFile; fileRef = 71E2448EDD15FEEE188AA4CD9738BE93 /* sms.png */; };
-		973C1FDF91DC2835B286B88D54F074F7 /* SmsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90F389B5F7816174B8DDB5CFCCED63A2 /* SmsViewModel.swift */; };
-		9B4CC341FAA835608F4F59C775087EF4 /* EmailValidationSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E18A514ED8469CCA520DAA71E9A94B4A /* EmailValidationSetUp.swift */; };
-		A124FE372B29F680007AFE9C /* CountryCodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A124FE362B29F680007AFE9C /* CountryCodeViewController.swift */; };
-		A124FE392B29F698007AFE9C /* ContryCodeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A124FE382B29F698007AFE9C /* ContryCodeModel.swift */; };
-		A12BF9B12B32D1240042DA36 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A12BF9B02B32D1240042DA36 /* BaseViewController.swift */; };
-		A1404B372B2B0A0A00290FFA /* CountryCodeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1404B362B2B0A0900290FFA /* CountryCodeTableViewCell.swift */; };
-		A1404B392B2B131500290FFA /* CountryCodeModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1404B382B2B131500290FFA /* CountryCodeModelView.swift */; };
-		A1404B3B2B2B358D00290FFA /* ChannelModePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1404B3A2B2B358D00290FFA /* ChannelModePage.swift */; };
-		AF9D0AF1519774EFE7764C5EA27B23F0 /* unknow.png in Sources */ = {isa = PBXBuildFile; fileRef = 5EAF843F03E15D9AB34503E0B9300C05 /* unknow.png */; };
-		B1B8FE4AE18BBD199D6453D701FB21A4 /* call.png in Sources */ = {isa = PBXBuildFile; fileRef = 3695322C1F283378F32C6A7BB942E02E /* call.png */; };
-		C00DE8F2BD259709F501FECCF20EECC6 /* APIConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6227C3AA70F842C4AE8BBBF211F853D /* APIConfig.swift */; };
-		C246F581FCAA8F223EC776448F2A2884 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E9822098D4E23FD6D041347142C6A4 /* Helper.swift */; };
+		7C76DAFBCE9963A701673568AFCC6E60 /* ContryCodeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91682EB730CC8471FF94C09944A9AAC /* ContryCodeModel.swift */; };
+		82F0C96A9A9637AB6F4E7C6F3D6F4A87 /* CallValidationSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35868B3BA23BFFECBEE815F858C5E744 /* CallValidationSetUp.swift */; };
+		8D4A95ECE48A75FFF283B0C2A5AB2CDC /* CountryCodeModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E7AB1A4D9FB200CEB87FF7E656A658 /* CountryCodeModelView.swift */; };
+		98825237AF6C2DF168687B41EA21F172 /* CallHandleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C0F4B5C4EE665636D2D78C44D39C2F4 /* CallHandleView.swift */; };
+		9F039D2FE539E10CE5A2DE45159B8B58 /* unknow.png in Sources */ = {isa = PBXBuildFile; fileRef = 45372A4B2854F306BB95298051A5576B /* unknow.png */; };
+		A13E15392B35B7E200AA9C90 /* audio.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B2326B62E42E4AC2A00C86CDB18162D /* audio.png */; };
+		A13E153A2B35B7E600AA9C90 /* call.png in Resources */ = {isa = PBXBuildFile; fileRef = E7175B0EC081560C8812DB6D5FD66B44 /* call.png */; };
+		A13E153B2B35B7FB00AA9C90 /* cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = C40DE8C87C21BA28F584A41708CCCD17 /* cancel.png */; };
+		A13E153C2B35B7FE00AA9C90 /* checked.png in Resources */ = {isa = PBXBuildFile; fileRef = 78594A53E9B65E4D512BA2EEA93DE77E /* checked.png */; };
+		A13E153D2B35B80000AA9C90 /* email.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A58CB89A5AC5F8441A35EC905CE9AC7 /* email.png */; };
+		A13E153E2B35B80300AA9C90 /* hangUp.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ED74B7268EE6D199AEC0A74947A0926 /* hangUp.png */; };
+		A13E153F2B35B80600AA9C90 /* keypad.png in Resources */ = {isa = PBXBuildFile; fileRef = F6E6FB86BBF6FE7B68451826AE40CDC1 /* keypad.png */; };
+		A13E15402B35B80800AA9C90 /* mute.png in Resources */ = {isa = PBXBuildFile; fileRef = 65A0418844CDC539296DB604D350F727 /* mute.png */; };
+		A13E15412B35B80B00AA9C90 /* sms.png in Resources */ = {isa = PBXBuildFile; fileRef = DB8FA664064599185257B46CD059CBDE /* sms.png */; };
+		A13E15422B35B80D00AA9C90 /* unChecked.png in Resources */ = {isa = PBXBuildFile; fileRef = 2EDA660A2DC8D18FD8DC81A39270EDEB /* unChecked.png */; };
+		A13E15432B35B81100AA9C90 /* unknow.png in Resources */ = {isa = PBXBuildFile; fileRef = 45372A4B2854F306BB95298051A5576B /* unknow.png */; };
+		AD000DDF114B5FFF9353AE0DF7FC3D8B /* checked.png in Sources */ = {isa = PBXBuildFile; fileRef = 78594A53E9B65E4D512BA2EEA93DE77E /* checked.png */; };
+		B05BA5B890DE2D53C6C19048B2EEC6B4 /* SmsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A91405CE57F839A79B943860FE1AF52C /* SmsViewModel.swift */; };
+		B51743B6759ED5822DCD715CC8F2591F /* CallValidationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B965DEE766250D67E1B81482BC1B38D /* CallValidationModel.swift */; };
+		BD9895733885AC99057E205A4EF2A2C1 /* ChannelModePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8681D396EC399895719EAF18E4A843F9 /* ChannelModePage.swift */; };
+		BDB46A11BFD24BA62DDFD7928E3BB844 /* mute.png in Sources */ = {isa = PBXBuildFile; fileRef = 65A0418844CDC539296DB604D350F727 /* mute.png */; };
+		C4E86A53A310FC845F106CF8BF908B12 /* C2CB-iOS-Library-Resources in Resources */ = {isa = PBXBuildFile; fileRef = F824B4254D082D1EA31BB83266B88184 /* C2CB-iOS-Library-Resources */; };
 		C72038C3CE97419C7F74D8CDB1C5DAF0 /* Pods-C2CB-iOS-Library_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C8AB8E97BDC3EF3B4677E0D6B1A6ABD8 /* hangUp.png in Sources */ = {isa = PBXBuildFile; fileRef = 5ABD61048AC3923F2711988BF4EF2C23 /* hangUp.png */; };
-		D9D3CAF5009760EE0B05B0075F4D44EF /* SmsValidationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 649518E39414126BEF7DB04A79991640 /* SmsValidationModel.swift */; };
-		E10CE2C7A5EE40E617677BBD25450B61 /* C2CB-iOS-Library-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D014B904E8A137820CACB66B13912602 /* C2CB-iOS-Library-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CAD60F636F62432CBD5EA0C8B98FD390 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
+		CDBC9F42C17C11DECAE2DF392BD07BBE /* EIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6751F55D202B47905393DB7516C535D1 /* EIColor.swift */; };
+		D2841073AF9722E542AF83B6B646D962 /* CountryCodeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B87AF4175306544AD51C7EF9FAAC2CE /* CountryCodeTableViewCell.swift */; };
 		E2E88CEBDBD2735754C2AE30ED67C4D0 /* Pods-C2CB-iOS-Library_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 522B5319B55E155BBD40EEE4F2A3DC09 /* Pods-C2CB-iOS-Library_Example-dummy.m */; };
-		E5629A8B760C7A82A042AAAAFE4AE713 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119633AAED9B3C53B6E0CAFA731AD96D /* Constant.swift */; };
-		E59143AFC77420D3CD49A76EC4687BBA /* mute.png in Sources */ = {isa = PBXBuildFile; fileRef = B374075A63C73616DC6BA268B4E5E94F /* mute.png */; };
+		E98A121CD6D839B9B51AC0B3A4AABBED /* SmsValidationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C408E5452EA707FF442DAF0CD5E93D3 /* SmsValidationModel.swift */; };
+		EB2394E8AE230B98D7E8D75A13C4E191 /* audio.png in Sources */ = {isa = PBXBuildFile; fileRef = 6B2326B62E42E4AC2A00C86CDB18162D /* audio.png */; };
+		F38B6ACECCB75AAB4D4BF07E739ED9F5 /* SmsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CB19EBDFAC514E24FFC7F97433A2D7 /* SmsViewController.swift */; };
+		F88E6847F63C43B30854198396523F7E /* cancel.png in Sources */ = {isa = PBXBuildFile; fileRef = C40DE8C87C21BA28F584A41708CCCD17 /* cancel.png */; };
+		FA43FCD57325827CFE1543BAD873CAD0 /* hangUp.png in Sources */ = {isa = PBXBuildFile; fileRef = 9ED74B7268EE6D199AEC0A74947A0926 /* hangUp.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		0C75F03173DC16F4E5332ABF235C83C0 /* PBXContainerItemProxy */ = {
+		152636170CE6F4051E236A973F8E9F1B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1AFF963248C86E64D3558F376CF02E1A;
-			remoteInfo = "C2CB-iOS-Library";
+			remoteGlobalIDString = 79D307AD034A5EADCC7419FBF9FE2E71;
+			remoteInfo = "C2CB-iOS-Library-Resources";
 		};
-		14483CB0A4B6711DD253C55CFC8F84ED /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 02C5A35EBD47EEE7CAE81576AD5852BF;
-			remoteInfo = "C2CB-iOS-Library-C2CB-iOS-Library";
-		};
-		51F385D56F544FFA0AFE033E7A6D0D1D /* PBXContainerItemProxy */ = {
+		76C945B77806FF9D41A97AA76F910E18 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 59F9E8102C77E95A1F9A30F6A099E245;
 			remoteInfo = "Pods-C2CB-iOS-Library_Example";
 		};
+		C76CF7ABBEA269244F03C05C1525926A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1AFF963248C86E64D3558F376CF02E1A;
+			remoteInfo = "C2CB-iOS-Library";
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		034EFEDC41C296FBFF54ECE0AAEB6753 /* CallValidationModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CallValidationModel.swift; sourceTree = "<group>"; };
-		0536677F69210CA9B1063D29F8C2D8AE /* C2CB-iOS-Library-C2CB-iOS-Library */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "C2CB-iOS-Library-C2CB-iOS-Library"; path = "C2CB-iOS-Library.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
-		077F1BAAB5B3BE39E623D76D23E47F45 /* ResourceBundle-C2CB-iOS-Library-C2CB-iOS-Library-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-C2CB-iOS-Library-C2CB-iOS-Library-Info.plist"; sourceTree = "<group>"; };
+		0C0F4B5C4EE665636D2D78C44D39C2F4 /* CallHandleView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CallHandleView.swift; path = "C2CB-iOS-Library/Classes/CallHandleView.swift"; sourceTree = "<group>"; };
 		0DE8DF7B8A1850660C55807B6F41A32B /* C2CB-iOS-Library */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "C2CB-iOS-Library"; path = C2CB_iOS_Library.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		119633AAED9B3C53B6E0CAFA731AD96D /* Constant.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Constant.swift; path = "C2CB-iOS-Library/Classes/Constant.swift"; sourceTree = "<group>"; };
 		12F692DEF1857FD9D162391A23A7AB1F /* Pods-C2CB-iOS-Library_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Tests-Info.plist"; sourceTree = "<group>"; };
 		192A9107EA453D3614441A832506F998 /* Pods-C2CB-iOS-Library_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-C2CB-iOS-Library_Example-frameworks.sh"; sourceTree = "<group>"; };
-		21DEB2455E7781FD5A65E2D3C08DBBEB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		28D505CA3376754420144C415C17E192 /* SmsHandleView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmsHandleView.swift; path = "C2CB-iOS-Library/Classes/SmsHandleView.swift"; sourceTree = "<group>"; };
-		2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods_C2CB_iOS_Library_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_C2CB_iOS_Library_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2C0FDD720328B4D3AF8C4840B3F84315 /* C2CB-iOS-Library-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "C2CB-iOS-Library-prefix.pch"; sourceTree = "<group>"; };
+		1AB291A89D84188AC602E3C44398676C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		25ACE40AF739F204F54CF4FA1FAEEE13 /* ResourceBundle-Resources-C2CB-iOS-Library-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-Resources-C2CB-iOS-Library-Info.plist"; sourceTree = "<group>"; };
+		2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods-C2CB-iOS-Library_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-C2CB-iOS-Library_Example"; path = Pods_C2CB_iOS_Library_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E7E706E53250DC8AD24E2BF1A08A647 /* Pods-C2CB-iOS-Library_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		3302303A6AB41C86D0F916179EDC6A6C /* CallViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CallViewController.swift; path = "C2CB-iOS-Library/Classes/CallViewController.swift"; sourceTree = "<group>"; };
+		2EDA660A2DC8D18FD8DC81A39270EDEB /* unChecked.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = unChecked.png; sourceTree = "<group>"; };
+		2FB4041638896DA6995BECACC85CBB27 /* Constant.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Constant.swift; path = "C2CB-iOS-Library/Classes/Constant.swift"; sourceTree = "<group>"; };
+		35868B3BA23BFFECBEE815F858C5E744 /* CallValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CallValidationSetUp.swift; sourceTree = "<group>"; };
 		35AA39C62E68A53F131C35DF01B31C56 /* Pods-C2CB-iOS-Library_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		3695322C1F283378F32C6A7BB942E02E /* call.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = call.png; sourceTree = "<group>"; };
-		3A824EC0CFF01E50DBF97FFA07614E2D /* unChecked.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = unChecked.png; sourceTree = "<group>"; };
 		3B3ADCE03C22CF9BFC1A56C9F576DFE5 /* Pods-C2CB-iOS-Library_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.release.xcconfig"; sourceTree = "<group>"; };
+		3CB4C2943AC828F4F30BA2927EE89569 /* GradientView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GradientView.swift; path = "C2CB-iOS-Library/Classes/GradientView.swift"; sourceTree = "<group>"; };
 		3D49FAB9E1939792ABB06C61852FBF2A /* Pods-C2CB-iOS-Library_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		3E099E3D1B7BDBFFF01CAF8B2A69F35E /* Pods-C2CB-iOS-Library_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-C2CB-iOS-Library_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		3F87762A433907E6A10EE25ED3BF9E47 /* SMSValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SMSValidationSetUp.swift; sourceTree = "<group>"; };
+		45372A4B2854F306BB95298051A5576B /* unknow.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = unknow.png; sourceTree = "<group>"; };
 		466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-C2CB-iOS-Library_Tests-dummy.m"; sourceTree = "<group>"; };
-		51051E94F60E1733B1F838D2D3C4D1F6 /* C2CB-iOS-Library-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "C2CB-iOS-Library-Info.plist"; sourceTree = "<group>"; };
+		48C17EF8F14B539B01018F40E27660B6 /* C2CB-iOS-Library-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "C2CB-iOS-Library-prefix.pch"; sourceTree = "<group>"; };
+		51253A1D6B17D015CCECA430C02F0862 /* C2CB-iOS-Library-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "C2CB-iOS-Library-Info.plist"; sourceTree = "<group>"; };
 		522B5319B55E155BBD40EEE4F2A3DC09 /* Pods-C2CB-iOS-Library_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-C2CB-iOS-Library_Example-dummy.m"; sourceTree = "<group>"; };
-		56E9822098D4E23FD6D041347142C6A4 /* Helper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Helper.swift; path = "C2CB-iOS-Library/Classes/Helper.swift"; sourceTree = "<group>"; };
-		584A5ED0BA4C9292B90F707B3A96B432 /* EmailValidationModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EmailValidationModel.swift; sourceTree = "<group>"; };
-		5A0B126632E69A91C6F0BC2F3124971D /* CallHandleView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CallHandleView.swift; path = "C2CB-iOS-Library/Classes/CallHandleView.swift"; sourceTree = "<group>"; };
-		5A6EF9BEA1A79255DBA5AD7786021318 /* Alerts.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Alerts.swift; path = "C2CB-iOS-Library/Classes/Alerts.swift"; sourceTree = "<group>"; };
-		5ABD61048AC3923F2711988BF4EF2C23 /* hangUp.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = hangUp.png; sourceTree = "<group>"; };
-		5EAF843F03E15D9AB34503E0B9300C05 /* unknow.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = unknow.png; sourceTree = "<group>"; };
-		5F11AB9B687B09789CFE251141356F58 /* C2CB-iOS-Library.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.debug.xcconfig"; sourceTree = "<group>"; };
-		649518E39414126BEF7DB04A79991640 /* SmsValidationModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SmsValidationModel.swift; sourceTree = "<group>"; };
+		52B47E837587FDF8AE143374CE917126 /* IBDesignableFiles.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBDesignableFiles.swift; path = "C2CB-iOS-Library/Classes/IBDesignableFiles.swift"; sourceTree = "<group>"; };
+		5547A62C4840FFF495D2D2242ED171A4 /* EmailValidationModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EmailValidationModel.swift; sourceTree = "<group>"; };
+		57A33B84130CF493B067BACDB952A30B /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "C2CB-iOS-Library.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5824D6559DD47CBB8251A8911EBF5C9D /* EmailValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EmailValidationSetUp.swift; sourceTree = "<group>"; };
+		5B87AF4175306544AD51C7EF9FAAC2CE /* CountryCodeTableViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CountryCodeTableViewCell.swift; sourceTree = "<group>"; };
+		65A0418844CDC539296DB604D350F727 /* mute.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = mute.png; sourceTree = "<group>"; };
+		65CB19EBDFAC514E24FFC7F97433A2D7 /* SmsViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmsViewController.swift; path = "C2CB-iOS-Library/Classes/SmsViewController.swift"; sourceTree = "<group>"; };
+		6751F55D202B47905393DB7516C535D1 /* EIColor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EIColor.swift; path = "C2CB-iOS-Library/Classes/EIColor.swift"; sourceTree = "<group>"; };
 		68591176D5368E65D60DF9322FF54094 /* Pods-C2CB-iOS-Library_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Example.modulemap"; sourceTree = "<group>"; };
-		6E307A58CCB8EE8FACF785E5B019B056 /* cancel.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
+		6A58CB89A5AC5F8441A35EC905CE9AC7 /* email.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = email.png; sourceTree = "<group>"; };
+		6B2326B62E42E4AC2A00C86CDB18162D /* audio.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = audio.png; sourceTree = "<group>"; };
+		6B965DEE766250D67E1B81482BC1B38D /* CallValidationModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CallValidationModel.swift; sourceTree = "<group>"; };
 		6FA24A3274F76A4D6B52D219CCAF64C9 /* Pods-C2CB-iOS-Library_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Example-Info.plist"; sourceTree = "<group>"; };
-		71E2448EDD15FEEE188AA4CD9738BE93 /* sms.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = sms.png; sourceTree = "<group>"; };
-		7695AB322FFE6DFB051162D976B10505 /* email.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = email.png; sourceTree = "<group>"; };
-		793DF05E0CE361C61CEE2D008E32375E /* ProgressHud.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgressHud.swift; path = "C2CB-iOS-Library/Classes/ProgressHud.swift"; sourceTree = "<group>"; };
-		90F389B5F7816174B8DDB5CFCCED63A2 /* SmsViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmsViewModel.swift; path = "C2CB-iOS-Library/Classes/SmsViewModel.swift"; sourceTree = "<group>"; };
-		925076D08E4DB1F249D8791B30AF2347 /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "C2CB-iOS-Library.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		97BDBD9EC4C86C59771BA61A68E3AC7D /* C2CB-iOS-Library.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "C2CB-iOS-Library.modulemap"; sourceTree = "<group>"; };
+		78594A53E9B65E4D512BA2EEA93DE77E /* checked.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = checked.png; sourceTree = "<group>"; };
+		7AAD140AADED9F46A27A81903E3F8E7E /* BaseViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		7C408E5452EA707FF442DAF0CD5E93D3 /* SmsValidationModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SmsValidationModel.swift; sourceTree = "<group>"; };
+		8681D396EC399895719EAF18E4A843F9 /* ChannelModePage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ChannelModePage.swift; sourceTree = "<group>"; };
+		8B6CD60BBCF42A358FAA09A4F34C22E6 /* Alerts.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Alerts.swift; path = "C2CB-iOS-Library/Classes/Alerts.swift"; sourceTree = "<group>"; };
+		8FF7F96587057605DCDA39173FFB0328 /* C2CB-iOS-Library.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "C2CB-iOS-Library.modulemap"; sourceTree = "<group>"; };
+		9452EFE2D156B120C6B16AF18796FE65 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		9A391E308AA0A0F33211A42155F380BB /* SmsHandleView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmsHandleView.swift; path = "C2CB-iOS-Library/Classes/SmsHandleView.swift"; sourceTree = "<group>"; };
+		9BED602A36C1B42F10A01FC0E3FC3E51 /* ProgressHud.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ProgressHud.swift; path = "C2CB-iOS-Library/Classes/ProgressHud.swift"; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E0C48C8ADB51A72BBEEBE7D8AB92683 /* SMSValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SMSValidationSetUp.swift; sourceTree = "<group>"; };
-		A0BF45DA18BA1F45BB4262CEA42F977B /* EIColor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = EIColor.swift; path = "C2CB-iOS-Library/Classes/EIColor.swift"; sourceTree = "<group>"; };
-		A124FE362B29F680007AFE9C /* CountryCodeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CountryCodeViewController.swift; path = "../../C2CB-iOS-Library/Classes/CountryCode/CountryCodeViewController.swift"; sourceTree = "<group>"; };
-		A124FE382B29F698007AFE9C /* ContryCodeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContryCodeModel.swift; path = "../../C2CB-iOS-Library/Classes/CountryCode/ContryCodeModel.swift"; sourceTree = "<group>"; };
-		A12BF9B02B32D1240042DA36 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BaseViewController.swift; path = "../../C2CB-iOS-Library/Classes/BaseViewController/BaseViewController.swift"; sourceTree = "<group>"; };
-		A1404B362B2B0A0900290FFA /* CountryCodeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CountryCodeTableViewCell.swift; path = "../../C2CB-iOS-Library/Classes/CountryCode/CountryCodeTableViewCell.swift"; sourceTree = "<group>"; };
-		A1404B382B2B131500290FFA /* CountryCodeModelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CountryCodeModelView.swift; path = "../../C2CB-iOS-Library/Classes/CountryCode/CountryCodeModelView.swift"; sourceTree = "<group>"; };
-		A1404B3A2B2B358D00290FFA /* ChannelModePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ChannelModePage.swift; path = "../../C2CB-iOS-Library/Classes/ChannelModelDetails/ChannelModePage.swift"; sourceTree = "<group>"; };
-		A602EDD692D03C625BFE4FA4D99F1D66 /* keypad.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = keypad.png; sourceTree = "<group>"; };
+		9ED74B7268EE6D199AEC0A74947A0926 /* hangUp.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = hangUp.png; sourceTree = "<group>"; };
+		A7731DEC24E58B3AF941A5558BB8EEEE /* C2CB-iOS-Library.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.debug.xcconfig"; sourceTree = "<group>"; };
 		A7E09460C76092E773DF1A65A641CDD4 /* Pods-C2CB-iOS-Library_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		A861DA22BD5B81167A9A5D2825904A8B /* C2CB-iOS-Library-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "C2CB-iOS-Library-dummy.m"; sourceTree = "<group>"; };
-		B374075A63C73616DC6BA268B4E5E94F /* mute.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = mute.png; sourceTree = "<group>"; };
-		C2B03CB1A99082597D41662B052FCD61 /* C2CB-iOS-Library.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.release.xcconfig"; sourceTree = "<group>"; };
+		A91405CE57F839A79B943860FE1AF52C /* SmsViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmsViewModel.swift; path = "C2CB-iOS-Library/Classes/SmsViewModel.swift"; sourceTree = "<group>"; };
+		B4C31E417250B72E3727EF2B63044725 /* APIConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = APIConfig.swift; path = "C2CB-iOS-Library/Classes/APIConfig.swift"; sourceTree = "<group>"; };
+		B7F6DA8F687AE47877C41E8E3AFCBC6B /* Helper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Helper.swift; path = "C2CB-iOS-Library/Classes/Helper.swift"; sourceTree = "<group>"; };
+		C40DE8C87C21BA28F584A41708CCCD17 /* cancel.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
+		C612287CA765A8DCF5C432564872F365 /* C2CB-iOS-Library-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "C2CB-iOS-Library-umbrella.h"; sourceTree = "<group>"; };
 		CA980E4F18C594F7A72D2606425A8FE3 /* Pods-C2CB-iOS-Library_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Tests.modulemap"; sourceTree = "<group>"; };
-		CE8241641E9F7938A15E18EB38244426 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		D014B904E8A137820CACB66B13912602 /* C2CB-iOS-Library-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "C2CB-iOS-Library-umbrella.h"; sourceTree = "<group>"; };
+		CC656589056B5346C3792E07F111C7E5 /* CountryCodeViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CountryCodeViewController.swift; sourceTree = "<group>"; };
+		D109861C149E5301473BD05D5924E7D7 /* ApiParaKey.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ApiParaKey.swift; path = "C2CB-iOS-Library/Classes/ApiParaKey.swift"; sourceTree = "<group>"; };
 		D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		D6227C3AA70F842C4AE8BBBF211F853D /* APIConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = APIConfig.swift; path = "C2CB-iOS-Library/Classes/APIConfig.swift"; sourceTree = "<group>"; };
 		D6817CC62EEE648F5D1D13E41DE6DA81 /* Pods-C2CB-iOS-Library_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-C2CB-iOS-Library_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		D70D5AE28B4C7A0BFB780C63E7D8EED7 /* audio.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = audio.png; sourceTree = "<group>"; };
-		D7EB0C2084584C50BDDAA4E6FAB3DA3D /* SmsViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SmsViewController.swift; path = "C2CB-iOS-Library/Classes/SmsViewController.swift"; sourceTree = "<group>"; };
 		D87DB28751D172D637B0F05271939367 /* Pods-C2CB-iOS-Library_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		DB8FA664064599185257B46CD059CBDE /* sms.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = sms.png; sourceTree = "<group>"; };
 		DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-C2CB-iOS-Library_Example-umbrella.h"; sourceTree = "<group>"; };
-		E16496FA5299A7C5176CB6A6B5CBF6DF /* IBDesignableFiles.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = IBDesignableFiles.swift; path = "C2CB-iOS-Library/Classes/IBDesignableFiles.swift"; sourceTree = "<group>"; };
-		E18A514ED8469CCA520DAA71E9A94B4A /* EmailValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EmailValidationSetUp.swift; sourceTree = "<group>"; };
-		E845D962375F8EF55B059DCFBF39326D /* GradientView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = GradientView.swift; path = "C2CB-iOS-Library/Classes/GradientView.swift"; sourceTree = "<group>"; };
-		E9204DF62F32C9ABDFF3075C5BA201B5 /* CallValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CallValidationSetUp.swift; sourceTree = "<group>"; };
-		E93EFDBA94B8A9FE4C79A1D3C67B9CB2 /* checked.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = checked.png; sourceTree = "<group>"; };
+		E1BA58C2182A9C8DF21737C3AB7E847E /* CallViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CallViewController.swift; path = "C2CB-iOS-Library/Classes/CallViewController.swift"; sourceTree = "<group>"; };
+		E6E7AB1A4D9FB200CEB87FF7E656A658 /* CountryCodeModelView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CountryCodeModelView.swift; sourceTree = "<group>"; };
+		E7175B0EC081560C8812DB6D5FD66B44 /* call.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = call.png; sourceTree = "<group>"; };
 		EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods_C2CB_iOS_Library_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_C2CB_iOS_Library_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EC8CDF0674053AD211187277096D5D48 /* C2CB-iOS-Library.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.release.xcconfig"; sourceTree = "<group>"; };
+		EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods-C2CB-iOS-Library_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-C2CB-iOS-Library_Tests"; path = Pods_C2CB_iOS_Library_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F16E722538BA618740F2A6CA5F27A990 /* C2CB-iOS-Library-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "C2CB-iOS-Library-dummy.m"; sourceTree = "<group>"; };
+		F6E6FB86BBF6FE7B68451826AE40CDC1 /* keypad.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = keypad.png; sourceTree = "<group>"; };
+		F824B4254D082D1EA31BB83266B88184 /* C2CB-iOS-Library-Resources */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "C2CB-iOS-Library-Resources"; path = Resources.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		F91682EB730CC8471FF94C09944A9AAC /* ContryCodeModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ContryCodeModel.swift; sourceTree = "<group>"; };
 		FB09D3EB2C8565D005C21EE6B1B5B691 /* Pods-C2CB-iOS-Library_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-C2CB-iOS-Library_Tests-umbrella.h"; sourceTree = "<group>"; };
-		FDB37E02060E60513FBF86AAFA4894A5 /* ApiParaKey.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ApiParaKey.swift; path = "C2CB-iOS-Library/Classes/ApiParaKey.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,16 +176,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		66946342FE40DBF301E92E9D51025188 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				5FABDACDA548C3A8489081A3A56F06EF /* Foundation.framework in Frameworks */,
-				0D7DC6485B353875DA6116C5920DCBD3 /* UIKit.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		88C53C70CEE88E222DE0B725576E0DC4 /* Frameworks */ = {
+		93AE340B556D9C7E6DCFC1A5060ECB52 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -189,6 +191,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E2285B16DF754C59D9F4A66D62EC5D50 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CAD60F636F62432CBD5EA0C8B98FD390 /* Foundation.framework in Frameworks */,
+				4B01A60E0694309D64B6316AF26E688B /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -200,6 +211,16 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		4CA4FF3F6A33FAFC6205E18745482EAE /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				57A33B84130CF493B067BACDB952A30B /* C2CB-iOS-Library.podspec */,
+				9452EFE2D156B120C6B16AF18796FE65 /* LICENSE */,
+				1AB291A89D84188AC602E3C44398676C /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		59DA5C1F72E1D5BABC43EACBA672C3BA /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -209,106 +230,53 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		5FBF715F9F93DBDFB066BB2757EC92CA /* SMSValidationFormView */ = {
+		5CFC8E9F159B6167F6D686B394C825CD /* C2CB-iOS-Library */ = {
 			isa = PBXGroup;
 			children = (
-				649518E39414126BEF7DB04A79991640 /* SmsValidationModel.swift */,
-				9E0C48C8ADB51A72BBEEBE7D8AB92683 /* SMSValidationSetUp.swift */,
-			);
-			name = SMSValidationFormView;
-			path = "C2CB-iOS-Library/Classes/SMSValidationFormView";
-			sourceTree = "<group>";
-		};
-		648B7FB061DC466D8422C7ABF713409E /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				D70D5AE28B4C7A0BFB780C63E7D8EED7 /* audio.png */,
-				3695322C1F283378F32C6A7BB942E02E /* call.png */,
-				6E307A58CCB8EE8FACF785E5B019B056 /* cancel.png */,
-				E93EFDBA94B8A9FE4C79A1D3C67B9CB2 /* checked.png */,
-				7695AB322FFE6DFB051162D976B10505 /* email.png */,
-				5ABD61048AC3923F2711988BF4EF2C23 /* hangUp.png */,
-				A602EDD692D03C625BFE4FA4D99F1D66 /* keypad.png */,
-				B374075A63C73616DC6BA268B4E5E94F /* mute.png */,
-				71E2448EDD15FEEE188AA4CD9738BE93 /* sms.png */,
-				3A824EC0CFF01E50DBF97FFA07614E2D /* unChecked.png */,
-				5EAF843F03E15D9AB34503E0B9300C05 /* unknow.png */,
-			);
-			name = Resources;
-			path = "C2CB-iOS-Library/Classes/Resources";
-			sourceTree = "<group>";
-		};
-		65D53967BF01D272A2482CFA79CE530E /* C2CB-iOS-Library */ = {
-			isa = PBXGroup;
-			children = (
-				5A6EF9BEA1A79255DBA5AD7786021318 /* Alerts.swift */,
-				D6227C3AA70F842C4AE8BBBF211F853D /* APIConfig.swift */,
-				FDB37E02060E60513FBF86AAFA4894A5 /* ApiParaKey.swift */,
-				5A0B126632E69A91C6F0BC2F3124971D /* CallHandleView.swift */,
-				3302303A6AB41C86D0F916179EDC6A6C /* CallViewController.swift */,
-				119633AAED9B3C53B6E0CAFA731AD96D /* Constant.swift */,
-				A0BF45DA18BA1F45BB4262CEA42F977B /* EIColor.swift */,
-				E845D962375F8EF55B059DCFBF39326D /* GradientView.swift */,
-				56E9822098D4E23FD6D041347142C6A4 /* Helper.swift */,
-				E16496FA5299A7C5176CB6A6B5CBF6DF /* IBDesignableFiles.swift */,
-				793DF05E0CE361C61CEE2D008E32375E /* ProgressHud.swift */,
-				28D505CA3376754420144C415C17E192 /* SmsHandleView.swift */,
-				D7EB0C2084584C50BDDAA4E6FAB3DA3D /* SmsViewController.swift */,
-				90F389B5F7816174B8DDB5CFCCED63A2 /* SmsViewModel.swift */,
-				C15348AA3FC5C1FB6681E70F96F1CA4E /* CallValidationForm */,
-				779DB01FB2B6A07358BE84E2B785C1C9 /* EmailValidationForm */,
-				96522238AE81E7369D45398F2E89E9DD /* Pod */,
-				648B7FB061DC466D8422C7ABF713409E /* Resources */,
-				5FBF715F9F93DBDFB066BB2757EC92CA /* SMSValidationFormView */,
-				DF2733293714F8B8C70671FA0C870D0C /* Support Files */,
+				8B6CD60BBCF42A358FAA09A4F34C22E6 /* Alerts.swift */,
+				B4C31E417250B72E3727EF2B63044725 /* APIConfig.swift */,
+				D109861C149E5301473BD05D5924E7D7 /* ApiParaKey.swift */,
+				0C0F4B5C4EE665636D2D78C44D39C2F4 /* CallHandleView.swift */,
+				E1BA58C2182A9C8DF21737C3AB7E847E /* CallViewController.swift */,
+				2FB4041638896DA6995BECACC85CBB27 /* Constant.swift */,
+				6751F55D202B47905393DB7516C535D1 /* EIColor.swift */,
+				3CB4C2943AC828F4F30BA2927EE89569 /* GradientView.swift */,
+				B7F6DA8F687AE47877C41E8E3AFCBC6B /* Helper.swift */,
+				52B47E837587FDF8AE143374CE917126 /* IBDesignableFiles.swift */,
+				9BED602A36C1B42F10A01FC0E3FC3E51 /* ProgressHud.swift */,
+				9A391E308AA0A0F33211A42155F380BB /* SmsHandleView.swift */,
+				65CB19EBDFAC514E24FFC7F97433A2D7 /* SmsViewController.swift */,
+				A91405CE57F839A79B943860FE1AF52C /* SmsViewModel.swift */,
+				BBF5985B02EBB25FBB9932E8E04BCD24 /* BaseViewController */,
+				E017679CEB71DADAF1007F0AE9EB8FC5 /* CallValidationForm */,
+				D933C1E7C37ACAE004120E635A3DBC44 /* ChannelModelDetails */,
+				C075B4C96A2D8B279A05B7A51724251E /* CountryCode */,
+				76D8BBDA4E17F9413E07793210919A53 /* EmailValidationForm */,
+				4CA4FF3F6A33FAFC6205E18745482EAE /* Pod */,
+				BD6D4862A417FEE90F1F251C584077A8 /* Resources */,
+				E091D945C1ACC30752AE1483D1E87A75 /* SMSValidationFormView */,
+				E5316E3444D70684B3F49C3DB60A9164 /* Support Files */,
 			);
 			name = "C2CB-iOS-Library";
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		779DB01FB2B6A07358BE84E2B785C1C9 /* EmailValidationForm */ = {
+		76D8BBDA4E17F9413E07793210919A53 /* EmailValidationForm */ = {
 			isa = PBXGroup;
 			children = (
-				584A5ED0BA4C9292B90F707B3A96B432 /* EmailValidationModel.swift */,
-				E18A514ED8469CCA520DAA71E9A94B4A /* EmailValidationSetUp.swift */,
+				5547A62C4840FFF495D2D2242ED171A4 /* EmailValidationModel.swift */,
+				5824D6559DD47CBB8251A8911EBF5C9D /* EmailValidationSetUp.swift */,
 			);
 			name = EmailValidationForm;
 			path = "C2CB-iOS-Library/Classes/EmailValidationForm";
 			sourceTree = "<group>";
 		};
-		79BA327EC077A2767463C7DF06C8B9B6 /* Products */ = {
+		822755881230F27EFC8A1B73850702D4 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				0DE8DF7B8A1850660C55807B6F41A32B /* C2CB-iOS-Library */,
-				0536677F69210CA9B1063D29F8C2D8AE /* C2CB-iOS-Library-C2CB-iOS-Library */,
-				2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods_C2CB_iOS_Library_Example.framework */,
-				EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods_C2CB_iOS_Library_Tests.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		8BDFE1FA9DC364843682459A8BC38E06 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				65D53967BF01D272A2482CFA79CE530E /* C2CB-iOS-Library */,
-				A124FE362B29F680007AFE9C /* CountryCodeViewController.swift */,
-				A124FE382B29F698007AFE9C /* ContryCodeModel.swift */,
-				A1404B362B2B0A0900290FFA /* CountryCodeTableViewCell.swift */,
-				A1404B382B2B131500290FFA /* CountryCodeModelView.swift */,
-				A1404B3A2B2B358D00290FFA /* ChannelModePage.swift */,
-				A12BF9B02B32D1240042DA36 /* BaseViewController.swift */,
+				5CFC8E9F159B6167F6D686B394C825CD /* C2CB-iOS-Library */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		96522238AE81E7369D45398F2E89E9DD /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				925076D08E4DB1F249D8791B30AF2347 /* C2CB-iOS-Library.podspec */,
-				21DEB2455E7781FD5A65E2D3C08DBBEB /* LICENSE */,
-				CE8241641E9F7938A15E18EB38244426 /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 		9BFA5C70C62003B18D6D2C8451176616 /* Targets Support Files */ = {
@@ -318,6 +286,15 @@
 				BC2D9EB73E1B2B86DC9783219886A2EC /* Pods-C2CB-iOS-Library_Tests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		BBF5985B02EBB25FBB9932E8E04BCD24 /* BaseViewController */ = {
+			isa = PBXGroup;
+			children = (
+				7AAD140AADED9F46A27A81903E3F8E7E /* BaseViewController.swift */,
+			);
+			name = BaseViewController;
+			path = "C2CB-iOS-Library/Classes/BaseViewController";
 			sourceTree = "<group>";
 		};
 		BC2D9EB73E1B2B86DC9783219886A2EC /* Pods-C2CB-iOS-Library_Tests */ = {
@@ -336,41 +313,102 @@
 			path = "Target Support Files/Pods-C2CB-iOS-Library_Tests";
 			sourceTree = "<group>";
 		};
-		C15348AA3FC5C1FB6681E70F96F1CA4E /* CallValidationForm */ = {
+		BD6D4862A417FEE90F1F251C584077A8 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				034EFEDC41C296FBFF54ECE0AAEB6753 /* CallValidationModel.swift */,
-				E9204DF62F32C9ABDFF3075C5BA201B5 /* CallValidationSetUp.swift */,
+				6B2326B62E42E4AC2A00C86CDB18162D /* audio.png */,
+				E7175B0EC081560C8812DB6D5FD66B44 /* call.png */,
+				C40DE8C87C21BA28F584A41708CCCD17 /* cancel.png */,
+				78594A53E9B65E4D512BA2EEA93DE77E /* checked.png */,
+				6A58CB89A5AC5F8441A35EC905CE9AC7 /* email.png */,
+				9ED74B7268EE6D199AEC0A74947A0926 /* hangUp.png */,
+				F6E6FB86BBF6FE7B68451826AE40CDC1 /* keypad.png */,
+				65A0418844CDC539296DB604D350F727 /* mute.png */,
+				DB8FA664064599185257B46CD059CBDE /* sms.png */,
+				2EDA660A2DC8D18FD8DC81A39270EDEB /* unChecked.png */,
+				45372A4B2854F306BB95298051A5576B /* unknow.png */,
 			);
-			name = CallValidationForm;
-			path = "C2CB-iOS-Library/Classes/CallValidationForm";
+			name = Resources;
+			path = "C2CB-iOS-Library/Classes/Resources";
+			sourceTree = "<group>";
+		};
+		C075B4C96A2D8B279A05B7A51724251E /* CountryCode */ = {
+			isa = PBXGroup;
+			children = (
+				F91682EB730CC8471FF94C09944A9AAC /* ContryCodeModel.swift */,
+				E6E7AB1A4D9FB200CEB87FF7E656A658 /* CountryCodeModelView.swift */,
+				5B87AF4175306544AD51C7EF9FAAC2CE /* CountryCodeTableViewCell.swift */,
+				CC656589056B5346C3792E07F111C7E5 /* CountryCodeViewController.swift */,
+			);
+			name = CountryCode;
+			path = "C2CB-iOS-Library/Classes/CountryCode";
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				8BDFE1FA9DC364843682459A8BC38E06 /* Development Pods */,
+				822755881230F27EFC8A1B73850702D4 /* Development Pods */,
 				1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */,
-				79BA327EC077A2767463C7DF06C8B9B6 /* Products */,
+				F55802E32202973DA1551026DE5B8EAE /* Products */,
 				9BFA5C70C62003B18D6D2C8451176616 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		DF2733293714F8B8C70671FA0C870D0C /* Support Files */ = {
+		D933C1E7C37ACAE004120E635A3DBC44 /* ChannelModelDetails */ = {
 			isa = PBXGroup;
 			children = (
-				97BDBD9EC4C86C59771BA61A68E3AC7D /* C2CB-iOS-Library.modulemap */,
-				A861DA22BD5B81167A9A5D2825904A8B /* C2CB-iOS-Library-dummy.m */,
-				51051E94F60E1733B1F838D2D3C4D1F6 /* C2CB-iOS-Library-Info.plist */,
-				2C0FDD720328B4D3AF8C4840B3F84315 /* C2CB-iOS-Library-prefix.pch */,
-				D014B904E8A137820CACB66B13912602 /* C2CB-iOS-Library-umbrella.h */,
-				5F11AB9B687B09789CFE251141356F58 /* C2CB-iOS-Library.debug.xcconfig */,
-				C2B03CB1A99082597D41662B052FCD61 /* C2CB-iOS-Library.release.xcconfig */,
-				077F1BAAB5B3BE39E623D76D23E47F45 /* ResourceBundle-C2CB-iOS-Library-C2CB-iOS-Library-Info.plist */,
+				8681D396EC399895719EAF18E4A843F9 /* ChannelModePage.swift */,
+			);
+			name = ChannelModelDetails;
+			path = "C2CB-iOS-Library/Classes/ChannelModelDetails";
+			sourceTree = "<group>";
+		};
+		E017679CEB71DADAF1007F0AE9EB8FC5 /* CallValidationForm */ = {
+			isa = PBXGroup;
+			children = (
+				6B965DEE766250D67E1B81482BC1B38D /* CallValidationModel.swift */,
+				35868B3BA23BFFECBEE815F858C5E744 /* CallValidationSetUp.swift */,
+			);
+			name = CallValidationForm;
+			path = "C2CB-iOS-Library/Classes/CallValidationForm";
+			sourceTree = "<group>";
+		};
+		E091D945C1ACC30752AE1483D1E87A75 /* SMSValidationFormView */ = {
+			isa = PBXGroup;
+			children = (
+				7C408E5452EA707FF442DAF0CD5E93D3 /* SmsValidationModel.swift */,
+				3F87762A433907E6A10EE25ED3BF9E47 /* SMSValidationSetUp.swift */,
+			);
+			name = SMSValidationFormView;
+			path = "C2CB-iOS-Library/Classes/SMSValidationFormView";
+			sourceTree = "<group>";
+		};
+		E5316E3444D70684B3F49C3DB60A9164 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				8FF7F96587057605DCDA39173FFB0328 /* C2CB-iOS-Library.modulemap */,
+				F16E722538BA618740F2A6CA5F27A990 /* C2CB-iOS-Library-dummy.m */,
+				51253A1D6B17D015CCECA430C02F0862 /* C2CB-iOS-Library-Info.plist */,
+				48C17EF8F14B539B01018F40E27660B6 /* C2CB-iOS-Library-prefix.pch */,
+				C612287CA765A8DCF5C432564872F365 /* C2CB-iOS-Library-umbrella.h */,
+				A7731DEC24E58B3AF941A5558BB8EEEE /* C2CB-iOS-Library.debug.xcconfig */,
+				EC8CDF0674053AD211187277096D5D48 /* C2CB-iOS-Library.release.xcconfig */,
+				25ACE40AF739F204F54CF4FA1FAEEE13 /* ResourceBundle-Resources-C2CB-iOS-Library-Info.plist */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/C2CB-iOS-Library";
+			sourceTree = "<group>";
+		};
+		F55802E32202973DA1551026DE5B8EAE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0DE8DF7B8A1850660C55807B6F41A32B /* C2CB-iOS-Library */,
+				F824B4254D082D1EA31BB83266B88184 /* C2CB-iOS-Library-Resources */,
+				2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods-C2CB-iOS-Library_Example */,
+				EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods-C2CB-iOS-Library_Tests */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		F8CF629B05ECD716949F8D4A7DF2B60D /* Pods-C2CB-iOS-Library_Example */ = {
@@ -401,11 +439,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9F1FCBAF30D116E2329EA5D478F8E34F /* Headers */ = {
+		D1967BF211C79BD040F977C0363EE889 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E10CE2C7A5EE40E617677BBD25450B61 /* C2CB-iOS-Library-umbrella.h in Headers */,
+				54D82AFFF066A2210F089F058CAEFA69 /* C2CB-iOS-Library-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,36 +458,19 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		02C5A35EBD47EEE7CAE81576AD5852BF /* C2CB-iOS-Library-C2CB-iOS-Library */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = E99E2850E956D08E321E0C7928BEA6F7 /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library-C2CB-iOS-Library" */;
-			buildPhases = (
-				4B717151BB9A8BD98C63A49D87D0E03F /* Sources */,
-				88C53C70CEE88E222DE0B725576E0DC4 /* Frameworks */,
-				D9C66EB2BD5466FF121035F2AB2AF2C3 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "C2CB-iOS-Library-C2CB-iOS-Library";
-			productName = "C2CB-iOS-Library";
-			productReference = 0536677F69210CA9B1063D29F8C2D8AE /* C2CB-iOS-Library-C2CB-iOS-Library */;
-			productType = "com.apple.product-type.bundle";
-		};
 		1AFF963248C86E64D3558F376CF02E1A /* C2CB-iOS-Library */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 50AA60EFDAD31D5C1A21EF6097539C01 /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library" */;
+			buildConfigurationList = 10583D28F2D89B84E5116198FD543AC1 /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library" */;
 			buildPhases = (
-				9F1FCBAF30D116E2329EA5D478F8E34F /* Headers */,
-				7F6152163B468053498C988D887F4F8C /* Sources */,
-				66946342FE40DBF301E92E9D51025188 /* Frameworks */,
-				1D904B41AE42193B5C725C9BCFAAF295 /* Resources */,
+				D1967BF211C79BD040F977C0363EE889 /* Headers */,
+				C3E05CA7E0A0C1001090C20DA0FBBF20 /* Sources */,
+				E2285B16DF754C59D9F4A66D62EC5D50 /* Frameworks */,
+				911F4396C630BE5D2944B06A365147F8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				688F4CB93CA79DCFE7EEF4E0470756F6 /* PBXTargetDependency */,
+				866AAE6C44843BB756E2233CAB566EFE /* PBXTargetDependency */,
 			);
 			name = "C2CB-iOS-Library";
 			productName = C2CB_iOS_Library;
@@ -468,11 +489,11 @@
 			buildRules = (
 			);
 			dependencies = (
-				BFD1B638C85F58E9A0031908937B6C29 /* PBXTargetDependency */,
+				929546C70EEF043FBF080F6C2C2AED4C /* PBXTargetDependency */,
 			);
 			name = "Pods-C2CB-iOS-Library_Tests";
 			productName = Pods_C2CB_iOS_Library_Tests;
-			productReference = EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods_C2CB_iOS_Library_Tests.framework */;
+			productReference = EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods-C2CB-iOS-Library_Tests */;
 			productType = "com.apple.product-type.framework";
 		};
 		59F9E8102C77E95A1F9A30F6A099E245 /* Pods-C2CB-iOS-Library_Example */ = {
@@ -487,12 +508,29 @@
 			buildRules = (
 			);
 			dependencies = (
-				50241E650EDE108748A0A96B49DDC159 /* PBXTargetDependency */,
+				364EB4EE26DDF5163D8B402BF21EACA4 /* PBXTargetDependency */,
 			);
 			name = "Pods-C2CB-iOS-Library_Example";
 			productName = Pods_C2CB_iOS_Library_Example;
-			productReference = 2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods_C2CB_iOS_Library_Example.framework */;
+			productReference = 2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods-C2CB-iOS-Library_Example */;
 			productType = "com.apple.product-type.framework";
+		};
+		79D307AD034A5EADCC7419FBF9FE2E71 /* C2CB-iOS-Library-Resources */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7360254D044289AC6FF2710C0421D30F /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library-Resources" */;
+			buildPhases = (
+				D3468C3B04B04F265984A7C05AD03E79 /* Sources */,
+				93AE340B556D9C7E6DCFC1A5060ECB52 /* Frameworks */,
+				2EC5F8127585C545CE342F4B3FAB4141 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "C2CB-iOS-Library-Resources";
+			productName = Resources;
+			productReference = F824B4254D082D1EA31BB83266B88184 /* C2CB-iOS-Library-Resources */;
+			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
 
@@ -512,12 +550,12 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 79BA327EC077A2767463C7DF06C8B9B6 /* Products */;
+			productRefGroup = F55802E32202973DA1551026DE5B8EAE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
 				1AFF963248C86E64D3558F376CF02E1A /* C2CB-iOS-Library */,
-				02C5A35EBD47EEE7CAE81576AD5852BF /* C2CB-iOS-Library-C2CB-iOS-Library */,
+				79D307AD034A5EADCC7419FBF9FE2E71 /* C2CB-iOS-Library-Resources */,
 				59F9E8102C77E95A1F9A30F6A099E245 /* Pods-C2CB-iOS-Library_Example */,
 				2F3C0ED6C832510DAF173B9AAD75578A /* Pods-C2CB-iOS-Library_Tests */,
 			);
@@ -525,14 +563,6 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1D904B41AE42193B5C725C9BCFAAF295 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				641A1AC93C276FA4E0828FC0823065D3 /* C2CB-iOS-Library-C2CB-iOS-Library in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		1E5AC91C3F71925E057A921C36FFB627 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -540,10 +570,29 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D9C66EB2BD5466FF121035F2AB2AF2C3 /* Resources */ = {
+		2EC5F8127585C545CE342F4B3FAB4141 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A13E15412B35B80B00AA9C90 /* sms.png in Resources */,
+				A13E153B2B35B7FB00AA9C90 /* cancel.png in Resources */,
+				A13E153C2B35B7FE00AA9C90 /* checked.png in Resources */,
+				A13E153E2B35B80300AA9C90 /* hangUp.png in Resources */,
+				A13E15392B35B7E200AA9C90 /* audio.png in Resources */,
+				A13E153D2B35B80000AA9C90 /* email.png in Resources */,
+				A13E15432B35B81100AA9C90 /* unknow.png in Resources */,
+				A13E153A2B35B7E600AA9C90 /* call.png in Resources */,
+				A13E15402B35B80800AA9C90 /* mute.png in Resources */,
+				A13E15422B35B80D00AA9C90 /* unChecked.png in Resources */,
+				A13E153F2B35B80600AA9C90 /* keypad.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		911F4396C630BE5D2944B06A365147F8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C4E86A53A310FC845F106CF8BF908B12 /* C2CB-iOS-Library-Resources in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -565,13 +614,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4B717151BB9A8BD98C63A49D87D0E03F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		7836DC11A7FACB5ECEE69AE8C092F5AB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -580,71 +622,78 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7F6152163B468053498C988D887F4F8C /* Sources */ = {
+		C3E05CA7E0A0C1001090C20DA0FBBF20 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				903E0102424D9C47C147403F9FFC3921 /* Alerts.swift in Sources */,
-				C00DE8F2BD259709F501FECCF20EECC6 /* APIConfig.swift in Sources */,
-				1B2FD2B155658FAA830DAECD2A9783B3 /* ApiParaKey.swift in Sources */,
-				7279D42E43356338D4F2687F5A81079C /* audio.png in Sources */,
-				3AE47DB466EFAE51B710CA980BD1B6FC /* C2CB-iOS-Library-dummy.m in Sources */,
-				B1B8FE4AE18BBD199D6453D701FB21A4 /* call.png in Sources */,
-				A1404B372B2B0A0A00290FFA /* CountryCodeTableViewCell.swift in Sources */,
-				45022994FBAAB75A3A701AC309D3EEBC /* CallHandleView.swift in Sources */,
-				A124FE392B29F698007AFE9C /* ContryCodeModel.swift in Sources */,
-				0E11D74BF7DE8318F5F4DA1E6827CF2F /* CallValidationModel.swift in Sources */,
-				1185B2F2738B59934DD9AD17E7089A88 /* CallValidationSetUp.swift in Sources */,
-				1100246743457FC8BF8415508B5121E7 /* CallViewController.swift in Sources */,
-				408844CF46B67CFB37850C10C27DC596 /* cancel.png in Sources */,
-				72BBF7A64BDE286363C4CB54A0C46944 /* checked.png in Sources */,
-				E5629A8B760C7A82A042AAAAFE4AE713 /* Constant.swift in Sources */,
-				258392A86201AA9BF1C088936223CD69 /* EIColor.swift in Sources */,
-				631031E2F0AAF3EC20FE054B7C703443 /* email.png in Sources */,
-				0021A0BB979CAB5A2067BF8617E8EA16 /* EmailValidationModel.swift in Sources */,
-				9B4CC341FAA835608F4F59C775087EF4 /* EmailValidationSetUp.swift in Sources */,
-				69921FBF679BB83CA1515A15C66F6532 /* GradientView.swift in Sources */,
-				C8AB8E97BDC3EF3B4677E0D6B1A6ABD8 /* hangUp.png in Sources */,
-				C246F581FCAA8F223EC776448F2A2884 /* Helper.swift in Sources */,
-				6E8D79AF6530842A87441FA30EAF9548 /* IBDesignableFiles.swift in Sources */,
-				A12BF9B12B32D1240042DA36 /* BaseViewController.swift in Sources */,
-				2FF7D6AF943FD15F2FDFFC0445A0C7DC /* keypad.png in Sources */,
-				E59143AFC77420D3CD49A76EC4687BBA /* mute.png in Sources */,
-				344273108A32C86969BFA0974DBD08F5 /* ProgressHud.swift in Sources */,
-				930B36A3D86528D5B735045CE32799B2 /* sms.png in Sources */,
-				6E1D0CB3DE2376A03E6DC9FB1281F07B /* SmsHandleView.swift in Sources */,
-				D9D3CAF5009760EE0B05B0075F4D44EF /* SmsValidationModel.swift in Sources */,
-				A1404B3B2B2B358D00290FFA /* ChannelModePage.swift in Sources */,
-				064609AC5D8CBB735BDB6A76EE2F7471 /* SMSValidationSetUp.swift in Sources */,
-				9276A22F9702BBA93F97DC815A9090C9 /* SmsViewController.swift in Sources */,
-				973C1FDF91DC2835B286B88D54F074F7 /* SmsViewModel.swift in Sources */,
-				A1404B392B2B131500290FFA /* CountryCodeModelView.swift in Sources */,
-				7A17B63E0D3EE56E40C815D0A1F9DCC9 /* unChecked.png in Sources */,
-				AF9D0AF1519774EFE7764C5EA27B23F0 /* unknow.png in Sources */,
-				A124FE372B29F680007AFE9C /* CountryCodeViewController.swift in Sources */,
+				5612CD0A24D776570FFEB1A5780893DC /* Alerts.swift in Sources */,
+				662798D4EEC49AAFBC9B52DACBC66C8B /* APIConfig.swift in Sources */,
+				4A6F1E733839165CB1596B3AF5ED5A1E /* ApiParaKey.swift in Sources */,
+				EB2394E8AE230B98D7E8D75A13C4E191 /* audio.png in Sources */,
+				56286CC17456FAC7EB510E668EDC7322 /* BaseViewController.swift in Sources */,
+				13E8DDFA790DB3643944E58137A11466 /* C2CB-iOS-Library-dummy.m in Sources */,
+				0552C618B2566A7F5B422E9149B4F35D /* call.png in Sources */,
+				98825237AF6C2DF168687B41EA21F172 /* CallHandleView.swift in Sources */,
+				B51743B6759ED5822DCD715CC8F2591F /* CallValidationModel.swift in Sources */,
+				82F0C96A9A9637AB6F4E7C6F3D6F4A87 /* CallValidationSetUp.swift in Sources */,
+				6256A50CB48145FD2E3987BBC7A8F1A8 /* CallViewController.swift in Sources */,
+				F88E6847F63C43B30854198396523F7E /* cancel.png in Sources */,
+				BD9895733885AC99057E205A4EF2A2C1 /* ChannelModePage.swift in Sources */,
+				AD000DDF114B5FFF9353AE0DF7FC3D8B /* checked.png in Sources */,
+				3BEF24119C679A16F751BBF4C2E46223 /* Constant.swift in Sources */,
+				7C76DAFBCE9963A701673568AFCC6E60 /* ContryCodeModel.swift in Sources */,
+				8D4A95ECE48A75FFF283B0C2A5AB2CDC /* CountryCodeModelView.swift in Sources */,
+				D2841073AF9722E542AF83B6B646D962 /* CountryCodeTableViewCell.swift in Sources */,
+				6845353C3492F6DB90F4D9685DF8850E /* CountryCodeViewController.swift in Sources */,
+				CDBC9F42C17C11DECAE2DF392BD07BBE /* EIColor.swift in Sources */,
+				00960705711DD14F7E1FA68FC1BC2B3C /* email.png in Sources */,
+				77AF59A1C7E2C39324026AE7F6293F08 /* EmailValidationModel.swift in Sources */,
+				3AFB36AD64DC5C29CD2C9478A59C12C6 /* EmailValidationSetUp.swift in Sources */,
+				495CD6BA0C55826B35070C4AC2EC7E5C /* GradientView.swift in Sources */,
+				FA43FCD57325827CFE1543BAD873CAD0 /* hangUp.png in Sources */,
+				2D9AEC15B0DE49656758DC0160DCF787 /* Helper.swift in Sources */,
+				3133AC3416AF649FBE4F421797046046 /* IBDesignableFiles.swift in Sources */,
+				1C1A8F93D6816CB5417D39BA18F0353E /* keypad.png in Sources */,
+				BDB46A11BFD24BA62DDFD7928E3BB844 /* mute.png in Sources */,
+				6FEB80F4938C741855F73F38EE3073F6 /* ProgressHud.swift in Sources */,
+				374AEE31CCADB2C1968564E2FED954C3 /* sms.png in Sources */,
+				743B9F99A42F290FE6D9BE87B654009F /* SmsHandleView.swift in Sources */,
+				E98A121CD6D839B9B51AC0B3A4AABBED /* SmsValidationModel.swift in Sources */,
+				2B1FB4A2FB358F26F7C8ACF935993815 /* SMSValidationSetUp.swift in Sources */,
+				F38B6ACECCB75AAB4D4BF07E739ED9F5 /* SmsViewController.swift in Sources */,
+				B05BA5B890DE2D53C6C19048B2EEC6B4 /* SmsViewModel.swift in Sources */,
+				011431C21A0CD715C2722F0BE3E70AED /* unChecked.png in Sources */,
+				9F039D2FE539E10CE5A2DE45159B8B58 /* unknow.png in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D3468C3B04B04F265984A7C05AD03E79 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		50241E650EDE108748A0A96B49DDC159 /* PBXTargetDependency */ = {
+		364EB4EE26DDF5163D8B402BF21EACA4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "C2CB-iOS-Library";
 			target = 1AFF963248C86E64D3558F376CF02E1A /* C2CB-iOS-Library */;
-			targetProxy = 0C75F03173DC16F4E5332ABF235C83C0 /* PBXContainerItemProxy */;
+			targetProxy = C76CF7ABBEA269244F03C05C1525926A /* PBXContainerItemProxy */;
 		};
-		688F4CB93CA79DCFE7EEF4E0470756F6 /* PBXTargetDependency */ = {
+		866AAE6C44843BB756E2233CAB566EFE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "C2CB-iOS-Library-C2CB-iOS-Library";
-			target = 02C5A35EBD47EEE7CAE81576AD5852BF /* C2CB-iOS-Library-C2CB-iOS-Library */;
-			targetProxy = 14483CB0A4B6711DD253C55CFC8F84ED /* PBXContainerItemProxy */;
+			name = "C2CB-iOS-Library-Resources";
+			target = 79D307AD034A5EADCC7419FBF9FE2E71 /* C2CB-iOS-Library-Resources */;
+			targetProxy = 152636170CE6F4051E236A973F8E9F1B /* PBXContainerItemProxy */;
 		};
-		BFD1B638C85F58E9A0031908937B6C29 /* PBXTargetDependency */ = {
+		929546C70EEF043FBF080F6C2C2AED4C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-C2CB-iOS-Library_Example";
 			target = 59F9E8102C77E95A1F9A30F6A099E245 /* Pods-C2CB-iOS-Library_Example */;
-			targetProxy = 51F385D56F544FFA0AFE033E7A6D0D1D /* PBXContainerItemProxy */;
+			targetProxy = 76C945B77806FF9D41A97AA76F910E18 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -665,7 +714,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -686,22 +735,22 @@
 			};
 			name = Debug;
 		};
-		2956F69C317FA34DBBB26C25CC2A15A0 /* Release */ = {
+		13994FFFEEC88408481F1267E14A3FDB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = C2B03CB1A99082597D41662B052FCD61 /* C2CB-iOS-Library.release.xcconfig */;
+			baseConfigurationReference = A7731DEC24E58B3AF941A5558BB8EEEE /* C2CB-iOS-Library.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGNING_ALLOWED = NO;
 				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/C2CB-iOS-Library";
 				IBSC_MODULE = C2CB_iOS_Library;
-				INFOPLIST_FILE = "Target Support Files/C2CB-iOS-Library/ResourceBundle-C2CB-iOS-Library-C2CB-iOS-Library-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/C2CB-iOS-Library/ResourceBundle-Resources-C2CB-iOS-Library-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_NAME = "C2CB-iOS-Library";
+				PRODUCT_NAME = Resources;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = bundle;
 			};
-			name = Release;
+			name = Debug;
 		};
 		351FC54976D63FFD64BF38B5D691EE69 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -719,7 +768,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -741,22 +790,41 @@
 			};
 			name = Release;
 		};
-		3674177318B1DA6EC4EA3D4862760C50 /* Debug */ = {
+		712A9876FA328F11B623E3EA853A5BEB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5F11AB9B687B09789CFE251141356F58 /* C2CB-iOS-Library.debug.xcconfig */;
+			baseConfigurationReference = EC8CDF0674053AD211187277096D5D48 /* C2CB-iOS-Library.release.xcconfig */;
 			buildSettings = {
-				CODE_SIGNING_ALLOWED = NO;
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/C2CB-iOS-Library";
-				IBSC_MODULE = C2CB_iOS_Library;
-				INFOPLIST_FILE = "Target Support Files/C2CB-iOS-Library/ResourceBundle-C2CB-iOS-Library-C2CB-iOS-Library-Info.plist";
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				PRODUCT_NAME = "C2CB-iOS-Library";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library.modulemap";
+				PRODUCT_MODULE_NAME = C2CB_iOS_Library;
+				PRODUCT_NAME = C2CB_iOS_Library;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
 		};
 		7EE7A78859F657F6BEFC651185B43192 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -820,9 +888,9 @@
 			};
 			name = Release;
 		};
-		9578C8E0BA338E58CBB4C5AA1950A7C5 /* Debug */ = {
+		8706319680968B51B165EAA9B983DA79 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5F11AB9B687B09789CFE251141356F58 /* C2CB-iOS-Library.debug.xcconfig */;
+			baseConfigurationReference = A7731DEC24E58B3AF941A5558BB8EEEE /* C2CB-iOS-Library.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_WEAK = NO;
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -855,42 +923,6 @@
 			};
 			name = Debug;
 		};
-		95FA79C3B0DCC862E222348BB08F5705 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C2B03CB1A99082597D41662B052FCD61 /* C2CB-iOS-Library.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library.modulemap";
-				PRODUCT_MODULE_NAME = C2CB_iOS_Library;
-				PRODUCT_NAME = C2CB_iOS_Library;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		A27671DF75EA1D78762F7C87876F9220 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3D49FAB9E1939792ABB06C61852FBF2A /* Pods-C2CB-iOS-Library_Tests.debug.xcconfig */;
@@ -907,7 +939,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Tests/Pods-C2CB-iOS-Library_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -944,7 +976,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Tests/Pods-C2CB-iOS-Library_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1032,6 +1064,23 @@
 			};
 			name = Debug;
 		};
+		E475F9C5F980D49C8D8BDAF60CBD510C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EC8CDF0674053AD211187277096D5D48 /* C2CB-iOS-Library.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGNING_ALLOWED = NO;
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/C2CB-iOS-Library";
+				IBSC_MODULE = C2CB_iOS_Library;
+				INFOPLIST_FILE = "Target Support Files/C2CB-iOS-Library/ResourceBundle-Resources-C2CB-iOS-Library-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				PRODUCT_NAME = Resources;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -1040,6 +1089,15 @@
 			buildConfigurations = (
 				04C1A0F64BCA8370A1766077B0F86B40 /* Debug */,
 				351FC54976D63FFD64BF38B5D691EE69 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		10583D28F2D89B84E5116198FD543AC1 /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8706319680968B51B165EAA9B983DA79 /* Debug */,
+				712A9876FA328F11B623E3EA853A5BEB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1053,11 +1111,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		50AA60EFDAD31D5C1A21EF6097539C01 /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library" */ = {
+		7360254D044289AC6FF2710C0421D30F /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library-Resources" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9578C8E0BA338E58CBB4C5AA1950A7C5 /* Debug */,
-				95FA79C3B0DCC862E222348BB08F5705 /* Release */,
+				13994FFFEEC88408481F1267E14A3FDB /* Debug */,
+				E475F9C5F980D49C8D8BDAF60CBD510C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1067,15 +1125,6 @@
 			buildConfigurations = (
 				A27671DF75EA1D78762F7C87876F9220 /* Debug */,
 				B923C9F213FC854C34F01261A9676497 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		E99E2850E956D08E321E0C7928BEA6F7 /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library-C2CB-iOS-Library" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3674177318B1DA6EC4EA3D4862760C50 /* Debug */,
-				2956F69C317FA34DBBB26C25CC2A15A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
