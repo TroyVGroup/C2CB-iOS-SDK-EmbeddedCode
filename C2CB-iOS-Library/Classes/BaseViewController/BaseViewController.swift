@@ -242,7 +242,7 @@ open class BaseViewController:UIViewController{
         stackView.alignment = .fill
         stackView.distribution = .fill
         stackView.axis = .vertical
-        //stackView.isHidden = true
+        stackView.isHidden = true
         return stackView
     }()
     let emailText:UITextField = {
@@ -305,7 +305,7 @@ open class BaseViewController:UIViewController{
         stackView.alignment = .fill
         stackView.distribution = .fill
         stackView.axis = .vertical
-        //stackView.isHidden = true
+        stackView.isHidden = true
         return stackView
     }()
     let call_messageTextView: UITextView = {
@@ -458,20 +458,18 @@ open class BaseViewController:UIViewController{
     let placeholderMess = "Enter message.."
     let screenSize = UIScreen.main.bounds
     var temp_variable = 0
-    var container_view_height:CGFloat = 200
+   // var container_view_height:CGFloat = 200
     var call_preferences : Preferences?
     var sms_preferences : Preferences?
     var email_preferences : Preferences?
     var countdownTimer: Timer?
-    var secondsRemaining = 60
-    
+    var call_secondsRemaining = 60
+    var email_secondsRemaining = 60
     
 //    open override func viewWillAppear(_ animated: Bool) {
 //        super.viewWillAppear(animated)
 //        DoneKeyboard(dismissOnTap: true)
 //    }
-    
-    
     
 //MARK: - CALL SetupUI
     func setUpCall_ValidationPage(){
@@ -486,18 +484,26 @@ open class BaseViewController:UIViewController{
         containerView.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
         containerView.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20)
         ])
+        containerView.addSubview(scrollView)
+        scrollView.translatesAutoresizingMaskIntoConstraints = false
+        NSLayoutConstraint.activate([
+                    scrollView.leadingAnchor.constraint(equalTo: containerView.leadingAnchor),
+                    scrollView.trailingAnchor.constraint(equalTo: containerView.trailingAnchor),
+                    scrollView.topAnchor.constraint(equalTo: containerView.topAnchor),
+                    scrollView.bottomAnchor.constraint(equalTo: containerView.bottomAnchor)
+        ])
         //MARK: - cancel Button
-        containerView.addSubview(cancelButton)
+        scrollView.addSubview(cancelButton)
         cancelButton.frame = CGRect(x: containerView.bounds.size.width-40, y: 10, width: 30, height: 30)
         //MARK: - Call title Label
-        containerView.addSubview(titleLabel)
+        scrollView.addSubview(titleLabel)
         NSLayoutConstraint.activate([
         titleLabel.topAnchor.constraint(equalTo: containerView.topAnchor, constant: 20),
         titleLabel.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 20)
         ])
         titleLabel.textColor = .white
         //MARK: - Call Stack View
-        containerView.addSubview(layoutStackView)
+        scrollView.addSubview(layoutStackView)
         NSLayoutConstraint.activate([
         layoutStackView.topAnchor.constraint(equalTo: titleLabel.topAnchor, constant: 40),
         layoutStackView.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 20),
@@ -565,47 +571,52 @@ open class BaseViewController:UIViewController{
 
         if call_preferences?.call_name ?? false{
             layoutStackView.addArrangedSubview(nameSectionStackView)
-            container_view_height = container_view_height + 62
+            //container_view_height = container_view_height + 62
         }
         if call_preferences?.call_contact ?? false{
             layoutStackView.addArrangedSubview(mobileSectionStackView)
-            container_view_height = container_view_height + 62
+           // container_view_height = container_view_height + 62
         }
         if call_preferences?.call_verifycontact ?? false{
+            if mobileNumberVerificationStackView.isHidden == false{
                 layoutStackView.addArrangedSubview(mobileNumberVerificationStackView)
-                container_view_height = container_view_height + 62
+                //container_view_height = container_view_height + 62
+            }
         }
         if call_preferences?.call_email ?? false {
             layoutStackView.addArrangedSubview(emailSectionStackView)
-            container_view_height = container_view_height + 62
+            //container_view_height = container_view_height + 62
         }
         if call_preferences?.call_verifyemail ?? false{
+            if emailVerificationStackView.isHidden == false{
                 layoutStackView.addArrangedSubview(emailVerificationStackView)
-                container_view_height = container_view_height + 62
+                //container_view_height = container_view_height + 62
+            }
         }
         if call_preferences?.call_message ?? false{
             layoutStackView.addArrangedSubview(call_messageTextView)
-            container_view_height = container_view_height + 150
+            //container_view_height = container_view_height + 150
         }
-        containerView.addSubview(termsSectionStackView)
+        scrollView.addSubview(termsSectionStackView)
         NSLayoutConstraint.activate([
         termsSectionStackView.bottomAnchor.constraint(equalTo: layoutStackView.bottomAnchor, constant: 30),
         termsSectionStackView.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 20)
         ])
-
-        containerView.addSubview(connectButton)
-        connectButton.frame = CGRect(x: 20, y: containerView.bounds.size.height-80, width: containerView.bounds.size.width-45, height: 40)
+        
+        scrollView.addSubview(connectButton)
+        connectButton.frame = CGRect(x: 20, y: scrollView.bounds.size.height-100, width: containerView.bounds.size.width-45, height: 40)
         NSLayoutConstraint.activate([
+        //connectButton.bottomAnchor.constraint(equalTo: termsSectionStackView.bottomAnchor, constant: 30),
         connectButton.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 20),
         connectButton.trailingAnchor.constraint(equalTo: containerView.trailingAnchor, constant: 20)
         ])
-        containerView.addSubview(poweredBySectionStackView)
+        scrollView.addSubview(poweredBySectionStackView)
         NSLayoutConstraint.activate([
-        poweredBySectionStackView.bottomAnchor.constraint(equalTo: containerView.bottomAnchor, constant: -10),
+        poweredBySectionStackView.topAnchor.constraint(equalTo: termsSectionStackView.bottomAnchor, constant: 70),
         poweredBySectionStackView.centerXAnchor.constraint(equalTo: containerView.centerXAnchor),
-        containerView.heightAnchor.constraint(equalToConstant: container_view_height)
+        scrollView.heightAnchor.constraint(lessThanOrEqualToConstant: 800),
+        poweredBySectionStackView.bottomAnchor.constraint(equalTo: containerView.bottomAnchor, constant: -20)
         ])
-        //containerView.addSubview(verifyImage)
         setUpFontSizeInCallBackForm()
     }
     
@@ -623,19 +634,28 @@ open class BaseViewController:UIViewController{
         containerView.leadingAnchor.constraint(equalTo: view.leadingAnchor, constant: 20),
         containerView.trailingAnchor.constraint(equalTo: view.trailingAnchor, constant: -20)
         ])
+        
+        containerView.addSubview(scrollView)
+        scrollView.translatesAutoresizingMaskIntoConstraints = false
+        NSLayoutConstraint.activate([
+                    scrollView.leadingAnchor.constraint(equalTo: containerView.leadingAnchor),
+                    scrollView.trailingAnchor.constraint(equalTo: containerView.trailingAnchor),
+                    scrollView.topAnchor.constraint(equalTo: containerView.topAnchor),
+                    scrollView.bottomAnchor.constraint(equalTo: containerView.bottomAnchor)
+        ])
        
         //MARK: - cancel Button
-        containerView.addSubview(cancelButton)
+        scrollView.addSubview(cancelButton)
         cancelButton.frame = CGRect(x: containerView.bounds.size.width-40, y: 10, width: 30, height: 30)
         //MARK: - Call title Label
-        containerView.addSubview(titleLabel)
+        scrollView.addSubview(titleLabel)
         NSLayoutConstraint.activate([
         titleLabel.topAnchor.constraint(equalTo: containerView.topAnchor, constant: 20),
         titleLabel.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 20)
         ])
         titleLabel.textColor = .white
         //MARK: - Call Stack View
-        containerView.addSubview(layoutStackView)
+        scrollView.addSubview(layoutStackView)
         NSLayoutConstraint.activate([
         layoutStackView.topAnchor.constraint(equalTo: titleLabel.topAnchor, constant: 40),
         layoutStackView.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 20),
@@ -701,53 +721,59 @@ open class BaseViewController:UIViewController{
         // Set All Filed by Stack View/ Auto Layout
         if sms_preferences?.sms_name ?? false{
             layoutStackView.addArrangedSubview(nameSectionStackView)
-            container_view_height = container_view_height + 62
+            //container_view_height = container_view_height + 62
         }
         if sms_preferences?.sms_contact ?? false{
             layoutStackView.addArrangedSubview(mobileSectionStackView)
-            container_view_height = container_view_height + 62
+            //container_view_height = container_view_height + 62
         }
         if sms_preferences?.sms_verifycontact ?? false{
-            layoutStackView.addArrangedSubview(mobileNumberVerificationStackView)
-            container_view_height = container_view_height + 62
+            if mobileNumberVerificationStackView.isHidden == false{
+                layoutStackView.addArrangedSubview(mobileNumberVerificationStackView)
+                //container_view_height = container_view_height + 62
+            }
         }
         if sms_preferences?.sms_email ?? false{
             layoutStackView.addArrangedSubview(emailSectionStackView)
-            container_view_height = container_view_height + 62
+            //container_view_height = container_view_height + 62
         }
         if sms_preferences?.sms_verifycontact ?? false{
-            layoutStackView.addArrangedSubview(emailVerificationStackView)
-            container_view_height = container_view_height + 62
+            if emailVerificationStackView.isHidden == false{
+                layoutStackView.addArrangedSubview(emailVerificationStackView)
+                //container_view_height = container_view_height + 62
+            }
         }
        
     
        // if sms_preferences?.sms_message ?? false{
         layoutStackView.addArrangedSubview(sms_messageTextView)
-        container_view_height = container_view_height + 150
+        //container_view_height = container_view_height + 150
         
-        containerView.addSubview(sms_message_characterCountLabel)
+        scrollView.addSubview(sms_message_characterCountLabel)
         NSLayoutConstraint.activate([
         sms_message_characterCountLabel.topAnchor.constraint(equalTo: sms_messageTextView.bottomAnchor, constant: -30),
         sms_message_characterCountLabel.trailingAnchor.constraint(equalTo: sms_messageTextView.trailingAnchor, constant: -10)
         ])
         
-        containerView.addSubview(termsSectionStackView)
+        scrollView.addSubview(termsSectionStackView)
         NSLayoutConstraint.activate([
         termsSectionStackView.bottomAnchor.constraint(equalTo: layoutStackView.bottomAnchor, constant: 30),
         termsSectionStackView.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 20)
         ])
         
-        containerView.addSubview(connectButton)
-        connectButton.frame = CGRect(x: 20, y: containerView.bounds.size.height-80, width: containerView.bounds.size.width-45, height: 40)
+        scrollView.addSubview(connectButton)
+        connectButton.frame = CGRect(x: 20, y: scrollView.bounds.size.height-100, width: containerView.bounds.size.width-45, height: 40)
         NSLayoutConstraint.activate([
+        //connectButton.bottomAnchor.constraint(equalTo: termsSectionStackView.bottomAnchor, constant: 30),
         connectButton.leadingAnchor.constraint(equalTo: containerView.leadingAnchor, constant: 20),
         connectButton.trailingAnchor.constraint(equalTo: containerView.trailingAnchor, constant: 20)
         ])
-        containerView.addSubview(poweredBySectionStackView)
+        scrollView.addSubview(poweredBySectionStackView)
         NSLayoutConstraint.activate([
-        poweredBySectionStackView.bottomAnchor.constraint(equalTo: containerView.bottomAnchor, constant: -10),
+        poweredBySectionStackView.topAnchor.constraint(equalTo: termsSectionStackView.bottomAnchor, constant: 70),
         poweredBySectionStackView.centerXAnchor.constraint(equalTo: containerView.centerXAnchor),
-        containerView.heightAnchor.constraint(equalToConstant: container_view_height)
+        scrollView.heightAnchor.constraint(lessThanOrEqualToConstant: 800),
+        poweredBySectionStackView.bottomAnchor.constraint(equalTo: containerView.bottomAnchor, constant: -20)
         ])
         setUpFontSizeInCallBackForm()
     }
@@ -860,18 +886,20 @@ open class BaseViewController:UIViewController{
            // container_view_height = container_view_height + 62
         }
         if email_preferences?.email_verifycontact ?? false{
-            //if mobileNumberVerificationStackView.isHidden == false{
+            if mobileNumberVerificationStackView.isHidden == false{
                 layoutStackView.addArrangedSubview(mobileNumberVerificationStackView)
                // container_view_height = container_view_height + 62
-           // }
+            }
         }
         if email_preferences?.email_email ?? false{
             layoutStackView.addArrangedSubview(emailSectionStackView)
             //container_view_height = container_view_height + 62
         }
         if email_preferences?.email_verifyemail ?? false{
+            if emailVerificationStackView.isHidden == false{
                 layoutStackView.addArrangedSubview(emailVerificationStackView)
                 //container_view_height = container_view_height + 62
+            }
         }
        // if email_preferences?.email_message ?? false {
             layoutStackView.addArrangedSubview(email_messageTextView)
@@ -958,8 +986,8 @@ open class BaseViewController:UIViewController{
             if let status = response?["status"] as? NSNumber{
                 if status == 200{
                     DispatchQueue.main.async { [weak self] in
-                        showAlert(title: "Success", message: response?["message"] as? String ?? "", view: self!)
-                       // self.mobileNumberVerificationStackView.isHidden = false
+                        //showAlert(title: "Success", message: response?["message"] as? String ?? "", view: self!)
+                         self?.mobileNumberVerificationStackView.isHidden = false
                     }
                 }
             }
@@ -1011,8 +1039,8 @@ open class BaseViewController:UIViewController{
             if let status = response?["status"] as? NSNumber{
                 if status == 200{
                     DispatchQueue.main.async { [weak self] in
-                        showAlert(title: "Success", message: response?["message"] as? String ?? "", view: self!)
-                       // self.mobileNumberVerificationStackView.isHidden = false
+                        //showAlert(title: "Success", message: response?["message"] as? String ?? "", view: self!)
+                        self?.emailVerificationStackView.isHidden = false
                     }
                 }
             }

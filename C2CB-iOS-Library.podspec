@@ -33,12 +33,12 @@ Pod::Spec.new do |s|
   s.source_files = 'C2CB-iOS-Library/Classes/**/*'
   
    s.resource_bundles = {
-     'Resources' => ['C2CB-iOS-Library/Assets/*.png']
+     'Resources' => ['C2CB-iOS-Library/Classes/Resources/*.png']
    }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-   s.frameworks = 'UIKit'
-   #s.dependency 'Alamofire'
+   s.frameworks = 'UIKit';
+   s.dependency 'TwilioVoice';
    #s.dependency 'KRProgressHUD', '~> 3.4.4';
   # s.dependency 'AFNetworking', '~> 2.3'
 end

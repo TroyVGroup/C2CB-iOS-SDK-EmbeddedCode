@@ -31,6 +31,8 @@ open class CallValidationSetUp:BaseViewController{
         
         
         call_messageTextView.delegate = self
+        mobileVerificationCodeText.delegate = self
+        emailVerificationCodeText.delegate = self
         call_messageTextView.text = placeholderMess
         callModel.callView = self
         doneKeyboard(dismissOnTap: true)
@@ -46,6 +48,7 @@ extension CallValidationSetUp{
     
     @IBAction private func dismissSubView(){
         dismiss(animated: true)
+        countdownTimer?.invalidate() // Stop the timer
         print("Call_dismissSubView")
         
     }
@@ -71,30 +74,30 @@ extension CallValidationSetUp{
             let channel_id = UserDefaults.standard.value(forKey: "channel_id") as? String
             print("country_code",country_code)
             self.contactCodeBtn.isEnabled = false
-            secondsRemaining = 60
+            call_secondsRemaining = 60
             self.countdownTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(self.updateContactCountdown), userInfo: nil, repeats: true)
             sendOtpByContactNo(channel_id: channel_id ?? "", contact_no: mobileText.text!, country_code: country_code)
         }
     }
     @objc func updateContactCountdown() {
             // Update the countdown
-            secondsRemaining -= 1
+        call_secondsRemaining -= 1
             
             // Update the button title
             updateContactCodeBtnTitle()
             
             // Check if the countdown is complete
-            if secondsRemaining == 0 {
+            if call_secondsRemaining == 0 {
                 countdownTimer?.invalidate() // Stop the timer
                 contactCodeBtn.isEnabled = true
                 contactCodeBtn.setTitle("Code", for: .normal)
-                secondsRemaining = 60
+                call_secondsRemaining = 60
             }
         }
 
         func updateContactCodeBtnTitle() {
             // Update the button title with the current countdown value
-            contactCodeBtn.setTitle("\(secondsRemaining)", for: .normal)
+            contactCodeBtn.setTitle("\(call_secondsRemaining)", for: .normal)
         }
     
     @IBAction private func actionOnEmailCodeVerifyBtn(){
@@ -103,30 +106,30 @@ extension CallValidationSetUp{
             let channel_id = UserDefaults.standard.value(forKey: "channel_id") as? String
             print("country_code",country_code)
             self.emailVerifyBtn.isEnabled = false
-            secondsRemaining = 60
+            email_secondsRemaining = 60
             self.countdownTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(self.updateEmailCountdown), userInfo: nil, repeats: true)
             sendOtpByEmailAddress(channel_id: channel_id ?? "", email_id: emailText.text!)
         }
     }
     @objc func updateEmailCountdown() {
             // Update the countdown
-            secondsRemaining -= 1
+        email_secondsRemaining -= 1
             
             // Update the button title
             updateEmailCodeBtnTitle()
             
             // Check if the countdown is complete
-            if secondsRemaining == 0 {
+            if email_secondsRemaining == 0 {
                 countdownTimer?.invalidate() // Stop the timer
                 emailVerifyBtn.isEnabled = true
                 emailVerifyBtn.setTitle("Verify", for: .normal)
-                secondsRemaining = 60
+                email_secondsRemaining = 60
             }
         }
 
         func updateEmailCodeBtnTitle() {
             // Update the button title with the current countdown value
-            emailVerifyBtn.setTitle("\(secondsRemaining)", for: .normal)
+            emailVerifyBtn.setTitle("\(email_secondsRemaining)", for: .normal)
         }
     
     
@@ -158,31 +161,22 @@ extension CallValidationSetUp{
     
     @IBAction private func actionOnTermsAndConditionsBtn(){
         print("Call_actionOnTermsAndConditionsBtn")
+        if var topViewController = UIApplication.shared.windows.first?.rootViewController {
+            while let presentedViewController = topViewController.presentedViewController {
+                topViewController = presentedViewController
+            }
+
+            // Now, topViewController is the topmost view controller
+            let webpage = CustomWebViewPage()
+            webpage.url_value = WebService.termConditionUrl.rawValue
+            topViewController.present(webpage, animated: true, completion: nil)
+        }
        
     }
     
     @IBAction private func actionOnConnectBtn(){
         print("Call_actionOnConnectBtn")
-//        if temp_variable == 1
-//        {
-//
-//            if callModel.validation(){
-//                print("Validated....")
-//
-//                dismissSubView()
-//                var responder: UIResponder? = self
-//                while let nextResponder = responder?.next {
-//                    if let viewController = nextResponder as? UIViewController {
-//                        // Create and present the new view controller
-//                        let newViewController = CallViewController()
-//                        newViewController.modalPresentationStyle = .fullScreen
-//                        viewController.present(newViewController, animated: true, completion: nil)
-//                        break
-//                    }
-//                    responder = nextResponder
-//                }
-//            }
-//        }
+
         if temp_variable == 1
         {
             if callModel.validation(){
@@ -192,12 +186,35 @@ extension CallValidationSetUp{
             }
         }
         
-
+        // open outgoing page
+//        dismiss(animated: true,completion: {
+//
+//
+//        if var topViewController = UIApplication.shared.windows.first?.rootViewController {
+//            while let presentedViewController = topViewController.presentedViewController {
+//                topViewController = presentedViewController
+//            }
+//
+//            // Now, topViewController is the topmost view controller
+//            let outgoingView = OutgoingCallUISetup()
+//            topViewController.present(outgoingView, animated: true, completion: nil)
+//        }
+//        })
         
     }
     
     @IBAction private func actionOnContextToCallBtn(){
         print("Call_actionOnContextToCallBtn")
+        if var topViewController = UIApplication.shared.windows.first?.rootViewController {
+            while let presentedViewController = topViewController.presentedViewController {
+                topViewController = presentedViewController
+            }
+
+            // Now, topViewController is the topmost view controller
+            let webpage = CustomWebViewPage()
+            webpage.url_value = WebService.contextToCallUrl.rawValue
+            topViewController.present(webpage, animated: true, completion: nil)
+        }
         
     }
 }

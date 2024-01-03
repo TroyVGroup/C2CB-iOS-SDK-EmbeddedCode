@@ -68,6 +68,7 @@ open class EmailValidationSetUp:BaseViewController{
 extension EmailValidationSetUp{
     @IBAction private func dismissSubView(){
         dismiss(animated: true)
+        countdownTimer?.invalidate() // Stop the timer
         print("Email_dismissSubView")
         
     }
@@ -92,30 +93,30 @@ extension EmailValidationSetUp{
             let channel_id = UserDefaults.standard.value(forKey: "channel_id") as? String
             print("country_code",country_code)
             self.contactCodeBtn.isEnabled = false
-            secondsRemaining = 60
+            call_secondsRemaining = 60
             self.countdownTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(self.updateContactCountdown), userInfo: nil, repeats: true)
             sendOtpByContactNo(channel_id: channel_id ?? "", contact_no: mobileText.text!, country_code: country_code)
         }
     }
     @objc func updateContactCountdown() {
             // Update the countdown
-            secondsRemaining -= 1
+        call_secondsRemaining -= 1
             
             // Update the button title
             updateContactCodeBtnTitle()
             
             // Check if the countdown is complete
-            if secondsRemaining == 0 {
+            if call_secondsRemaining == 0 {
                 countdownTimer?.invalidate() // Stop the timer
                 contactCodeBtn.isEnabled = true
                 contactCodeBtn.setTitle("Code", for: .normal)
-                secondsRemaining = 60
+                call_secondsRemaining = 60
             }
         }
 
         func updateContactCodeBtnTitle() {
             // Update the button title with the current countdown value
-            contactCodeBtn.setTitle("\(secondsRemaining)", for: .normal)
+            contactCodeBtn.setTitle("\(call_secondsRemaining)", for: .normal)
         }
     
     @IBAction private func actionOnEmailCodeVerifyBtn(){
@@ -124,30 +125,30 @@ extension EmailValidationSetUp{
             let channel_id = UserDefaults.standard.value(forKey: "channel_id") as? String
             print("country_code",country_code)
             self.emailVerifyBtn.isEnabled = false
-            secondsRemaining = 60
+            email_secondsRemaining = 60
             self.countdownTimer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(self.updateEmailCountdown), userInfo: nil, repeats: true)
             sendOtpByEmailAddress(channel_id: channel_id ?? "", email_id: emailText.text!)
         }
     }
     @objc func updateEmailCountdown() {
             // Update the countdown
-            secondsRemaining -= 1
+        email_secondsRemaining -= 1
             
             // Update the button title
             updateEmailCodeBtnTitle()
             
             // Check if the countdown is complete
-            if secondsRemaining == 0 {
+            if email_secondsRemaining == 0 {
                 countdownTimer?.invalidate() // Stop the timer
                 emailVerifyBtn.isEnabled = true
                 emailVerifyBtn.setTitle("Verify", for: .normal)
-                secondsRemaining = 60
+                email_secondsRemaining = 60
             }
         }
 
         func updateEmailCodeBtnTitle() {
             // Update the button title with the current countdown value
-            emailVerifyBtn.setTitle("\(secondsRemaining)", for: .normal)
+            emailVerifyBtn.setTitle("\(email_secondsRemaining)", for: .normal)
         }
     
     @IBAction private func actionOnCheckBoxBtn(){
@@ -177,6 +178,16 @@ extension EmailValidationSetUp{
     
     @IBAction private func actionOnTermsAndConditionsBtn(){
         print("Email_actionOnTermsAndConditionsBtn")
+        if var topViewController = UIApplication.shared.windows.first?.rootViewController {
+            while let presentedViewController = topViewController.presentedViewController {
+                topViewController = presentedViewController
+            }
+
+            // Now, topViewController is the topmost view controller
+            let webpage = CustomWebViewPage()
+            webpage.url_value = WebService.termConditionUrl.rawValue
+            topViewController.present(webpage, animated: true, completion: nil)
+        }
         
     }
     
@@ -195,6 +206,17 @@ extension EmailValidationSetUp{
     
     @IBAction private func actionOnContextToCallBtn(){
         print("Email_actionOnContextToCallBtn")
+        
+        if var topViewController = UIApplication.shared.windows.first?.rootViewController {
+            while let presentedViewController = topViewController.presentedViewController {
+                topViewController = presentedViewController
+            }
+
+            // Now, topViewController is the topmost view controller
+            let webpage = CustomWebViewPage()
+            webpage.url_value = WebService.contextToCallUrl.rawValue
+            topViewController.present(webpage, animated: true, completion: nil)
+        }
     }
 }
 extension EmailValidationSetUp: UITextViewDelegate {

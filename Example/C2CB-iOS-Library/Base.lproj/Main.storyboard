@@ -20,36 +20,28 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TNV-gn-uTn" customClass="CustomView" customModule="C2CB_iOS_Library">
-                                <rect key="frame" x="57" y="348" width="300" height="200"/>
-                                <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e7W-vN-XiM">
-                                        <rect key="frame" x="250" y="171" width="42" height="21"/>
-                                        <constraints>
-                                            <constraint firstAttribute="width" constant="42" id="fGl-CJ-0rQ"/>
-                                            <constraint firstAttribute="height" constant="21" id="k9c-J7-tea"/>
-                                        </constraints>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <nil key="textColor"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
-                                </subviews>
+                                <rect key="frame" x="194" y="428.5" width="200" height="39"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
-                                    <constraint firstAttribute="bottom" secondItem="e7W-vN-XiM" secondAttribute="bottom" constant="8" id="Iv2-Rt-qhd"/>
-                                    <constraint firstAttribute="width" constant="300" id="QHc-5o-ze7"/>
-                                    <constraint firstAttribute="trailing" secondItem="e7W-vN-XiM" secondAttribute="trailing" constant="8" id="nWY-Br-zZq"/>
-                                    <constraint firstAttribute="height" constant="200" id="ouy-TT-b9z"/>
+                                    <constraint firstAttribute="height" constant="39" id="8h0-an-uwa"/>
+                                    <constraint firstAttribute="width" constant="200" id="bIY-gA-jAe"/>
                                 </constraints>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="boolean" keyPath="doneAccessory" value="YES"/>
                                     <userDefinedRuntimeAttribute type="string" keyPath="channel_id" value="657b0f55632f4ca91909ce0e"/>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="width">
+                                        <real key="value" value="40"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="height">
+                                        <real key="value" value="40"/>
+                                    </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="TNV-gn-uTn" firstAttribute="centerY" secondItem="kh9-bI-dsS" secondAttribute="centerY" id="lLQ-iB-DMN"/>
-                            <constraint firstItem="TNV-gn-uTn" firstAttribute="centerX" secondItem="kh9-bI-dsS" secondAttribute="centerX" id="y2J-ZE-C2i"/>
+                            <constraint firstItem="TNV-gn-uTn" firstAttribute="centerY" secondItem="kh9-bI-dsS" secondAttribute="centerY" id="IhK-CQ-fWq"/>
+                            <constraint firstAttribute="trailing" secondItem="TNV-gn-uTn" secondAttribute="trailing" constant="20" id="sdJ-zB-Wrq"/>
                         </constraints>
                     </view>
                 </viewController>

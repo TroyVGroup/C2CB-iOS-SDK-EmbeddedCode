@@ -104,7 +104,7 @@ open class CallValidationModel{
                         let callauth = response?["callauth"] as? EIDictonary
                         let auth_id =  callauth?["id"] as? String
                         self.gettoken(auth_id: auth_id ?? "")
-                        self.callView?.dismiss(animated: true)
+                       // self.callView?.dismiss(animated: true)
                         
                     }
                 }
@@ -132,8 +132,28 @@ open class CallValidationModel{
                         let token = response?["token"] as? EIDictonary
                         let call_id = token?["id"] as? String
                         let call_token_Value = token?["value"] as? String
+                        
+                        let verified = response?["verified"] as? EIDictonary
+                        let verified_mobile_no = verified?["call"] as? String
+                        let call_ext = verified?["ext"] as? String
+                        
+                        UserDefaults.standard.set(verified_mobile_no, forKey: "verified_mobile_no")
+                        UserDefaults.standard.set(call_ext, forKey: "call_ext")
+                        
+                        UserDefaults.standard.set(call_id, forKey: "call_id")
+                        UserDefaults.standard.set(call_token_Value, forKey: "call_token")
                         print("call_id>>>>>>",call_id ?? "")
                         print("call_token_Value>>>>>>",call_token_Value ?? "")
+                        self.callView?.dismiss(animated: true,completion: {
+                            if var topViewController = UIApplication.shared.windows.first?.rootViewController {
+                                while let presentedViewController = topViewController.presentedViewController {
+                                    topViewController = presentedViewController
+                                }
+                                // Now, topViewController is the topmost view controller
+                                let outgoingView = OutgoingCallUISetup()
+                                topViewController.present(outgoingView, animated: true, completion: nil)
+                            }
+                        })
                         
                     }
                 }

@@ -22,9 +22,14 @@
   "source_files": "C2CB-iOS-Library/Classes/**/*",
   "resource_bundles": {
     "Resources": [
-      "C2CB-iOS-Library/Assets/*.png"
+      "C2CB-iOS-Library/Classes/Resources/*.png"
     ]
   },
   "frameworks": "UIKit",
+  "dependencies": {
+    "TwilioVoice": [
+
+    ]
+  },
   "swift_version": "5.0"
 }
