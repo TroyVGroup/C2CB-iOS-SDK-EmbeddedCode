@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'C2CB-iOS-Library'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'Context to Call is a very simple yet effective and flexible library to easily add Call, SMS or Email functionality'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   Context to Call is a very simple yet effective and flexible library to easily add Call, SMS or Email buttons functionality to your app. This will allow visitors to get in touch with you with one simple touch.
                        DESC
 
-  s.homepage         = 'https://github.com/TroyVGroup/C2CB-iOS-SDK-EmbeddedCode'
+  s.homepage         = 'https://github.com/TroyVGroup/C2CB-iOS-Library'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Satyam Kumar' => 'satyam.kumar@vgroup.net' }
@@ -32,9 +32,9 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.source_files = 'C2CB-iOS-Library/Classes/**/*'
   
-   s.resource_bundles = {
-     'Resources' => ['C2CB-iOS-Library/Classes/Resources/*.png']
-   }
+#   s.resource_bundles = {
+#     'Resources' => ['C2CB-iOS-Library/Assets/*.png']
+#   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
    s.frameworks = 'UIKit';
@@ -43,3 +43,4 @@ Pod::Spec.new do |s|
   # s.dependency 'AFNetworking', '~> 2.3'
 end
 #https://github.com/TroyVGroup/C2CB-iOS-SDK-EmbeddedCode
+#s.homepage         = 'https://github.com/TroyVGroup/C2CB-iOS-Library'
