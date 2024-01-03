@@ -129,7 +129,8 @@ class CustomView: UIView {
     
     @IBInspectable var channel_id: String{
         get{
-            return self.channel_id
+            return ""
+            //self.channel_id
         }
         set (channel_id_value) {
             channel_Modes_API_Calling(channel_id: channel_id_value)
