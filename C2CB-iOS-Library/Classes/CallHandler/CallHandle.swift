@@ -513,7 +513,7 @@ extension CallHandler: CXProviderDelegate {
         let mobile_no = UserDefaults.standard.object(forKey: "verified_mobile_no") as? String
         print("access_token",accessToken ?? "")
         print("twilionumber",mobile_no ?? "")
-        let param = ["To":mobile_no ?? "" ,"Token":accessToken_id ?? ""]
+        let param = ["To":mobile_no ?? "" ,"Token":accessToken_id ?? "","Env":"d"]
         print("param",param)
         let connectOptions = ConnectOptions(accessToken: accessToken ?? "") { builder in
             builder.params = param
