@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   Context to Call is a very simple yet effective and flexible library to easily add Call, SMS or Email buttons functionality to your app. This will allow visitors to get in touch with you with one simple touch.
                        DESC
 
-  s.homepage         = 'https://github.com/TroyVGroup/C2CB-iOS-Library'
+  s.homepage         = 'https://github.com/TroyVGroup/C2CB-iOS-SDK-EmbeddedCode'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Satyam Kumar' => 'satyam.kumar@vgroup.net' }
