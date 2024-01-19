@@ -16,7 +16,6 @@
 			dependencies = (
 			);
 			name = TwilioVoice;
-			productName = TwilioVoice;
 		};
 /* End PBXAggregateTarget section */
 
@@ -47,19 +46,6 @@
 		8B34AE9054A763B6DC7DE4AEF664DC29 /* ChannelModePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF1D99365A5D049CE96BBEB9700000E0 /* ChannelModePage.swift */; };
 		8EF960F9EDA9C4F171F4EE13E089750B /* CountryCodeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064CC8AB49967F6B73C04DDB5CCFA757 /* CountryCodeTableViewCell.swift */; };
 		91DAFEDEA1AC2345029349600E3F62DA /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B172F91CE2269BC1E9709109C6731286 /* BaseViewController.swift */; };
-		A1B775582B5A617400616E40 /* audio.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B7754B2B5A617400616E40 /* audio.png */; };
-		A1B775592B5A617400616E40 /* email.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B7754C2B5A617400616E40 /* email.png */; };
-		A1B7755A2B5A617400616E40 /* keypad.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B7754D2B5A617400616E40 /* keypad.png */; };
-		A1B7755B2B5A617400616E40 /* checked.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B7754E2B5A617400616E40 /* checked.png */; };
-		A1B7755C2B5A617400616E40 /* mute.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B7754F2B5A617400616E40 /* mute.png */; };
-		A1B7755D2B5A617400616E40 /* sms.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B775502B5A617400616E40 /* sms.png */; };
-		A1B7755E2B5A617400616E40 /* speaker.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B775512B5A617400616E40 /* speaker.png */; };
-		A1B7755F2B5A617400616E40 /* hangUp.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B775522B5A617400616E40 /* hangUp.png */; };
-		A1B775602B5A617400616E40 /* unknow.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B775532B5A617400616E40 /* unknow.png */; };
-		A1B775612B5A617400616E40 /* unChecked.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B775542B5A617400616E40 /* unChecked.png */; };
-		A1B775622B5A617400616E40 /* call.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B775552B5A617400616E40 /* call.png */; };
-		A1B775632B5A617400616E40 /* cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B775562B5A617400616E40 /* cancel.png */; };
-		A1B775642B5A617400616E40 /* unmute.png in Resources */ = {isa = PBXBuildFile; fileRef = A1B775572B5A617400616E40 /* unmute.png */; };
 		ACA498B3F014EE304C7A20EFDBD0A493 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */; };
 		B6964FC5F3D75FF07B7BFD5DE30014F0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
 		B938E8DE67F6D34D81165BBE95FF2E2B /* OutgoingCallUISetup.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04A5CC58E67A3902594C6780BFDD811 /* OutgoingCallUISetup.swift */; };
@@ -119,34 +105,21 @@
 		3E099E3D1B7BDBFFF01CAF8B2A69F35E /* Pods-C2CB-iOS-Library_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-C2CB-iOS-Library_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-C2CB-iOS-Library_Tests-dummy.m"; sourceTree = "<group>"; };
 		522B5319B55E155BBD40EEE4F2A3DC09 /* Pods-C2CB-iOS-Library_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-C2CB-iOS-Library_Example-dummy.m"; sourceTree = "<group>"; };
-		5726FEF0083106B24F8E3D0648F92275 /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "C2CB-iOS-Library.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		5726FEF0083106B24F8E3D0648F92275 /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "C2CB-iOS-Library.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		593FBA9568CD287CB9DF483401B7024D /* APIConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = APIConfig.swift; sourceTree = "<group>"; };
 		626634022A4B1600CB45BE0C0A2A2A45 /* C2CB-iOS-Library-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "C2CB-iOS-Library-umbrella.h"; sourceTree = "<group>"; };
 		651C3EDE12A4055DD42C6A51A962FF8B /* C2CB-iOS-Library-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "C2CB-iOS-Library-prefix.pch"; sourceTree = "<group>"; };
 		68591176D5368E65D60DF9322FF54094 /* Pods-C2CB-iOS-Library_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Example.modulemap"; sourceTree = "<group>"; };
 		6FA24A3274F76A4D6B52D219CCAF64C9 /* Pods-C2CB-iOS-Library_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Example-Info.plist"; sourceTree = "<group>"; };
 		70302917A84409DEDCDECD74510FAC29 /* EIColor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EIColor.swift; sourceTree = "<group>"; };
-		73FC1ADB682E4E97D6FF65312902EF9C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		73FC1ADB682E4E97D6FF65312902EF9C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		81176C3107C8867A4EB64758ACDFD551 /* C2CB-iOS-Library-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "C2CB-iOS-Library-Info.plist"; sourceTree = "<group>"; };
 		864F2AD702BA02942652C6352A8B72B0 /* ContryCodeModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ContryCodeModel.swift; sourceTree = "<group>"; };
 		964A1D2458250665EAEEADB5E87E22E2 /* C2CB-iOS-Library.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.release.xcconfig"; sourceTree = "<group>"; };
 		9CB123D102C96DF3CAC47CBC828C1874 /* Constant.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9E04F3DD277DD14D7B214402FA02BC58 /* CountryCodeViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CountryCodeViewController.swift; sourceTree = "<group>"; };
-		9EFAB19F08B07E751FBBBE5B69B52B1F /* TwilioVoice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; path = TwilioVoice.xcframework; sourceTree = "<group>"; };
-		A1B7754B2B5A617400616E40 /* audio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = audio.png; sourceTree = "<group>"; };
-		A1B7754C2B5A617400616E40 /* email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = email.png; sourceTree = "<group>"; };
-		A1B7754D2B5A617400616E40 /* keypad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = keypad.png; sourceTree = "<group>"; };
-		A1B7754E2B5A617400616E40 /* checked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checked.png; sourceTree = "<group>"; };
-		A1B7754F2B5A617400616E40 /* mute.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mute.png; sourceTree = "<group>"; };
-		A1B775502B5A617400616E40 /* sms.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sms.png; sourceTree = "<group>"; };
-		A1B775512B5A617400616E40 /* speaker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = speaker.png; sourceTree = "<group>"; };
-		A1B775522B5A617400616E40 /* hangUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangUp.png; sourceTree = "<group>"; };
-		A1B775532B5A617400616E40 /* unknow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unknow.png; sourceTree = "<group>"; };
-		A1B775542B5A617400616E40 /* unChecked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unChecked.png; sourceTree = "<group>"; };
-		A1B775552B5A617400616E40 /* call.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = call.png; sourceTree = "<group>"; };
-		A1B775562B5A617400616E40 /* cancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
-		A1B775572B5A617400616E40 /* unmute.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unmute.png; sourceTree = "<group>"; };
+		9EFAB19F08B07E751FBBBE5B69B52B1F /* TwilioVoice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = TwilioVoice.xcframework; sourceTree = "<group>"; };
 		A7E09460C76092E773DF1A65A641CDD4 /* Pods-C2CB-iOS-Library_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		B172F91CE2269BC1E9709109C6731286 /* BaseViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		B53EFF007ECE7A55E5D0488480E734A6 /* CallValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CallValidationSetUp.swift; sourceTree = "<group>"; };
@@ -163,7 +136,7 @@
 		D6817CC62EEE648F5D1D13E41DE6DA81 /* Pods-C2CB-iOS-Library_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-C2CB-iOS-Library_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D87DB28751D172D637B0F05271939367 /* Pods-C2CB-iOS-Library_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-C2CB-iOS-Library_Example-umbrella.h"; sourceTree = "<group>"; };
-		E778F54EFB4857CFD8EB625CB64D9D07 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E778F54EFB4857CFD8EB625CB64D9D07 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		EA06EDC3D3DE7D10BB0FF2FC4CED938C /* OutgoingCallModelView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OutgoingCallModelView.swift; sourceTree = "<group>"; };
 		EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		EAD64C25D567501D3D050E40E05A19B9 /* ApiParaKey.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ApiParaKey.swift; sourceTree = "<group>"; };
@@ -250,19 +223,6 @@
 		218092688772A2A3325C19FE1EC078B8 /* C2CB-iOS-Library */ = {
 			isa = PBXGroup;
 			children = (
-				A1B7754B2B5A617400616E40 /* audio.png */,
-				A1B775552B5A617400616E40 /* call.png */,
-				A1B775562B5A617400616E40 /* cancel.png */,
-				A1B7754E2B5A617400616E40 /* checked.png */,
-				A1B7754C2B5A617400616E40 /* email.png */,
-				A1B775522B5A617400616E40 /* hangUp.png */,
-				A1B7754D2B5A617400616E40 /* keypad.png */,
-				A1B7754F2B5A617400616E40 /* mute.png */,
-				A1B775502B5A617400616E40 /* sms.png */,
-				A1B775512B5A617400616E40 /* speaker.png */,
-				A1B775542B5A617400616E40 /* unChecked.png */,
-				A1B775532B5A617400616E40 /* unknow.png */,
-				A1B775572B5A617400616E40 /* unmute.png */,
 				02DEEC94895079D47D2449F154E5039B /* BaseViewController */,
 				12D79CA4943E06070C057094569AB1A5 /* CallHandler */,
 				974154122DEFD900031BBF495A405169 /* CallValidationForm */,
@@ -295,6 +255,7 @@
 			children = (
 				70302917A84409DEDCDECD74510FAC29 /* EIColor.swift */,
 			);
+			name = EIColor;
 			path = EIColor;
 			sourceTree = "<group>";
 		};
@@ -351,6 +312,7 @@
 				593FBA9568CD287CB9DF483401B7024D /* APIConfig.swift */,
 				EAD64C25D567501D3D050E40E05A19B9 /* ApiParaKey.swift */,
 			);
+			name = APIConfig;
 			path = APIConfig;
 			sourceTree = "<group>";
 		};
@@ -390,6 +352,7 @@
 			children = (
 				BF9977FE70DA70FD8A182B7905E67384 /* Alerts.swift */,
 			);
+			name = Alert;
 			path = Alert;
 			sourceTree = "<group>";
 		};
@@ -399,6 +362,7 @@
 				9CB123D102C96DF3CAC47CBC828C1874 /* Constant.swift */,
 				196D51E5949EAC093C4940744B4C048A /* IBDesignableFiles.swift */,
 			);
+			name = Constant;
 			path = Constant;
 			sourceTree = "<group>";
 		};
@@ -434,6 +398,7 @@
 				C637C9E01950FCAAFB245F146BBBA659 /* Frameworks */,
 				763FA481AED057D3E15BF8C055024859 /* Support Files */,
 			);
+			name = TwilioVoice;
 			path = TwilioVoice;
 			sourceTree = "<group>";
 		};
@@ -657,19 +622,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1B7755F2B5A617400616E40 /* hangUp.png in Resources */,
-				A1B775592B5A617400616E40 /* email.png in Resources */,
-				A1B7755C2B5A617400616E40 /* mute.png in Resources */,
-				A1B775632B5A617400616E40 /* cancel.png in Resources */,
-				A1B7755B2B5A617400616E40 /* checked.png in Resources */,
-				A1B7755E2B5A617400616E40 /* speaker.png in Resources */,
-				A1B7755D2B5A617400616E40 /* sms.png in Resources */,
-				A1B775642B5A617400616E40 /* unmute.png in Resources */,
-				A1B7755A2B5A617400616E40 /* keypad.png in Resources */,
-				A1B775602B5A617400616E40 /* unknow.png in Resources */,
-				A1B775612B5A617400616E40 /* unChecked.png in Resources */,
-				A1B775582B5A617400616E40 /* audio.png in Resources */,
-				A1B775622B5A617400616E40 /* call.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
