@@ -31,6 +31,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
   s.source_files = 'C2CB-iOS-Library/Classes/**/*'
+  #s.resources = 'C2CB-iOS-Library/Assets/*.png'
   
    s.resource_bundles = {
      'Resources' => ['C2CB-iOS-Library/Assets/*.png']
