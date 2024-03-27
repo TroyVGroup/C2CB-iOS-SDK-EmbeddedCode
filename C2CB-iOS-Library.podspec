@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'C2CB-iOS-Library'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'Context to Call is a very simple yet effective and flexible library to easily add Call, SMS or Email functionality'
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/TroyVGroup/C2CB-iOS-SDK-EmbeddedCode.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '11.0'
   s.swift_version = '5.0'
 #  s.source_files = 'C2CB-iOS-Library/Classes/**/*'
   #s.resources = 'C2CB-iOS-Library/Assets/*.png'

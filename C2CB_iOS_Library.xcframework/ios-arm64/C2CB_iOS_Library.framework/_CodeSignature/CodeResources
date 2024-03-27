@@ -4,17 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/IBDesignableFiles.swift</key>
-		<data>
-		MW/TrvMcaBx82qe0utwzgZnj2Ig=
-		</data>
 		<key>Frameworks/TwilioVoice.framework/Info.plist</key>
 		<data>
 		/sdGyqXnrgw6eplNUg0onEXIkAA=
 		</data>
 		<key>Frameworks/TwilioVoice.framework/TwilioVoice</key>
 		<data>
-		L+y9CWz6wahXSF0zu6jlXZZk7Og=
+		56b8Ozu0VoRQQrrjn4v6l5SCwFY=
 		</data>
 		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -31,10 +27,6 @@
 		<key>Headers/C2CB_iOS_Library.h</key>
 		<data>
 		I6bTmGya4SIVZ4meDiZPQUyO0L4=
-		</data>
-		<key>Headers/IBDesignableFiles.swift</key>
-		<data>
-		MW/TrvMcaBx82qe0utwzgZnj2Ig=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -103,13 +95,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/IBDesignableFiles.swift</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dioPEK9T3+vBmxd1ljZET6H1m84xpT9xpUi0t67i5E8=
-			</data>
-		</dict>
 		<key>Frameworks/TwilioVoice.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -121,7 +106,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L5FDTsjkTLsdmcs3Iyi4uiZXhdeSEO8k+zAjbjFGJps=
+			Nu8fvIdm8PgdG3R/3MuYUmNX/nfXjQ+Frl+NF3QokSk=
 			</data>
 		</dict>
 		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
@@ -150,13 +135,6 @@
 			<key>hash2</key>
 			<data>
 			vX0nYEYSgXUGGhrjLOBgCHctb3lOu+vWfQmxdfYaFps=
-			</data>
-		</dict>
-		<key>Headers/IBDesignableFiles.swift</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dioPEK9T3+vBmxd1ljZET6H1m84xpT9xpUi0t67i5E8=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.abi.json</key>

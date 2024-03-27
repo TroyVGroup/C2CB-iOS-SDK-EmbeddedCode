@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/IBDesignableFiles.swift</key>
-		<data>
-		MW/TrvMcaBx82qe0utwzgZnj2Ig=
-		</data>
 		<key>Frameworks/TwilioVoice.framework/Info.plist</key>
 		<data>
 		qfur8wbDdzLUT0MLyFq8Tcihjlg=
@@ -31,10 +27,6 @@
 		<key>Headers/C2CB_iOS_Library.h</key>
 		<data>
 		I6bTmGya4SIVZ4meDiZPQUyO0L4=
-		</data>
-		<key>Headers/IBDesignableFiles.swift</key>
-		<data>
-		MW/TrvMcaBx82qe0utwzgZnj2Ig=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -123,13 +115,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/IBDesignableFiles.swift</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dioPEK9T3+vBmxd1ljZET6H1m84xpT9xpUi0t67i5E8=
-			</data>
-		</dict>
 		<key>Frameworks/TwilioVoice.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -170,13 +155,6 @@
 			<key>hash2</key>
 			<data>
 			vX0nYEYSgXUGGhrjLOBgCHctb3lOu+vWfQmxdfYaFps=
-			</data>
-		</dict>
-		<key>Headers/IBDesignableFiles.swift</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			dioPEK9T3+vBmxd1ljZET6H1m84xpT9xpUi0t67i5E8=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.abi.json</key>

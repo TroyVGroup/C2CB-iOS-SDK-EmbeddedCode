@@ -35,7 +35,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="mycustomeView" destination="TNV-gn-uTn" id="CvD-14-530"/>
+                        <outlet property="mycustomeView" destination="TNV-gn-uTn" id="NFY-Rf-50T"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
