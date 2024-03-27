@@ -7,90 +7,61 @@
 	objects = {
 
 /* Begin PBXAggregateTarget section */
+		1AFF963248C86E64D3558F376CF02E1A /* C2CB-iOS-Library */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 81331229D23FC82D106AA50ED71C9AD2 /* Build configuration list for PBXAggregateTarget "C2CB-iOS-Library" */;
+			buildPhases = (
+				7F9E8BC1CA043DEAEB2A95091947E3DB /* [CP] Copy XCFrameworks */,
+			);
+			dependencies = (
+				D9097C0C9231295013A02EAFE624A13D /* PBXTargetDependency */,
+			);
+			name = "C2CB-iOS-Library";
+		};
 		73614281932881D538B76C26B92E0193 /* TwilioVoice */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = 69C7CC09C53CD21A507D9C792D5754E6 /* Build configuration list for PBXAggregateTarget "TwilioVoice" */;
+			buildConfigurationList = 55033E3DD47935132F13BFD4BEBB2C19 /* Build configuration list for PBXAggregateTarget "TwilioVoice" */;
 			buildPhases = (
-				484650699E2FA86FFB17E1B4D4F0DEBF /* [CP] Copy XCFrameworks */,
+				91C1403511D07E2B8E8971388FF166D4 /* [CP] Copy XCFrameworks */,
 			);
 			dependencies = (
 			);
 			name = TwilioVoice;
-			productName = TwilioVoice;
 		};
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
 		002978D410B5808C4C1132285C2FA5AC /* Pods-C2CB-iOS-Library_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 522B5319B55E155BBD40EEE4F2A3DC09 /* Pods-C2CB-iOS-Library_Example-dummy.m */; };
-		08C5B0603C202BF567752B2ADBF6FC87 /* CallValidationSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B53EFF007ECE7A55E5D0488480E734A6 /* CallValidationSetUp.swift */; };
-		0D3F558AE79242CA9FE6F7EC51EB9FBB /* CountryCodeModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D415E7B036913D6C186D04254CBB66DC /* CountryCodeModelView.swift */; };
-		11D13E077055596235C140547EA1CB75 /* ContryCodeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 864F2AD702BA02942652C6352A8B72B0 /* ContryCodeModel.swift */; };
-		127CB255A6E23EBEEB761426A181339F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
-		13608BF544D1EBFBA9164B72D6DB55E0 /* Alerts.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF9977FE70DA70FD8A182B7905E67384 /* Alerts.swift */; };
-		15D0B362A9C81A63075FE65678643E0B /* APIConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 593FBA9568CD287CB9DF483401B7024D /* APIConfig.swift */; };
-		214B54877F6576867D9E72CB031A7EA0 /* SMSValidationSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BEABABCE7251E16089B6BBF8308DEEF /* SMSValidationSetUp.swift */; };
-		21FDDED7A48613363485A464B1B751DB /* SmsValidationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32FC00A4441F8CA17F003AAFC7E13A52 /* SmsValidationModel.swift */; };
-		24C612A1F1FCF85E0182934AD6846E62 /* OutgoingCallModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA06EDC3D3DE7D10BB0FF2FC4CED938C /* OutgoingCallModelView.swift */; };
+		127CB255A6E23EBEEB761426A181339F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		2F9F7EEB6D826EF111094B92666CD439 /* Pods-C2CB-iOS-Library_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FB09D3EB2C8565D005C21EE6B1B5B691 /* Pods-C2CB-iOS-Library_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3062900C3F64FA19B1DCCF0F2D4C261A /* EmailValidationSetUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B9DDBD21749980FA287D921E4C901E7 /* EmailValidationSetUp.swift */; };
-		36C8649D2E5D7441301C2EA6D9A2D8BC /* C2CB-iOS-Library-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = ED536CD9F254DBDD97C542A4F8199BE4 /* C2CB-iOS-Library-dummy.m */; };
-		389407A1A763BB86B5ACCBFC2D629573 /* CountryCodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E04F3DD277DD14D7B214402FA02BC58 /* CountryCodeViewController.swift */; };
-		3F3E25ED0FE4E9DAE0448732F7E175C1 /* CallHandle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC0002093A5D7F32A9455EB797ED10C1 /* CallHandle.swift */; };
-		4342F0B9C82FC392EDCBD7DE649A4F27 /* EIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70302917A84409DEDCDECD74510FAC29 /* EIColor.swift */; };
-		43AB8D205EA3EE0B46150B3A74D2F69E /* IBDesignableFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196D51E5949EAC093C4940744B4C048A /* IBDesignableFiles.swift */; };
-		4A63E2D374D034BB36E7398D3A3D7ADE /* EmailValidationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD90A519C8EF212277B94DE5145ADB9B /* EmailValidationModel.swift */; };
-		6805017B632EAEB09CB18EFA8169D559 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
+		6805017B632EAEB09CB18EFA8169D559 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		6BCABA6E972BAE861D0445A86E21FED3 /* Pods-C2CB-iOS-Library_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */; };
-		75CD30532E2D3572FC3A7B6BEDCF6027 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB123D102C96DF3CAC47CBC828C1874 /* Constant.swift */; };
-		799BD6E92DB11692951764AAE7DBF144 /* CustomWebViewPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC967AEFBB93D498E5FD1319EF4AB2DE /* CustomWebViewPage.swift */; };
-		84493B517418CB8AA532D478ADFF96D3 /* CallValidationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7EF0671F6D192E20D116639AB731FC /* CallValidationModel.swift */; };
-		8B34AE9054A763B6DC7DE4AEF664DC29 /* ChannelModePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF1D99365A5D049CE96BBEB9700000E0 /* ChannelModePage.swift */; };
-		8EF960F9EDA9C4F171F4EE13E089750B /* CountryCodeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 064CC8AB49967F6B73C04DDB5CCFA757 /* CountryCodeTableViewCell.swift */; };
-		91DAFEDEA1AC2345029349600E3F62DA /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B172F91CE2269BC1E9709109C6731286 /* BaseViewController.swift */; };
-		A15B0D522B69049100855C23 /* keypad.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D452B69049100855C23 /* keypad.png */; };
-		A15B0D532B69049100855C23 /* email.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D462B69049100855C23 /* email.png */; };
-		A15B0D542B69049100855C23 /* mute.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D472B69049100855C23 /* mute.png */; };
-		A15B0D552B69049100855C23 /* audio.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D482B69049100855C23 /* audio.png */; };
-		A15B0D562B69049100855C23 /* cancel.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D492B69049100855C23 /* cancel.png */; };
-		A15B0D572B69049100855C23 /* checked.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D4A2B69049100855C23 /* checked.png */; };
-		A15B0D582B69049100855C23 /* unmute.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D4B2B69049100855C23 /* unmute.png */; };
-		A15B0D592B69049100855C23 /* hangUp.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D4C2B69049100855C23 /* hangUp.png */; };
-		A15B0D5A2B69049100855C23 /* sms.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D4D2B69049100855C23 /* sms.png */; };
-		A15B0D5B2B69049100855C23 /* unknow.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D4E2B69049100855C23 /* unknow.png */; };
-		A15B0D5C2B69049100855C23 /* unChecked.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D4F2B69049100855C23 /* unChecked.png */; };
-		A15B0D5D2B69049100855C23 /* speaker.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D502B69049100855C23 /* speaker.png */; };
-		A15B0D5E2B69049100855C23 /* call.png in Resources */ = {isa = PBXBuildFile; fileRef = A15B0D512B69049100855C23 /* call.png */; };
-		ACA498B3F014EE304C7A20EFDBD0A493 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */; };
-		B6964FC5F3D75FF07B7BFD5DE30014F0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */; };
-		B938E8DE67F6D34D81165BBE95FF2E2B /* OutgoingCallUISetup.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04A5CC58E67A3902594C6780BFDD811 /* OutgoingCallUISetup.swift */; };
 		EEF194EA603F2AFCAED80F1AE5341365 /* Pods-C2CB-iOS-Library_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EF7D2C09DE64DC89F4FEFCB90B03A75D /* ApiParaKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD64C25D567501D3D050E40E05A19B9 /* ApiParaKey.swift */; };
-		FF1B991D9FB668922EDEDDFD3EC94C1B /* C2CB-iOS-Library-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 626634022A4B1600CB45BE0C0A2A2A45 /* C2CB-iOS-Library-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4298925F004ADBBB3CC5229B6C841F93 /* PBXContainerItemProxy */ = {
+		33A52AB68E0CAD58F431DF345368A7B3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 73614281932881D538B76C26B92E0193;
 			remoteInfo = TwilioVoice;
 		};
-		CC28B52659D9B85F8C6500B7F82DBF70 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 59F9E8102C77E95A1F9A30F6A099E245;
-			remoteInfo = "Pods-C2CB-iOS-Library_Example";
-		};
-		DF932CDB7CBCA5B9286513542CB2F94D /* PBXContainerItemProxy */ = {
+		3B90890687912B1577F2716BAF517A81 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 1AFF963248C86E64D3558F376CF02E1A;
 			remoteInfo = "C2CB-iOS-Library";
 		};
-		F50E21BA2F4238F36457EA9388F716B2 /* PBXContainerItemProxy */ = {
+		7DBAC4D0818484CDD57030555BAB4ED7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 59F9E8102C77E95A1F9A30F6A099E245;
+			remoteInfo = "Pods-C2CB-iOS-Library_Example";
+		};
+		A4D2D3EE69F37CC8317D88FCCBAF22AE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -100,77 +71,37 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		064CC8AB49967F6B73C04DDB5CCFA757 /* CountryCodeTableViewCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CountryCodeTableViewCell.swift; sourceTree = "<group>"; };
-		0DE8DF7B8A1850660C55807B6F41A32B /* C2CB-iOS-Library */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "C2CB-iOS-Library"; path = C2CB_iOS_Library.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		043F364F7A430B577D9BE5528EB18DD4 /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
 		12F692DEF1857FD9D162391A23A7AB1F /* Pods-C2CB-iOS-Library_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Tests-Info.plist"; sourceTree = "<group>"; };
-		13F183BA06708FEEB578C5E51810DDA7 /* C2CB-iOS-Library.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "C2CB-iOS-Library.modulemap"; sourceTree = "<group>"; };
 		192A9107EA453D3614441A832506F998 /* Pods-C2CB-iOS-Library_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-C2CB-iOS-Library_Example-frameworks.sh"; sourceTree = "<group>"; };
-		196D51E5949EAC093C4940744B4C048A /* IBDesignableFiles.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = IBDesignableFiles.swift; sourceTree = "<group>"; };
 		2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods-C2CB-iOS-Library_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-C2CB-iOS-Library_Example"; path = Pods_C2CB_iOS_Library_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E402A43452DBD685AD127E1AD60D6BB /* C2CB-iOS-Library.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.release.xcconfig"; sourceTree = "<group>"; };
 		2E7E706E53250DC8AD24E2BF1A08A647 /* Pods-C2CB-iOS-Library_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		32FC00A4441F8CA17F003AAFC7E13A52 /* SmsValidationModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SmsValidationModel.swift; sourceTree = "<group>"; };
 		35AA39C62E68A53F131C35DF01B31C56 /* Pods-C2CB-iOS-Library_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		3B3ADCE03C22CF9BFC1A56C9F576DFE5 /* Pods-C2CB-iOS-Library_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.release.xcconfig"; sourceTree = "<group>"; };
-		3B7EF0671F6D192E20D116639AB731FC /* CallValidationModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CallValidationModel.swift; sourceTree = "<group>"; };
-		3B9DDBD21749980FA287D921E4C901E7 /* EmailValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EmailValidationSetUp.swift; sourceTree = "<group>"; };
-		3BEABABCE7251E16089B6BBF8308DEEF /* SMSValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SMSValidationSetUp.swift; sourceTree = "<group>"; };
 		3C89F55C97C86CC35FE7D4164E138673 /* TwilioVoice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TwilioVoice.release.xcconfig; sourceTree = "<group>"; };
 		3D49FAB9E1939792ABB06C61852FBF2A /* Pods-C2CB-iOS-Library_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		3E099E3D1B7BDBFFF01CAF8B2A69F35E /* Pods-C2CB-iOS-Library_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-C2CB-iOS-Library_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-C2CB-iOS-Library_Tests-dummy.m"; sourceTree = "<group>"; };
+		4CC6E1AF63AF1D7AD27C3382E8C18187 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		522B5319B55E155BBD40EEE4F2A3DC09 /* Pods-C2CB-iOS-Library_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-C2CB-iOS-Library_Example-dummy.m"; sourceTree = "<group>"; };
-		5726FEF0083106B24F8E3D0648F92275 /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "C2CB-iOS-Library.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		593FBA9568CD287CB9DF483401B7024D /* APIConfig.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = APIConfig.swift; sourceTree = "<group>"; };
-		626634022A4B1600CB45BE0C0A2A2A45 /* C2CB-iOS-Library-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "C2CB-iOS-Library-umbrella.h"; sourceTree = "<group>"; };
-		651C3EDE12A4055DD42C6A51A962FF8B /* C2CB-iOS-Library-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "C2CB-iOS-Library-prefix.pch"; sourceTree = "<group>"; };
+		5AD6C55EE401404FBFAEDCC3E90FD647 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		68591176D5368E65D60DF9322FF54094 /* Pods-C2CB-iOS-Library_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Example.modulemap"; sourceTree = "<group>"; };
 		6FA24A3274F76A4D6B52D219CCAF64C9 /* Pods-C2CB-iOS-Library_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Example-Info.plist"; sourceTree = "<group>"; };
-		70302917A84409DEDCDECD74510FAC29 /* EIColor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EIColor.swift; sourceTree = "<group>"; };
-		73FC1ADB682E4E97D6FF65312902EF9C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		81176C3107C8867A4EB64758ACDFD551 /* C2CB-iOS-Library-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "C2CB-iOS-Library-Info.plist"; sourceTree = "<group>"; };
-		864F2AD702BA02942652C6352A8B72B0 /* ContryCodeModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ContryCodeModel.swift; sourceTree = "<group>"; };
-		964A1D2458250665EAEEADB5E87E22E2 /* C2CB-iOS-Library.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.release.xcconfig"; sourceTree = "<group>"; };
-		9CB123D102C96DF3CAC47CBC828C1874 /* Constant.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E04F3DD277DD14D7B214402FA02BC58 /* CountryCodeViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CountryCodeViewController.swift; sourceTree = "<group>"; };
-		9EFAB19F08B07E751FBBBE5B69B52B1F /* TwilioVoice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; path = TwilioVoice.xcframework; sourceTree = "<group>"; };
-		A15B0D452B69049100855C23 /* keypad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = keypad.png; sourceTree = "<group>"; };
-		A15B0D462B69049100855C23 /* email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = email.png; sourceTree = "<group>"; };
-		A15B0D472B69049100855C23 /* mute.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mute.png; sourceTree = "<group>"; };
-		A15B0D482B69049100855C23 /* audio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = audio.png; sourceTree = "<group>"; };
-		A15B0D492B69049100855C23 /* cancel.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cancel.png; sourceTree = "<group>"; };
-		A15B0D4A2B69049100855C23 /* checked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checked.png; sourceTree = "<group>"; };
-		A15B0D4B2B69049100855C23 /* unmute.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unmute.png; sourceTree = "<group>"; };
-		A15B0D4C2B69049100855C23 /* hangUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hangUp.png; sourceTree = "<group>"; };
-		A15B0D4D2B69049100855C23 /* sms.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sms.png; sourceTree = "<group>"; };
-		A15B0D4E2B69049100855C23 /* unknow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unknow.png; sourceTree = "<group>"; };
-		A15B0D4F2B69049100855C23 /* unChecked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = unChecked.png; sourceTree = "<group>"; };
-		A15B0D502B69049100855C23 /* speaker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = speaker.png; sourceTree = "<group>"; };
-		A15B0D512B69049100855C23 /* call.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = call.png; sourceTree = "<group>"; };
+		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9EFAB19F08B07E751FBBBE5B69B52B1F /* TwilioVoice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = TwilioVoice.xcframework; sourceTree = "<group>"; };
 		A7E09460C76092E773DF1A65A641CDD4 /* Pods-C2CB-iOS-Library_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		B172F91CE2269BC1E9709109C6731286 /* BaseViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
-		B53EFF007ECE7A55E5D0488480E734A6 /* CallValidationSetUp.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CallValidationSetUp.swift; sourceTree = "<group>"; };
 		BDDB675EDD5503DEDBDB192899096193 /* TwilioVoice-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "TwilioVoice-xcframeworks.sh"; sourceTree = "<group>"; };
-		BF9977FE70DA70FD8A182B7905E67384 /* Alerts.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Alerts.swift; sourceTree = "<group>"; };
 		CA980E4F18C594F7A72D2606425A8FE3 /* Pods-C2CB-iOS-Library_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Tests.modulemap"; sourceTree = "<group>"; };
-		CC0002093A5D7F32A9455EB797ED10C1 /* CallHandle.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CallHandle.swift; sourceTree = "<group>"; };
-		CC967AEFBB93D498E5FD1319EF4AB2DE /* CustomWebViewPage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CustomWebViewPage.swift; sourceTree = "<group>"; };
-		CD90A519C8EF212277B94DE5145ADB9B /* EmailValidationModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EmailValidationModel.swift; sourceTree = "<group>"; };
-		D04A5CC58E67A3902594C6780BFDD811 /* OutgoingCallUISetup.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OutgoingCallUISetup.swift; sourceTree = "<group>"; };
+		CD13F9E4468A8181A9D708930957B247 /* C2CB-iOS-Library-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "C2CB-iOS-Library-xcframeworks.sh"; sourceTree = "<group>"; };
+		CF052119B06484561D043C912210C4E0 /* C2CB-iOS-Library.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.debug.xcconfig"; sourceTree = "<group>"; };
 		D149737AF0A873A6E01C707A7756237B /* TwilioVoice.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TwilioVoice.debug.xcconfig; sourceTree = "<group>"; };
-		D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		D415E7B036913D6C186D04254CBB66DC /* CountryCodeModelView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CountryCodeModelView.swift; sourceTree = "<group>"; };
 		D6817CC62EEE648F5D1D13E41DE6DA81 /* Pods-C2CB-iOS-Library_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-C2CB-iOS-Library_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D87DB28751D172D637B0F05271939367 /* Pods-C2CB-iOS-Library_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-C2CB-iOS-Library_Example-umbrella.h"; sourceTree = "<group>"; };
-		E778F54EFB4857CFD8EB625CB64D9D07 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		EA06EDC3D3DE7D10BB0FF2FC4CED938C /* OutgoingCallModelView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = OutgoingCallModelView.swift; sourceTree = "<group>"; };
-		EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		EAD64C25D567501D3D050E40E05A19B9 /* ApiParaKey.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ApiParaKey.swift; sourceTree = "<group>"; };
-		ED536CD9F254DBDD97C542A4F8199BE4 /* C2CB-iOS-Library-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "C2CB-iOS-Library-dummy.m"; sourceTree = "<group>"; };
 		EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods-C2CB-iOS-Library_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-C2CB-iOS-Library_Tests"; path = Pods_C2CB_iOS_Library_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EF1D99365A5D049CE96BBEB9700000E0 /* ChannelModePage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ChannelModePage.swift; sourceTree = "<group>"; };
-		F57C078FE475891D68256F7D8410F84E /* C2CB-iOS-Library.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.debug.xcconfig"; sourceTree = "<group>"; };
+		F16675137794CE9EC87857BCD668CFEF /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "C2CB-iOS-Library.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FB09D3EB2C8565D005C21EE6B1B5B691 /* Pods-C2CB-iOS-Library_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-C2CB-iOS-Library_Tests-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -180,15 +111,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6805017B632EAEB09CB18EFA8169D559 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		A00C8DCE1F96C63A687C98125306A961 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B6964FC5F3D75FF07B7BFD5DE30014F0 /* Foundation.framework in Frameworks */,
-				ACA498B3F014EE304C7A20EFDBD0A493 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -203,42 +125,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		02DEEC94895079D47D2449F154E5039B /* BaseViewController */ = {
-			isa = PBXGroup;
-			children = (
-				B172F91CE2269BC1E9709109C6731286 /* BaseViewController.swift */,
-			);
-			name = BaseViewController;
-			path = "C2CB-iOS-Library/Classes/BaseViewController";
-			sourceTree = "<group>";
-		};
-		0E0BF8B7D9F7C2235142460CB23F8A19 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				0DE8DF7B8A1850660C55807B6F41A32B /* C2CB-iOS-Library */,
-				2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods-C2CB-iOS-Library_Example */,
-				EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods-C2CB-iOS-Library_Tests */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		12D79CA4943E06070C057094569AB1A5 /* CallHandler */ = {
-			isa = PBXGroup;
-			children = (
-				CC0002093A5D7F32A9455EB797ED10C1 /* CallHandle.swift */,
-			);
-			name = CallHandler;
-			path = "C2CB-iOS-Library/Classes/CallHandler";
-			sourceTree = "<group>";
-		};
-		1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				59DA5C1F72E1D5BABC43EACBA672C3BA /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		217E79A303083C558087CD50F2E2FAA4 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
@@ -247,70 +133,40 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		218092688772A2A3325C19FE1EC078B8 /* C2CB-iOS-Library */ = {
+		44F670EA1D44BEF1C887241F1B4EFFFC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A15B0D442B69046600855C23 /* Resources */,
-				02DEEC94895079D47D2449F154E5039B /* BaseViewController */,
-				12D79CA4943E06070C057094569AB1A5 /* CallHandler */,
-				974154122DEFD900031BBF495A405169 /* CallValidationForm */,
-				843066C03FDBF582315A1DD254FB1B6D /* ChannelModelDetails */,
-				9BBC0D9E9AA6C0897384F8C65333476D /* CountryCode */,
-				42940DE186504093B9A620A20C7177A8 /* EmailValidationForm */,
-				BFAB335AADCE51758BD1EFB354F940D3 /* OutgoingCall */,
-				FFD71B2139E9A499E2D827146DBD0EAA /* Pod */,
-				55D48901E10540BDF1BAADFBFB77845C /* SMSValidationFormView */,
-				DA2946448457645634BD63D757E944AC /* Support Files */,
-				E21349AA5D98546C81D3DB42F5414DEC /* Utilitie */,
-				FB2D82E3F4C68ACC0C5A94A31DCA6153 /* WebViewPage */,
+				2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods-C2CB-iOS-Library_Example */,
+				EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods-C2CB-iOS-Library_Tests */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		6513B0BEAFACD8FDE852ED76E5985761 /* C2CB-iOS-Library */ = {
+			isa = PBXGroup;
+			children = (
+				69F89AEE6C216EC6BDA27951A4381F73 /* Frameworks */,
+				CDD32B89E59674E0888503BB4EBC9DC9 /* Pod */,
+				D76E177CD1814233B08797879D69D6D1 /* Support Files */,
 			);
 			name = "C2CB-iOS-Library";
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		42940DE186504093B9A620A20C7177A8 /* EmailValidationForm */ = {
+		69F89AEE6C216EC6BDA27951A4381F73 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				CD90A519C8EF212277B94DE5145ADB9B /* EmailValidationModel.swift */,
-				3B9DDBD21749980FA287D921E4C901E7 /* EmailValidationSetUp.swift */,
+				043F364F7A430B577D9BE5528EB18DD4 /* C2CB_iOS_Library.xcframework */,
 			);
-			name = EmailValidationForm;
-			path = "C2CB-iOS-Library/Classes/EmailValidationForm";
-			sourceTree = "<group>";
-		};
-		4C8F716F50920166E5ADE482A81D1967 /* EIColor */ = {
-			isa = PBXGroup;
-			children = (
-				70302917A84409DEDCDECD74510FAC29 /* EIColor.swift */,
-			);
-			path = EIColor;
-			sourceTree = "<group>";
-		};
-		55D48901E10540BDF1BAADFBFB77845C /* SMSValidationFormView */ = {
-			isa = PBXGroup;
-			children = (
-				32FC00A4441F8CA17F003AAFC7E13A52 /* SmsValidationModel.swift */,
-				3BEABABCE7251E16089B6BBF8308DEEF /* SMSValidationSetUp.swift */,
-			);
-			name = SMSValidationFormView;
-			path = "C2CB-iOS-Library/Classes/SMSValidationFormView";
-			sourceTree = "<group>";
-		};
-		59DA5C1F72E1D5BABC43EACBA672C3BA /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				EAB6F611E86A4758835A715E4B4184F6 /* Foundation.framework */,
-				D245E0514AAC1A2B9A6D5EA2F383E90F /* UIKit.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
-		5F30E903DC19A33EFACB2BB2A6A52FCA /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				218092688772A2A3325C19FE1EC078B8 /* C2CB-iOS-Library */,
-			);
-			name = "Development Pods";
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		763FA481AED057D3E15BF8C055024859 /* Support Files */ = {
@@ -324,46 +180,6 @@
 			path = "../Target Support Files/TwilioVoice";
 			sourceTree = "<group>";
 		};
-		843066C03FDBF582315A1DD254FB1B6D /* ChannelModelDetails */ = {
-			isa = PBXGroup;
-			children = (
-				EF1D99365A5D049CE96BBEB9700000E0 /* ChannelModePage.swift */,
-			);
-			name = ChannelModelDetails;
-			path = "C2CB-iOS-Library/Classes/ChannelModelDetails";
-			sourceTree = "<group>";
-		};
-		8E6E1FC0D2FE2235B4D3E14DC4BC9990 /* APIConfig */ = {
-			isa = PBXGroup;
-			children = (
-				593FBA9568CD287CB9DF483401B7024D /* APIConfig.swift */,
-				EAD64C25D567501D3D050E40E05A19B9 /* ApiParaKey.swift */,
-			);
-			path = APIConfig;
-			sourceTree = "<group>";
-		};
-		974154122DEFD900031BBF495A405169 /* CallValidationForm */ = {
-			isa = PBXGroup;
-			children = (
-				3B7EF0671F6D192E20D116639AB731FC /* CallValidationModel.swift */,
-				B53EFF007ECE7A55E5D0488480E734A6 /* CallValidationSetUp.swift */,
-			);
-			name = CallValidationForm;
-			path = "C2CB-iOS-Library/Classes/CallValidationForm";
-			sourceTree = "<group>";
-		};
-		9BBC0D9E9AA6C0897384F8C65333476D /* CountryCode */ = {
-			isa = PBXGroup;
-			children = (
-				864F2AD702BA02942652C6352A8B72B0 /* ContryCodeModel.swift */,
-				D415E7B036913D6C186D04254CBB66DC /* CountryCodeModelView.swift */,
-				064CC8AB49967F6B73C04DDB5CCFA757 /* CountryCodeTableViewCell.swift */,
-				9E04F3DD277DD14D7B214402FA02BC58 /* CountryCodeViewController.swift */,
-			);
-			name = CountryCode;
-			path = "C2CB-iOS-Library/Classes/CountryCode";
-			sourceTree = "<group>";
-		};
 		9BFA5C70C62003B18D6D2C8451176616 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -371,43 +187,6 @@
 				BC2D9EB73E1B2B86DC9783219886A2EC /* Pods-C2CB-iOS-Library_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		A15B0D442B69046600855C23 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				A15B0D482B69049100855C23 /* audio.png */,
-				A15B0D512B69049100855C23 /* call.png */,
-				A15B0D492B69049100855C23 /* cancel.png */,
-				A15B0D4A2B69049100855C23 /* checked.png */,
-				A15B0D462B69049100855C23 /* email.png */,
-				A15B0D4C2B69049100855C23 /* hangUp.png */,
-				A15B0D452B69049100855C23 /* keypad.png */,
-				A15B0D472B69049100855C23 /* mute.png */,
-				A15B0D4D2B69049100855C23 /* sms.png */,
-				A15B0D502B69049100855C23 /* speaker.png */,
-				A15B0D4F2B69049100855C23 /* unChecked.png */,
-				A15B0D4E2B69049100855C23 /* unknow.png */,
-				A15B0D4B2B69049100855C23 /* unmute.png */,
-			);
-			path = Resources;
-			sourceTree = "<group>";
-		};
-		A2F0535ADA8D84A9C28E6A8C7FAF3475 /* Alert */ = {
-			isa = PBXGroup;
-			children = (
-				BF9977FE70DA70FD8A182B7905E67384 /* Alerts.swift */,
-			);
-			path = Alert;
-			sourceTree = "<group>";
-		};
-		AE666B1F1FAC9076A56758188BBCFD59 /* Constant */ = {
-			isa = PBXGroup;
-			children = (
-				9CB123D102C96DF3CAC47CBC828C1874 /* Constant.swift */,
-				196D51E5949EAC093C4940744B4C048A /* IBDesignableFiles.swift */,
-			);
-			path = Constant;
 			sourceTree = "<group>";
 		};
 		BC2D9EB73E1B2B86DC9783219886A2EC /* Pods-C2CB-iOS-Library_Tests */ = {
@@ -426,22 +205,13 @@
 			path = "Target Support Files/Pods-C2CB-iOS-Library_Tests";
 			sourceTree = "<group>";
 		};
-		BFAB335AADCE51758BD1EFB354F940D3 /* OutgoingCall */ = {
-			isa = PBXGroup;
-			children = (
-				EA06EDC3D3DE7D10BB0FF2FC4CED938C /* OutgoingCallModelView.swift */,
-				D04A5CC58E67A3902594C6780BFDD811 /* OutgoingCallUISetup.swift */,
-			);
-			name = OutgoingCall;
-			path = "C2CB-iOS-Library/Classes/OutgoingCall";
-			sourceTree = "<group>";
-		};
 		C141B48DD6FE4FE86C924F62FE841EBE /* TwilioVoice */ = {
 			isa = PBXGroup;
 			children = (
 				C637C9E01950FCAAFB245F146BBBA659 /* Frameworks */,
 				763FA481AED057D3E15BF8C055024859 /* Support Files */,
 			);
+			name = TwilioVoice;
 			path = TwilioVoice;
 			sourceTree = "<group>";
 		};
@@ -453,43 +223,53 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		CDD32B89E59674E0888503BB4EBC9DC9 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				F16675137794CE9EC87857BCD668CFEF /* C2CB-iOS-Library.podspec */,
+				5AD6C55EE401404FBFAEDCC3E90FD647 /* LICENSE */,
+				4CC6E1AF63AF1D7AD27C3382E8C18187 /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				5F30E903DC19A33EFACB2BB2A6A52FCA /* Development Pods */,
-				1628BF05B4CAFDCC3549A101F5A10A17 /* Frameworks */,
+				E1E5EAF7B5241F2208F6E276D34DD815 /* Development Pods */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				217E79A303083C558087CD50F2E2FAA4 /* Pods */,
-				0E0BF8B7D9F7C2235142460CB23F8A19 /* Products */,
+				44F670EA1D44BEF1C887241F1B4EFFFC /* Products */,
 				9BFA5C70C62003B18D6D2C8451176616 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		DA2946448457645634BD63D757E944AC /* Support Files */ = {
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				13F183BA06708FEEB578C5E51810DDA7 /* C2CB-iOS-Library.modulemap */,
-				ED536CD9F254DBDD97C542A4F8199BE4 /* C2CB-iOS-Library-dummy.m */,
-				81176C3107C8867A4EB64758ACDFD551 /* C2CB-iOS-Library-Info.plist */,
-				651C3EDE12A4055DD42C6A51A962FF8B /* C2CB-iOS-Library-prefix.pch */,
-				626634022A4B1600CB45BE0C0A2A2A45 /* C2CB-iOS-Library-umbrella.h */,
-				F57C078FE475891D68256F7D8410F84E /* C2CB-iOS-Library.debug.xcconfig */,
-				964A1D2458250665EAEEADB5E87E22E2 /* C2CB-iOS-Library.release.xcconfig */,
+				578452D2E740E91742655AC8F1636D1F /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D76E177CD1814233B08797879D69D6D1 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				CD13F9E4468A8181A9D708930957B247 /* C2CB-iOS-Library-xcframeworks.sh */,
+				CF052119B06484561D043C912210C4E0 /* C2CB-iOS-Library.debug.xcconfig */,
+				2E402A43452DBD685AD127E1AD60D6BB /* C2CB-iOS-Library.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/C2CB-iOS-Library";
 			sourceTree = "<group>";
 		};
-		E21349AA5D98546C81D3DB42F5414DEC /* Utilitie */ = {
+		E1E5EAF7B5241F2208F6E276D34DD815 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				A2F0535ADA8D84A9C28E6A8C7FAF3475 /* Alert */,
-				8E6E1FC0D2FE2235B4D3E14DC4BC9990 /* APIConfig */,
-				AE666B1F1FAC9076A56758188BBCFD59 /* Constant */,
-				4C8F716F50920166E5ADE482A81D1967 /* EIColor */,
+				6513B0BEAFACD8FDE852ED76E5985761 /* C2CB-iOS-Library */,
 			);
-			name = Utilitie;
-			path = "C2CB-iOS-Library/Classes/Utilitie";
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		F8CF629B05ECD716949F8D4A7DF2B60D /* Pods-C2CB-iOS-Library_Example */ = {
@@ -507,25 +287,6 @@
 			);
 			name = "Pods-C2CB-iOS-Library_Example";
 			path = "Target Support Files/Pods-C2CB-iOS-Library_Example";
-			sourceTree = "<group>";
-		};
-		FB2D82E3F4C68ACC0C5A94A31DCA6153 /* WebViewPage */ = {
-			isa = PBXGroup;
-			children = (
-				CC967AEFBB93D498E5FD1319EF4AB2DE /* CustomWebViewPage.swift */,
-			);
-			name = WebViewPage;
-			path = "C2CB-iOS-Library/Classes/WebViewPage";
-			sourceTree = "<group>";
-		};
-		FFD71B2139E9A499E2D827146DBD0EAA /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				5726FEF0083106B24F8E3D0648F92275 /* C2CB-iOS-Library.podspec */,
-				73FC1ADB682E4E97D6FF65312902EF9C /* LICENSE */,
-				E778F54EFB4857CFD8EB625CB64D9D07 /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -547,36 +308,9 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5D66B4C70133B458540389B14BC43800 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				FF1B991D9FB668922EDEDDFD3EC94C1B /* C2CB-iOS-Library-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		1AFF963248C86E64D3558F376CF02E1A /* C2CB-iOS-Library */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 1063E497A5ABCDCCD8AD94D667E3A1D7 /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library" */;
-			buildPhases = (
-				5D66B4C70133B458540389B14BC43800 /* Headers */,
-				F12D466DA456BCEFB84AD18BC75E3331 /* Sources */,
-				A00C8DCE1F96C63A687C98125306A961 /* Frameworks */,
-				A0AAA62EBCA4AE5B69F2F9667E44DDFB /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				9A8945CDF88C849040094E82EF0F4E5C /* PBXTargetDependency */,
-			);
-			name = "C2CB-iOS-Library";
-			productName = C2CB_iOS_Library;
-			productReference = 0DE8DF7B8A1850660C55807B6F41A32B /* C2CB-iOS-Library */;
-			productType = "com.apple.product-type.framework";
-		};
 		2F3C0ED6C832510DAF173B9AAD75578A /* Pods-C2CB-iOS-Library_Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 871B714BEDAF4167D49D12F029271F56 /* Build configuration list for PBXNativeTarget "Pods-C2CB-iOS-Library_Tests" */;
@@ -589,7 +323,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				CC0BF29B36D380A6A5065B00F0C8B5EE /* PBXTargetDependency */,
+				E5EB8B340FF4C73BC8419B91091C9AA8 /* PBXTargetDependency */,
 			);
 			name = "Pods-C2CB-iOS-Library_Tests";
 			productName = Pods_C2CB_iOS_Library_Tests;
@@ -608,8 +342,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				87222DC68A4B5C9A36743209D7E13E84 /* PBXTargetDependency */,
-				9B5CE7BB0A1388364776F96EDB8BBEF5 /* PBXTargetDependency */,
+				9549C109AF1254E8289FACB0174CE677 /* PBXTargetDependency */,
+				8E722CCFC36B0B7027B9E9E095516504 /* PBXTargetDependency */,
 			);
 			name = "Pods-C2CB-iOS-Library_Example";
 			productName = Pods_C2CB_iOS_Library_Example;
@@ -634,7 +368,7 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			productRefGroup = 0E0BF8B7D9F7C2235142460CB23F8A19 /* Products */;
+			productRefGroup = 44F670EA1D44BEF1C887241F1B4EFFFC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -661,30 +395,27 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A0AAA62EBCA4AE5B69F2F9667E44DDFB /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A15B0D5A2B69049100855C23 /* sms.png in Resources */,
-				A15B0D5E2B69049100855C23 /* call.png in Resources */,
-				A15B0D5D2B69049100855C23 /* speaker.png in Resources */,
-				A15B0D5B2B69049100855C23 /* unknow.png in Resources */,
-				A15B0D592B69049100855C23 /* hangUp.png in Resources */,
-				A15B0D5C2B69049100855C23 /* unChecked.png in Resources */,
-				A15B0D532B69049100855C23 /* email.png in Resources */,
-				A15B0D522B69049100855C23 /* keypad.png in Resources */,
-				A15B0D552B69049100855C23 /* audio.png in Resources */,
-				A15B0D572B69049100855C23 /* checked.png in Resources */,
-				A15B0D562B69049100855C23 /* cancel.png in Resources */,
-				A15B0D582B69049100855C23 /* unmute.png in Resources */,
-				A15B0D542B69049100855C23 /* mute.png in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		484650699E2FA86FFB17E1B4D4F0DEBF /* [CP] Copy XCFrameworks */ = {
+		7F9E8BC1CA043DEAEB2A95091947E3DB /* [CP] Copy XCFrameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-xcframeworks-input-files.xcfilelist",
+			);
+			name = "[CP] Copy XCFrameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-xcframeworks-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-xcframeworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		91C1403511D07E2B8E8971388FF166D4 /* [CP] Copy XCFrameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -720,84 +451,36 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F12D466DA456BCEFB84AD18BC75E3331 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				13608BF544D1EBFBA9164B72D6DB55E0 /* Alerts.swift in Sources */,
-				15D0B362A9C81A63075FE65678643E0B /* APIConfig.swift in Sources */,
-				EF7D2C09DE64DC89F4FEFCB90B03A75D /* ApiParaKey.swift in Sources */,
-				91DAFEDEA1AC2345029349600E3F62DA /* BaseViewController.swift in Sources */,
-				36C8649D2E5D7441301C2EA6D9A2D8BC /* C2CB-iOS-Library-dummy.m in Sources */,
-				3F3E25ED0FE4E9DAE0448732F7E175C1 /* CallHandle.swift in Sources */,
-				84493B517418CB8AA532D478ADFF96D3 /* CallValidationModel.swift in Sources */,
-				08C5B0603C202BF567752B2ADBF6FC87 /* CallValidationSetUp.swift in Sources */,
-				8B34AE9054A763B6DC7DE4AEF664DC29 /* ChannelModePage.swift in Sources */,
-				75CD30532E2D3572FC3A7B6BEDCF6027 /* Constant.swift in Sources */,
-				11D13E077055596235C140547EA1CB75 /* ContryCodeModel.swift in Sources */,
-				0D3F558AE79242CA9FE6F7EC51EB9FBB /* CountryCodeModelView.swift in Sources */,
-				8EF960F9EDA9C4F171F4EE13E089750B /* CountryCodeTableViewCell.swift in Sources */,
-				389407A1A763BB86B5ACCBFC2D629573 /* CountryCodeViewController.swift in Sources */,
-				799BD6E92DB11692951764AAE7DBF144 /* CustomWebViewPage.swift in Sources */,
-				4342F0B9C82FC392EDCBD7DE649A4F27 /* EIColor.swift in Sources */,
-				4A63E2D374D034BB36E7398D3A3D7ADE /* EmailValidationModel.swift in Sources */,
-				3062900C3F64FA19B1DCCF0F2D4C261A /* EmailValidationSetUp.swift in Sources */,
-				43AB8D205EA3EE0B46150B3A74D2F69E /* IBDesignableFiles.swift in Sources */,
-				24C612A1F1FCF85E0182934AD6846E62 /* OutgoingCallModelView.swift in Sources */,
-				B938E8DE67F6D34D81165BBE95FF2E2B /* OutgoingCallUISetup.swift in Sources */,
-				21FDDED7A48613363485A464B1B751DB /* SmsValidationModel.swift in Sources */,
-				214B54877F6576867D9E72CB031A7EA0 /* SMSValidationSetUp.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		87222DC68A4B5C9A36743209D7E13E84 /* PBXTargetDependency */ = {
+		8E722CCFC36B0B7027B9E9E095516504 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = TwilioVoice;
+			target = 73614281932881D538B76C26B92E0193 /* TwilioVoice */;
+			targetProxy = A4D2D3EE69F37CC8317D88FCCBAF22AE /* PBXContainerItemProxy */;
+		};
+		9549C109AF1254E8289FACB0174CE677 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "C2CB-iOS-Library";
 			target = 1AFF963248C86E64D3558F376CF02E1A /* C2CB-iOS-Library */;
-			targetProxy = DF932CDB7CBCA5B9286513542CB2F94D /* PBXContainerItemProxy */;
+			targetProxy = 3B90890687912B1577F2716BAF517A81 /* PBXContainerItemProxy */;
 		};
-		9A8945CDF88C849040094E82EF0F4E5C /* PBXTargetDependency */ = {
+		D9097C0C9231295013A02EAFE624A13D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = TwilioVoice;
 			target = 73614281932881D538B76C26B92E0193 /* TwilioVoice */;
-			targetProxy = 4298925F004ADBBB3CC5229B6C841F93 /* PBXContainerItemProxy */;
+			targetProxy = 33A52AB68E0CAD58F431DF345368A7B3 /* PBXContainerItemProxy */;
 		};
-		9B5CE7BB0A1388364776F96EDB8BBEF5 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = TwilioVoice;
-			target = 73614281932881D538B76C26B92E0193 /* TwilioVoice */;
-			targetProxy = F50E21BA2F4238F36457EA9388F716B2 /* PBXContainerItemProxy */;
-		};
-		CC0BF29B36D380A6A5065B00F0C8B5EE /* PBXTargetDependency */ = {
+		E5EB8B340FF4C73BC8419B91091C9AA8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-C2CB-iOS-Library_Example";
 			target = 59F9E8102C77E95A1F9A30F6A099E245 /* Pods-C2CB-iOS-Library_Example */;
-			targetProxy = CC28B52659D9B85F8C6500B7F82DBF70 /* PBXContainerItemProxy */;
+			targetProxy = 7DBAC4D0818484CDD57030555BAB4ED7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0FB3B68057A00CDBD2DBCC21F96354DF /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3C89F55C97C86CC35FE7D4164E138673 /* TwilioVoice.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 		2B9E26EAE2CD392AD762421F663075A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -902,6 +585,41 @@
 			};
 			name = Release;
 		};
+		496D5ABD96255C54047539729A50C871 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3C89F55C97C86CC35FE7D4164E138673 /* TwilioVoice.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4E0F152D42DD5D240737859FD82BB144 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = CF052119B06484561D043C912210C4E0 /* C2CB-iOS-Library.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
 		63FAF33E1C55B71A5F5A8B3CC8749F99 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -964,22 +682,23 @@
 			};
 			name = Release;
 		};
-		6F4339C4A44A56A110ED6A9DA9959E21 /* Debug */ = {
+		6FE2DDEE7BCE26027622CB5904F3AA09 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D149737AF0A873A6E01C707A7756237B /* TwilioVoice.debug.xcconfig */;
+			baseConfigurationReference = 2E402A43452DBD685AD127E1AD60D6BB /* C2CB-iOS-Library.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 			};
-			name = Debug;
+			name = Release;
 		};
 		7B50EE77FC73B143844EC2A337020DEF /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -1017,42 +736,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		93860A0B9A2E689969296FEBDA4D502A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 964A1D2458250665EAEEADB5E87E22E2 /* C2CB-iOS-Library.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library.modulemap";
-				PRODUCT_MODULE_NAME = C2CB_iOS_Library;
-				PRODUCT_NAME = C2CB_iOS_Library;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		984CADFE2312852264E64E3A529E1349 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -1129,53 +812,26 @@
 			};
 			name = Debug;
 		};
-		ED6F92AB671375B40E84BB1C8230C6B9 /* Debug */ = {
+		E79D603482FEA8B467BD7F6E8706684B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F57C078FE475891D68256F7D8410F84E /* C2CB-iOS-Library.debug.xcconfig */;
+			baseConfigurationReference = D149737AF0A873A6E01C707A7756237B /* TwilioVoice.debug.xcconfig */;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
 				);
-				MODULEMAP_FILE = "Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library.modulemap";
-				PRODUCT_MODULE_NAME = C2CB_iOS_Library;
-				PRODUCT_NAME = C2CB_iOS_Library;
 				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1063E497A5ABCDCCD8AD94D667E3A1D7 /* Build configuration list for PBXNativeTarget "C2CB-iOS-Library" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				ED6F92AB671375B40E84BB1C8230C6B9 /* Debug */,
-				93860A0B9A2E689969296FEBDA4D502A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1185,11 +841,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		69C7CC09C53CD21A507D9C792D5754E6 /* Build configuration list for PBXAggregateTarget "TwilioVoice" */ = {
+		55033E3DD47935132F13BFD4BEBB2C19 /* Build configuration list for PBXAggregateTarget "TwilioVoice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F4339C4A44A56A110ED6A9DA9959E21 /* Debug */,
-				0FB3B68057A00CDBD2DBCC21F96354DF /* Release */,
+				E79D603482FEA8B467BD7F6E8706684B /* Debug */,
+				496D5ABD96255C54047539729A50C871 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		81331229D23FC82D106AA50ED71C9AD2 /* Build configuration list for PBXAggregateTarget "C2CB-iOS-Library" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E0F152D42DD5D240737859FD82BB144 /* Debug */,
+				6FE2DDEE7BCE26027622CB5904F3AA09 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

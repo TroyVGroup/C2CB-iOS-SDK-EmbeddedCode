@@ -19,23 +19,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TNV-gn-uTn" customClass="CustomView" customModule="C2CB_iOS_Library">
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TNV-gn-uTn" customClass="C2CSdkCustomView" customModule="C2CB_iOS_Library">
                                 <rect key="frame" x="40" y="68" width="200" height="39"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="39" id="8h0-an-uwa"/>
                                     <constraint firstAttribute="width" constant="200" id="bIY-gA-jAe"/>
                                 </constraints>
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="doneAccessory" value="YES"/>
-                                    <userDefinedRuntimeAttribute type="string" keyPath="channel_id" value="657b0f55632f4ca91909ce0e"/>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="width">
-                                        <real key="value" value="40"/>
-                                    </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="height">
-                                        <real key="value" value="40"/>
-                                    </userDefinedRuntimeAttribute>
-                                </userDefinedRuntimeAttributes>
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -44,6 +34,9 @@
                             <constraint firstItem="TNV-gn-uTn" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="20" id="LZ4-kM-3uM"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="mycustomeView" destination="TNV-gn-uTn" id="CvD-14-530"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>

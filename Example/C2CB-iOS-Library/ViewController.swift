@@ -10,10 +10,13 @@ import UIKit
 import C2CB_iOS_Library
 class ViewController: UIViewController {
 
+    
+    @IBOutlet weak var mycustomeView:C2CSdkCustomView!
     override func viewDidLoad() {
         super.viewDidLoad()
         let bundle = Bundle.main.bundleIdentifier
         print("bundle___________",bundle ?? "")
+        mycustomeView.channel_id = "657b0f55632f4ca91909ce0e"
        // self.DoneKeyboard(dismissOnTap: true)
     }
 

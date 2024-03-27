@@ -15,6 +15,7 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		A1870ACD2BB448D300569E20 /* C2CB_iOS_Library.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1870ACC2BB448D200569E20 /* C2CB_iOS_Library.xcframework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		9B236FA26F18F13F41407567 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		9D52550289F1E8E7D5F50EE5 /* Pods_C2CB_iOS_Library_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_C2CB_iOS_Library_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A1870ACC2BB448D200569E20 /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = C2CB_iOS_Library.xcframework; path = ../C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
 		A5B2D48AC1FF7FD6C2D93940 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		B64FB817BB130142F38CAF20 /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "C2CB-iOS-Library.podspec"; path = "../C2CB-iOS-Library.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E9BED2FD48C58857553548B5 /* Pods-C2CB-iOS-Library_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-C2CB-iOS-Library_Example.release.xcconfig"; path = "Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				207AE8907CF5DFF12B87ED1B /* Pods_C2CB_iOS_Library_Example.framework in Frameworks */,
+				A1870ACD2BB448D300569E20 /* C2CB_iOS_Library.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,6 +156,7 @@
 		99B61021BE1D61099DD1BD37 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A1870ACC2BB448D200569E20 /* C2CB_iOS_Library.xcframework */,
 				10B8E9F63DE529AE7FD32E7A /* Pods_C2CB_iOS_Library_Example.framework */,
 				9D52550289F1E8E7D5F50EE5 /* Pods_C2CB_iOS_Library_Tests.framework */,
 			);
@@ -269,7 +273,7 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/C2CB-iOS-Library/C2CB_iOS_Library.framework",
+				"${PODS_XCFRAMEWORKS_BUILD_DIR}/C2CB-iOS-Library/C2CB_iOS_Library.framework/C2CB_iOS_Library",
 				"${PODS_XCFRAMEWORKS_BUILD_DIR}/TwilioVoice/TwilioVoice.framework/TwilioVoice",
 			);
 			name = "[CP] Embed Pods Frameworks";
