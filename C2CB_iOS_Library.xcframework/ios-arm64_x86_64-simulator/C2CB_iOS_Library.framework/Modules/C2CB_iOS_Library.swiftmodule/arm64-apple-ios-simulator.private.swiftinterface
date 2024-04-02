@@ -15,6 +15,17 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkBaseViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) public func getIPDetails()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension C2CB_iOS_Library.C2CSdkBaseViewController : CoreLocation.CLLocationManagerDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func locationManager(_ manager: CoreLocation.CLLocationManager, didChangeAuthorization status: CoreLocation.CLAuthorizationStatus)
+}
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkCountryCodeViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
   @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
@@ -38,20 +49,6 @@ extension C2CB_iOS_Library.C2CSdkCountryCodeViewController : UIKit.UISearchBarDe
   @_Concurrency.MainActor(unsafe) @objc dynamic public func searchBarCancelButtonClicked(_ searchBar: UIKit.UISearchBar)
   @_Concurrency.MainActor(unsafe) @objc dynamic public func searchBarSearchButtonClicked(_ searchBar: UIKit.UISearchBar)
   @_Concurrency.MainActor(unsafe) @objc dynamic public func searchBarShouldBeginEditing(_ searchBar: UIKit.UISearchBar) -> Swift.Bool
-}
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkBaseViewController : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
-  @_Concurrency.MainActor(unsafe) public func getIPDetails()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
-}
-extension C2CB_iOS_Library.C2CSdkBaseViewController : CoreLocation.CLLocationManagerDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func locationManager(_ manager: CoreLocation.CLLocationManager, didChangeAuthorization status: CoreLocation.CLAuthorizationStatus)
-}
-@_hasMissingDesignatedInitializers open class C2CSdkEmailValidationModel {
-  @objc deinit
 }
 @objc @_inheritsConvenienceInitializers open class C2CSdkCallHandler : ObjectiveC.NSObject {
   @objc deinit
@@ -90,6 +87,75 @@ extension C2CB_iOS_Library.C2CSdkCallHandler : AVFAudio.AVAudioPlayerDelegate {
   @objc dynamic public func audioPlayerDidFinishPlaying(_ player: AVFAudio.AVAudioPlayer, successfully flag: Swift.Bool)
   @objc dynamic public func audioPlayerDecodeErrorDidOccur(_ player: AVFAudio.AVAudioPlayer, error: (any Swift.Error)?)
 }
+@_hasMissingDesignatedInitializers public class ChannelMode {
+  public static var callBtn: Swift.Bool
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers open class C2CSdkEmailValidationModel {
+  @objc deinit
+}
+public func C2CSdkshowAlert(title: Swift.String, message: Swift.String, view: UIKit.UIViewController)
+public func C2CSdkshowAlertWithOkAction(title: Swift.String, message: Swift.String, view: UIKit.UIViewController, actionHandler: @escaping C2CB_iOS_Library.alertActionHandler)
+public func C2CSdkvalidateEmailID(emailID: Swift.String) -> Swift.Bool
+public func C2CSdkvalidateNumber(number: Swift.String) -> Swift.Bool
+public func C2CSdkisValid(name: Swift.String) -> Swift.Bool
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkCallValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension C2CB_iOS_Library.C2CSdkCallValidationSetUp : UIKit.UITextViewDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidBeginEditing(_ textView: UIKit.UITextView)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidEndEditing(_ textView: UIKit.UITextView)
+}
+extension C2CB_iOS_Library.C2CSdkCallValidationSetUp : UIKit.UITextFieldDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkOutgoingCallUISetup : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @objc deinit
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class C2CSdkCustomView : UIKit.UIView {
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var width: CoreFoundation.CGFloat {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var height: CoreFoundation.CGFloat {
+    @objc get
+    @objc set
+  }
+  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var channel_id: Swift.String {
+    @objc get
+    @objc set(channel_id_value)
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func prepareForInterfaceBuilder()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers open class C2CSdkContryCodeModelView {
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkEmailValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension C2CB_iOS_Library.C2CSdkEmailValidationSetUp : UIKit.UITextViewDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidBeginEditing(_ textView: UIKit.UITextView)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidEndEditing(_ textView: UIKit.UITextView)
+}
+extension C2CB_iOS_Library.C2CSdkEmailValidationSetUp : UIKit.UITextFieldDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
+}
+@_hasMissingDesignatedInitializers open class C2CSdkSmsValidationModel {
+  @objc deinit
+}
 public enum WebService : Swift.String {
   case baseURLPath
   case termConditionUrl
@@ -100,6 +166,28 @@ public enum WebService : Swift.String {
   public var rawValue: Swift.String {
     get
   }
+}
+@_hasMissingDesignatedInitializers open class C2CSdkCallValidationModel {
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkSMSValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension C2CB_iOS_Library.C2CSdkSMSValidationSetUp : UIKit.UITextViewDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidBeginEditing(_ textView: UIKit.UITextView)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidEndEditing(_ textView: UIKit.UITextView)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textView(_ textView: UIKit.UITextView, shouldChangeTextIn range: Foundation.NSRange, replacementText text: Swift.String) -> Swift.Bool
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidChange(_ textView: UIKit.UITextView)
+}
+extension C2CB_iOS_Library.C2CSdkSMSValidationSetUp : UIKit.UITextFieldDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
+}
+@_hasMissingDesignatedInitializers open class C2CSdkOutgoingCallModelView {
+  @objc deinit
 }
 public typealias EIArray = [Any]
 public typealias EIDictonary = [Swift.String : Any]
@@ -123,94 +211,6 @@ extension UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) public func doneKeyboard(dismissOnTap: Swift.Bool)
 }
 @_hasMissingDesignatedInitializers public class ImageDownloader {
-  @objc deinit
-}
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkSMSValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
-}
-extension C2CB_iOS_Library.C2CSdkSMSValidationSetUp : UIKit.UITextViewDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidBeginEditing(_ textView: UIKit.UITextView)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidEndEditing(_ textView: UIKit.UITextView)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textView(_ textView: UIKit.UITextView, shouldChangeTextIn range: Foundation.NSRange, replacementText text: Swift.String) -> Swift.Bool
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidChange(_ textView: UIKit.UITextView)
-}
-extension C2CB_iOS_Library.C2CSdkSMSValidationSetUp : UIKit.UITextFieldDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
-}
-@_hasMissingDesignatedInitializers open class C2CSdkOutgoingCallModelView {
-  @objc deinit
-}
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkOutgoingCallUISetup : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
-  @objc deinit
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-}
-@_hasMissingDesignatedInitializers open class C2CSdkContryCodeModelView {
-  @objc deinit
-}
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkEmailValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
-}
-extension C2CB_iOS_Library.C2CSdkEmailValidationSetUp : UIKit.UITextViewDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidBeginEditing(_ textView: UIKit.UITextView)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidEndEditing(_ textView: UIKit.UITextView)
-}
-extension C2CB_iOS_Library.C2CSdkEmailValidationSetUp : UIKit.UITextFieldDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
-}
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class C2CSdkCustomView : UIKit.UIView {
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var width: CoreFoundation.CGFloat {
-    @objc get
-    @objc set
-  }
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var height: CoreFoundation.CGFloat {
-    @objc get
-    @objc set
-  }
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var channel_id: Swift.String {
-    @objc get
-    @objc set(channel_id_value)
-  }
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func prepareForInterfaceBuilder()
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers open class C2CSdkCallValidationModel {
-  @objc deinit
-}
-@_hasMissingDesignatedInitializers open class C2CSdkSmsValidationModel {
-  @objc deinit
-}
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) open class C2CSdkCallValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic open func viewWillLayoutSubviews()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
-}
-extension C2CB_iOS_Library.C2CSdkCallValidationSetUp : UIKit.UITextViewDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidBeginEditing(_ textView: UIKit.UITextView)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textViewDidEndEditing(_ textView: UIKit.UITextView)
-}
-extension C2CB_iOS_Library.C2CSdkCallValidationSetUp : UIKit.UITextFieldDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
-}
-public func C2CSdkshowAlert(title: Swift.String, message: Swift.String, view: UIKit.UIViewController)
-public func C2CSdkshowAlertWithOkAction(title: Swift.String, message: Swift.String, view: UIKit.UIViewController, actionHandler: @escaping C2CB_iOS_Library.alertActionHandler)
-public func C2CSdkvalidateEmailID(emailID: Swift.String) -> Swift.Bool
-public func C2CSdkvalidateNumber(number: Swift.String) -> Swift.Bool
-public func C2CSdkisValid(name: Swift.String) -> Swift.Bool
-@_hasMissingDesignatedInitializers public class ChannelMode {
-  public static var callBtn: Swift.Bool
   @objc deinit
 }
 extension C2CB_iOS_Library.WebService : Swift.Equatable {}

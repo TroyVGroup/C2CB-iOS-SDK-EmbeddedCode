@@ -464,10 +464,10 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library26C2CSdkEmailValidationSetUp")
 @end
 
 
-
 @interface C2CSdkEmailValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextFieldDelegate>
 - (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
 @end
+
 
 
 @interface C2CSdkEmailValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextViewDelegate>
@@ -496,10 +496,10 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library24C2CSdkSMSValidationSetUp")
 @end
 
 
-
 @interface C2CSdkSMSValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextFieldDelegate>
 - (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
 @end
+
 
 
 @interface C2CSdkSMSValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextViewDelegate>
@@ -990,10 +990,10 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library26C2CSdkEmailValidationSetUp")
 @end
 
 
-
 @interface C2CSdkEmailValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextFieldDelegate>
 - (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
 @end
+
 
 
 @interface C2CSdkEmailValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextViewDelegate>
@@ -1022,10 +1022,10 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library24C2CSdkSMSValidationSetUp")
 @end
 
 
-
 @interface C2CSdkSMSValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextFieldDelegate>
 - (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
 @end
+
 
 
 @interface C2CSdkSMSValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextViewDelegate>
