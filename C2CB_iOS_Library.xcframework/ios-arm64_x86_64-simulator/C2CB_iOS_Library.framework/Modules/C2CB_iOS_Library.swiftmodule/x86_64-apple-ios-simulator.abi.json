@@ -5587,2604 +5587,2611 @@
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1933,
+      "offset": 2037,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1948,
+      "offset": 2052,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2129,
+      "offset": 2233,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2163,
+      "offset": 2267,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2388,
+      "offset": 2492,
       "length": 11,
       "value": "\"Last name\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2515,
+      "offset": 2619,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2576,
+      "offset": 2680,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2635,
+      "offset": 2739,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2650,
+      "offset": 2754,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2775,
+      "offset": 2879,
       "length": 17,
       "value": "\"Enter last name\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2995,
+      "offset": 3203,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3010,
+      "offset": 3218,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3185,
+      "offset": 3393,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3219,
+      "offset": 3427,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3451,
+      "offset": 3659,
       "length": 15,
       "value": "\"Country code.\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3582,
+      "offset": 3790,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3643,
+      "offset": 3851,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3702,
+      "offset": 3910,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3717,
+      "offset": 3925,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3849,
+      "offset": 4057,
       "length": 21,
       "value": "\"Select Country code\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3997,
+      "offset": 4309,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4012,
+      "offset": 4324,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4211,
+      "offset": 4523,
       "length": 25,
       "value": "\"arrowtriangle.down.fill\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4560,
+      "offset": 4872,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4566,
+      "offset": 4878,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4576,
+      "offset": 4888,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4589,
+      "offset": 4901,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4787,
+      "offset": 5099,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4851,
+      "offset": 5163,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4866,
+      "offset": 5178,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 4899,
+      "offset": 5211,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5132,
+      "offset": 5444,
       "length": 16,
       "value": "\"Contact Number\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5262,
+      "offset": 5574,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5323,
+      "offset": 5635,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5382,
+      "offset": 5694,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5397,
+      "offset": 5709,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5524,
+      "offset": 5836,
       "length": 16,
       "value": "\"Contact number\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5745,
+      "offset": 6161,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5760,
+      "offset": 6176,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5939,
+      "offset": 6355,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5973,
+      "offset": 6389,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6202,
+      "offset": 6618,
       "length": 6,
       "value": "\"Code\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6322,
+      "offset": 6738,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6383,
+      "offset": 6799,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6523,
+      "offset": 6939,
       "length": 6,
       "value": "\"Code\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6646,
+      "offset": 7062,
       "length": 9,
       "value": "\"#52ACDD\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6729,
+      "offset": 7145,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6744,
+      "offset": 7160,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6786,
+      "offset": 7202,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 6845,
+      "offset": 7261,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6860,
+      "offset": 7276,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7046,
+      "offset": 7462,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7080,
+      "offset": 7496,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7331,
+      "offset": 7747,
       "length": 43,
       "value": "\"Enter Verification Code for Mobile Number\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7488,
+      "offset": 7904,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7549,
+      "offset": 7965,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7608,
+      "offset": 8024,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7623,
+      "offset": 8039,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7796,
+      "offset": 8212,
       "length": 43,
       "value": "\"Enter Verification Code for Mobile Number\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8044,
+      "offset": 8564,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8059,
+      "offset": 8579,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8313,
+      "offset": 8833,
       "length": 21,
       "value": "\"checkmark.seal.fill\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8958,
+      "length": 11,
+      "value": "\"checkmark\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8509,
+      "offset": 9083,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8701,
+      "offset": 9275,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8735,
+      "offset": 9309,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8876,
+      "offset": 9450,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9008,
+      "offset": 9582,
       "length": 15,
       "value": "\"Email Address\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9275,
+      "offset": 9953,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9290,
+      "offset": 9968,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9430,
+      "offset": 10108,
       "length": 8,
       "value": "\"Verify\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9555,
+      "offset": 10233,
       "length": 9,
       "value": "\"#52ACDD\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9638,
+      "offset": 10316,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9653,
+      "offset": 10331,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9695,
+      "offset": 10373,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9754,
+      "offset": 10432,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9769,
+      "offset": 10447,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9899,
+      "offset": 10577,
       "length": 43,
       "value": "\"Enter Verification Code for Email Address\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10056,
+      "offset": 10734,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10117,
+      "offset": 10795,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10176,
+      "offset": 10854,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10191,
+      "offset": 10869,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10333,
+      "offset": 11011,
       "length": 43,
       "value": "\"Enter Verification Code for Email Address\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10581,
+      "offset": 11363,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10596,
+      "offset": 11378,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10790,
+      "offset": 11572,
       "length": 21,
       "value": "\"checkmark.seal.fill\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10986,
+      "offset": 11768,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11171,
+      "offset": 11953,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11205,
+      "offset": 11987,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11346,
+      "offset": 12128,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11635,
+      "offset": 12585,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11651,
+      "offset": 12601,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 11700,
+      "offset": 12650,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11749,
+      "offset": 12699,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12041,
+      "offset": 13159,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12057,
+      "offset": 13175,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 12106,
+      "offset": 13224,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12155,
+      "offset": 13273,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12297,
+      "offset": 13415,
       "length": 7,
       "value": "\"0\/160\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12424,
+      "offset": 13542,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12485,
+      "offset": 13603,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12770,
+      "offset": 14056,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12786,
+      "offset": 14072,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 12835,
+      "offset": 14121,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12884,
+      "offset": 14170,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13050,
+      "offset": 14336,
       "length": 11,
       "value": "\"unChecked\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13267,
+      "offset": 14553,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13282,
+      "offset": 14568,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13339,
+      "offset": 14625,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13354,
+      "offset": 14640,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13464,
+      "offset": 14750,
       "length": 16,
       "value": "\"I agree to the\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13594,
+      "offset": 14880,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13655,
+      "offset": 14941,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13838,
+      "offset": 15124,
       "length": 22,
       "value": "\"terms and condition.\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13932,
+      "offset": 15218,
       "length": 9,
       "value": "\"#52ACDD\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14097,
+      "offset": 15383,
       "length": 9,
       "value": "\"Connect\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14186,
+      "offset": 15472,
       "length": 9,
       "value": "\"#52ACDD\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14306,
+      "offset": 15592,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14321,
+      "offset": 15607,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14363,
+      "offset": 15649,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14409,
+      "offset": 15695,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14528,
+      "offset": 15814,
       "length": 13,
       "value": "\"Powered by:\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14655,
+      "offset": 15941,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14716,
+      "offset": 16002,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14848,
+      "offset": 16134,
       "length": 19,
       "value": "\"contexttocall.com\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14939,
+      "offset": 16225,
       "length": 9,
       "value": "\"#52ACDD\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15147,
+      "offset": 16433,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15181,
+      "offset": 16467,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15482,
+      "offset": 16768,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15516,
+      "offset": 16802,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15809,
+      "offset": 17095,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15843,
+      "offset": 17129,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16136,
+      "offset": 17422,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16170,
+      "offset": 17456,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16467,
+      "offset": 17753,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16501,
+      "offset": 17787,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 16788,
+      "offset": 18074,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16822,
+      "offset": 18108,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17121,
+      "offset": 18407,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17155,
+      "offset": 18441,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17556,
+      "offset": 18842,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17605,
+      "offset": 18891,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 17715,
+      "offset": 19001,
       "length": 17,
       "value": "\"Enter message..\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17799,
+      "offset": 19085,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18048,
+      "offset": 19334,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18084,
+      "offset": 19370,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18169,
+      "offset": 19455,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19008,
+      "offset": 20294,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19101,
+      "offset": 20387,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 19225,
+      "offset": 20511,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19798,
+      "offset": 21084,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19805,
+      "offset": 21091,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19816,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19828,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 20031,
+      "offset": 21102,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20128,
+      "offset": 21114,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20386,
+      "offset": 21317,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21414,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21672,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20488,
+      "offset": 21774,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20592,
+      "offset": 21878,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21049,
+      "offset": 22335,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21055,
+      "offset": 22341,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21573,
+      "offset": 22859,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21580,
+      "offset": 22866,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21591,
+      "offset": 22877,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 21603,
+      "offset": 22889,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22182,
+      "offset": 23468,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22643,
+      "offset": 23929,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22650,
+      "offset": 23936,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22661,
+      "offset": 23947,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22673,
+      "offset": 23959,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22811,
+      "offset": 24097,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23265,
+      "offset": 24551,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23272,
+      "offset": 24558,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23283,
+      "offset": 24569,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23295,
+      "offset": 24581,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23435,
+      "offset": 24721,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23441,
+      "offset": 24727,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23451,
+      "offset": 24737,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23463,
+      "offset": 24749,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23862,
+      "offset": 25148,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24058,
+      "offset": 25344,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24262,
+      "offset": 25548,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24330,
+      "offset": 25616,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24559,
+      "offset": 25845,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24761,
+      "offset": 26047,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24822,
+      "offset": 26108,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25046,
+      "offset": 26332,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25392,
+      "offset": 26678,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25500,
+      "offset": 26786,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25609,
+      "offset": 26895,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25646,
+      "offset": 26932,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25690,
+      "offset": 26976,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25702,
+      "offset": 26988,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25947,
+      "offset": 27233,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26049,
+      "offset": 27335,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26269,
+      "offset": 27555,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26442,
+      "offset": 27728,
       "length": 3,
       "value": "800"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 26553,
+      "offset": 27839,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27072,
+      "offset": 28358,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27165,
+      "offset": 28451,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 27298,
+      "offset": 28584,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27879,
+      "offset": 29165,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27886,
+      "offset": 29172,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27897,
+      "offset": 29183,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 27909,
+      "offset": 29195,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28112,
+      "offset": 29398,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28209,
+      "offset": 29495,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28467,
+      "offset": 29753,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28569,
+      "offset": 29855,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 28673,
+      "offset": 29959,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29130,
+      "offset": 30416,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29136,
+      "offset": 30422,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29654,
+      "offset": 30940,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29661,
+      "offset": 30947,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29672,
+      "offset": 30958,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 29684,
+      "offset": 30970,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30252,
+      "offset": 31538,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30726,
+      "offset": 32012,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30733,
+      "offset": 32019,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30744,
+      "offset": 32030,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 30756,
+      "offset": 32042,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 30900,
+      "offset": 32186,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31345,
+      "offset": 32631,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31352,
+      "offset": 32638,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31363,
+      "offset": 32649,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31375,
+      "offset": 32661,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31515,
+      "offset": 32801,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31521,
+      "offset": 32807,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31531,
+      "offset": 32817,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 31543,
+      "offset": 32829,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 31939,
+      "offset": 33225,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32133,
+      "offset": 33419,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32335,
+      "offset": 33621,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32403,
+      "offset": 33689,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32630,
+      "offset": 33916,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32831,
+      "offset": 34117,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 32892,
+      "offset": 34178,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 33486,
+      "offset": 34772,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 33613,
+      "offset": 34899,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 33832,
+      "offset": 35118,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 33940,
+      "offset": 35226,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34049,
+      "offset": 35335,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34086,
+      "offset": 35372,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34130,
+      "offset": 35416,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34142,
+      "offset": 35428,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34387,
+      "offset": 35673,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34489,
+      "offset": 35775,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34709,
+      "offset": 35995,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34882,
+      "offset": 36168,
       "length": 3,
       "value": "800"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 34993,
+      "offset": 36279,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35516,
+      "offset": 36802,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 35609,
+      "offset": 36895,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35742,
+      "offset": 37028,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36324,
+      "offset": 37610,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36331,
+      "offset": 37617,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36342,
+      "offset": 37628,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36354,
+      "offset": 37640,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36557,
+      "offset": 37843,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36654,
+      "offset": 37940,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 36912,
+      "offset": 38198,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 37014,
+      "offset": 38300,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 37118,
+      "offset": 38404,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 37575,
+      "offset": 38861,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 37581,
+      "offset": 38867,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 38099,
+      "offset": 39385,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 38106,
+      "offset": 39392,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 38117,
+      "offset": 39403,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 38129,
+      "offset": 39415,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 38701,
+      "offset": 39987,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 39236,
+      "offset": 40522,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 39243,
+      "offset": 40529,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 39254,
+      "offset": 40540,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 39266,
+      "offset": 40552,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 39405,
+      "offset": 40691,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 39917,
+      "offset": 41203,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 39924,
+      "offset": 41210,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 39935,
+      "offset": 41221,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 39947,
+      "offset": 41233,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 40087,
+      "offset": 41373,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 40093,
+      "offset": 41379,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 40103,
+      "offset": 41389,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 40115,
+      "offset": 41401,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 40515,
+      "offset": 41801,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 40713,
+      "offset": 41999,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 40919,
+      "offset": 42205,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 40987,
+      "offset": 42273,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 41218,
+      "offset": 42504,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 41421,
+      "offset": 42707,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 41482,
+      "offset": 42768,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42069,
+      "offset": 43355,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42177,
+      "offset": 43463,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42286,
+      "offset": 43572,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42323,
+      "offset": 43609,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42367,
+      "offset": 43653,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42379,
+      "offset": 43665,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42624,
+      "offset": 43910,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42726,
+      "offset": 44012,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 42946,
+      "offset": 44232,
       "length": 2,
       "value": "70"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 43119,
+      "offset": 44405,
       "length": 3,
       "value": "800"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 43230,
+      "offset": 44516,
       "length": 3,
       "value": "-20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43441,
+      "offset": 44727,
       "length": 4,
       "value": "30.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43499,
+      "offset": 44785,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43556,
+      "offset": 44842,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43613,
+      "offset": 44899,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43669,
+      "offset": 44955,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43733,
+      "offset": 45019,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43796,
+      "offset": 45082,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43861,
+      "offset": 45147,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43919,
+      "offset": 45205,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 43992,
+      "offset": 45278,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44066,
+      "offset": 45352,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44156,
+      "offset": 45442,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44230,
+      "offset": 45516,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44287,
+      "offset": 45573,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44361,
+      "offset": 45647,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44444,
+      "offset": 45730,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44517,
+      "offset": 45803,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44594,
+      "offset": 45880,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44661,
+      "offset": 45947,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44730,
+      "offset": 46016,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44788,
+      "offset": 46074,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 44850,
+      "offset": 46136,
       "length": 4,
       "value": "13.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 44933,
+      "offset": 46219,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 45011,
+      "offset": 46297,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 45086,
+      "offset": 46372,
       "length": 2,
       "value": "19"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 45618,
+      "offset": 46904,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 45676,
+      "offset": 46962,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 45819,
+      "offset": 47105,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 45873,
+      "offset": 47159,
       "length": 6,
       "value": "\"Code\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 45978,
+      "offset": 47264,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 46031,
+      "offset": 47317,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 46289,
+      "offset": 47575,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 46941,
+      "offset": 48227,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 46999,
+      "offset": 48285,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 47140,
+      "offset": 48426,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 47193,
+      "offset": 48479,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 47304,
+      "offset": 48590,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 47421,
+      "offset": 48707,
       "length": 10,
       "value": "\"Verified\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 47518,
+      "offset": 48804,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 48035,
+      "offset": 49321,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 48093,
+      "offset": 49379,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 48236,
+      "offset": 49522,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 48290,
+      "offset": 49576,
       "length": 8,
       "value": "\"Verify\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 48397,
+      "offset": 49683,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 48450,
+      "offset": 49736,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 48700,
+      "offset": 49986,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49310,
+      "offset": 50596,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49368,
+      "offset": 50654,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49488,
+      "offset": 50774,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 49541,
+      "offset": 50827,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 49653,
+      "offset": 50939,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 49770,
+      "offset": 51056,
       "length": 10,
       "value": "\"Verified\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 49867,
+      "offset": 51153,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50317,
+      "offset": 51603,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50363,
+      "offset": 51649,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50516,
+      "offset": 51802,
       "length": 38,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50553,
+      "offset": 51839,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "Array",
-      "offset": 50778,
+      "offset": 52064,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50840,
+      "offset": 52126,
       "length": 9,
       "value": "\"address\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50905,
+      "offset": 52191,
       "length": 4,
       "value": "\"ip\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 50986,
+      "offset": 52272,
       "length": 12,
       "value": "\"ip_address\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51073,
+      "offset": 52359,
       "length": 9,
       "value": "\"country\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51168,
+      "offset": 52454,
       "length": 14,
       "value": "\"country_name\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51253,
+      "offset": 52539,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51345,
+      "offset": 52631,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51427,
+      "offset": 52713,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51521,
+      "offset": 52807,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51629,
+      "offset": 52915,
       "length": 51,
       "value": "\"JSON parsing error: \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 51679,
+      "offset": 52965,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 52246,
+      "offset": 53532,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 52343,
+      "offset": 53629,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 52633,
+      "offset": 53919,
       "length": 43,
       "value": "\"not determined - hence ask for Permission\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 52783,
+      "offset": 54069,
       "length": 19,
       "value": "\"permission denied\""
     },
@@ -8340,14 +8347,14 @@
       "kind": "IntegerLiteral",
       "offset": 2674,
       "length": 2,
-      "value": "30"
+      "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCountryCode\/C2CSdkCountryCodeViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2686,
       "length": 2,
-      "value": "30"
+      "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCountryCode\/C2CSdkCountryCodeViewController.swift",
@@ -12154,265 +12161,265 @@
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
       "offset": 3808,
-      "length": 6,
-      "value": "\"Code\""
+      "length": 8,
+      "value": "\"Resend\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 3870,
+      "offset": 3872,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 4049,
+      "offset": 4051,
       "length": 26,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 4074,
+      "offset": 4076,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 4271,
+      "offset": 4273,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 4314,
+      "offset": 4316,
       "length": 14,
       "value": "\"country_code\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "BooleanLiteral",
-      "offset": 4387,
+      "offset": 4389,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 4430,
+      "offset": 4432,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "FloatLiteral",
-      "offset": 4502,
+      "offset": 4504,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "BooleanLiteral",
-      "offset": 4593,
+      "offset": 4595,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 4659,
+      "offset": 4661,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 4816,
+      "offset": 4818,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 5012,
+      "offset": 5014,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "BooleanLiteral",
-      "offset": 5122,
+      "offset": 5124,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 5167,
+      "offset": 5169,
       "length": 8,
       "value": "\"Verify\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 5232,
+      "offset": 5234,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 5409,
+      "offset": 5411,
       "length": 27,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 5435,
+      "offset": 5437,
       "length": 16,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 5671,
+      "offset": 5673,
       "length": 9,
       "value": "\"checked\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 5897,
+      "offset": 5899,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "BooleanLiteral",
-      "offset": 5952,
+      "offset": 5954,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 6069,
+      "offset": 6071,
       "length": 11,
       "value": "\"unChecked\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 6297,
+      "offset": 6299,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "BooleanLiteral",
-      "offset": 6352,
+      "offset": 6354,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "BooleanLiteral",
-      "offset": 6990,
+      "offset": 6992,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 7117,
+      "offset": 7119,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 7200,
+      "offset": 7202,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 7271,
+      "offset": 7273,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 7374,
+      "offset": 7376,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "BooleanLiteral",
-      "offset": 7968,
+      "offset": 7970,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 8282,
+      "offset": 8284,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 8784,
+      "offset": 8934,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 8852,
+      "offset": 9002,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 8936,
+      "offset": 9086,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 9099,
+      "offset": 9249,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9167,
+      "offset": 9317,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9259,
+      "offset": 9409,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9578,
+      "offset": 9728,
       "length": 3,
       "value": "\" \""
     },
@@ -14147,227 +14154,227 @@
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 3951,
-      "length": 12,
-      "value": "\"channel_id\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 4061,
-      "length": 98,
-      "value": "\"https:\/\/dev-api-t10.vgroupinc.com\/dev_c2c_p82\/product\/channel\/ur\/\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 4143,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 4146,
-      "length": 1,
-      "value": "\"\/connect.png\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 4652,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 4780,
-      "length": 12,
-      "value": "\"channel_id\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 4889,
-      "length": 94,
-      "value": "\"https:\/\/dev-api-t10.vgroupinc.com\/dev_c2c_p82\/product\/channel\/ur\/\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 4971,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 4974,
-      "length": 1,
-      "value": "\"\/sms.png\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5489,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 5618,
-      "length": 12,
-      "value": "\"channel_id\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 5729,
-      "length": 96,
-      "value": "\"https:\/\/dev-api-t10.vgroupinc.com\/dev_c2c_p82\/product\/channel\/ur\/\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 5811,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "StringLiteral",
-      "offset": 5814,
-      "length": 1,
-      "value": "\"\/email.png\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6257,
+      "offset": 4676,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 6450,
+      "offset": 5537,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6325,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6518,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "IntegerLiteral",
-      "offset": 6484,
+      "offset": 6552,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 8738,
+      "offset": 8806,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 9383,
+      "offset": 9451,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 10039,
+      "offset": 10107,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "StringLiteral",
-      "offset": 10386,
+      "offset": 10454,
       "length": 12,
       "value": "\"Error>>>>>\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "StringLiteral",
-      "offset": 10496,
+      "offset": 10564,
       "length": 9,
       "value": "\"channel\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "StringLiteral",
-      "offset": 10569,
+      "offset": 10637,
       "length": 12,
       "value": "\"emailstats\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "StringLiteral",
-      "offset": 10629,
+      "offset": 10697,
       "length": 11,
       "value": "\"callstats\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "StringLiteral",
-      "offset": 10687,
+      "offset": 10755,
       "length": 10,
       "value": "\"smsstats\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "StringLiteral",
-      "offset": 10745,
+      "offset": 10813,
       "length": 13,
       "value": "\"preferences\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 11520,
+      "offset": 11588,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 11580,
+      "offset": 11648,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 11817,
+      "length": 38,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 11826,
+      "length": 27,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 11840,
+      "length": 1,
+      "value": "\"\/connect.png\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 11854,
+      "length": 4,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12570,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 11655,
+      "offset": 12629,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 12798,
+      "length": 34,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 12807,
+      "length": 23,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 12821,
+      "length": 1,
+      "value": "\"\/sms.png\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 12831,
+      "length": 4,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13539,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 11716,
+      "offset": 13600,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11789,
-      "length": 5,
-      "value": "false"
+      "kind": "StringLiteral",
+      "offset": 13769,
+      "length": 36,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11848,
-      "length": 5,
-      "value": "false"
+      "kind": "StringLiteral",
+      "offset": 13778,
+      "length": 25,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 13792,
+      "length": 1,
+      "value": "\"\/email.png\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
+      "kind": "StringLiteral",
+      "offset": 13804,
+      "length": 4,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCountryCode\/CountryCodeModelView.swift",
@@ -14736,49 +14743,49 @@
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 8670,
+      "offset": 8807,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 8738,
+      "offset": 8875,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 8822,
+      "offset": 8959,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 8985,
+      "offset": 9122,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9053,
+      "offset": 9190,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9145,
+      "offset": 9282,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9465,
+      "offset": 9602,
       "length": 3,
       "value": "\" \""
     },
@@ -15520,35 +15527,42 @@
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1516,
+      "offset": 1496,
+      "length": 21,
+      "value": "\"product\/channel\/ur\/\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 1559,
       "length": 29,
       "value": "\"utilities\/mail\/ur\/send\/mail\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1583,
+      "offset": 1626,
       "length": 30,
       "value": "\"utilities\/twilio\/ur\/send\/sms\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1668,
+      "offset": 1711,
       "length": 35,
       "value": "\"utilities\/twilio\/ur\/initiate\/call\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1746,
+      "offset": 1789,
       "length": 36,
       "value": "\"utilities\/twilio\/ur\/generate\/token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1841,
+      "offset": 1884,
       "length": 33,
       "value": "\"utilities\/twilio\/ur\/cancel\/call\""
     },
@@ -15604,35 +15618,42 @@
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1516,
+      "offset": 1496,
+      "length": 21,
+      "value": "\"product\/channel\/ur\/\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 1559,
       "length": 29,
       "value": "\"utilities\/mail\/ur\/send\/mail\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1583,
+      "offset": 1626,
       "length": 30,
       "value": "\"utilities\/twilio\/ur\/send\/sms\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1668,
+      "offset": 1711,
       "length": 35,
       "value": "\"utilities\/twilio\/ur\/initiate\/call\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1746,
+      "offset": 1789,
       "length": 36,
       "value": "\"utilities\/twilio\/ur\/generate\/token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1841,
+      "offset": 1884,
       "length": 33,
       "value": "\"utilities\/twilio\/ur\/cancel\/call\""
     },
@@ -15667,413 +15688,413 @@
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2087,
+      "offset": 2130,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2387,
+      "offset": 2430,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2577,
+      "offset": 2620,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2601,
+      "offset": 2644,
       "length": 17,
       "value": "\"request-package\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2649,
+      "offset": 2692,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2892,
+      "offset": 2935,
       "length": 17,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2908,
+      "offset": 2951,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 3081,
+      "offset": 3124,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 3087,
+      "offset": 3130,
       "length": 3,
       "value": "299"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3155,
+      "offset": 3198,
       "length": 23,
       "value": "\"Invalid HTTP response\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3335,
+      "offset": 3378,
       "length": 18,
       "value": "\"No data received\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "Array",
-      "offset": 3585,
+      "offset": 3628,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3656,
+      "offset": 3699,
       "length": 7,
       "value": "\"empty\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 3702,
+      "offset": 3745,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3745,
+      "offset": 3788,
       "length": 13,
       "value": "\"Missing Api\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3856,
+      "offset": 3899,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 3908,
+      "offset": 3951,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 3925,
+      "offset": 3968,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4056,
+      "offset": 4099,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4130,
+      "offset": 4173,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4311,
+      "offset": 4354,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4371,
+      "offset": 4414,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4409,
+      "offset": 4452,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4455,
+      "offset": 4498,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4489,
+      "offset": 4532,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4496,
+      "offset": 4539,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4499,
+      "offset": 4542,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4507,
+      "offset": 4550,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4510,
+      "offset": 4553,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5074,
+      "offset": 5117,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5274,
+      "offset": 5317,
       "length": 37,
       "value": "\"Error converting parameters to JSON\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5488,
+      "offset": 5531,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5512,
+      "offset": 5555,
       "length": 17,
       "value": "\"request-package\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5608,
+      "offset": 5651,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5697,
+      "offset": 5740,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5741,
+      "offset": 5784,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5781,
+      "offset": 5824,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5826,
+      "offset": 5869,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6093,
+      "offset": 6136,
       "length": 17,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6109,
+      "offset": 6152,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 6282,
+      "offset": 6325,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 6288,
+      "offset": 6331,
       "length": 3,
       "value": "299"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6356,
+      "offset": 6399,
       "length": 23,
       "value": "\"Invalid HTTP response\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6536,
+      "offset": 6579,
       "length": 18,
       "value": "\"No data received\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "Array",
-      "offset": 6786,
+      "offset": 6829,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6858,
+      "offset": 6901,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 6910,
+      "offset": 6953,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 6927,
+      "offset": 6970,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7058,
+      "offset": 7101,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7132,
+      "offset": 7175,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7313,
+      "offset": 7356,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7373,
+      "offset": 7416,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7411,
+      "offset": 7454,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7457,
+      "offset": 7500,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7491,
+      "offset": 7534,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7498,
+      "offset": 7541,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7501,
+      "offset": 7544,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7509,
+      "offset": 7552,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7512,
+      "offset": 7555,
       "length": 1,
       "value": "\" \""
     },
@@ -16131,14 +16152,14 @@
       "kind": "IntegerLiteral",
       "offset": 2024,
       "length": 2,
-      "value": "30"
+      "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkWebViewPage\/CustomWebViewPage.swift",
       "kind": "IntegerLiteral",
       "offset": 2036,
       "length": 2,
-      "value": "30"
+      "value": "20"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkWebViewPage\/CustomWebViewPage.swift",
@@ -17228,84 +17249,84 @@
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 8794,
+      "offset": 8929,
       "length": 3,
       "value": "160"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9184,
+      "offset": 9319,
       "length": 21,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9200,
+      "offset": 9335,
       "length": 1,
       "value": "\"\/160\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9258,
+      "offset": 9393,
       "length": 21,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9274,
+      "offset": 9409,
       "length": 1,
       "value": "\"\/160\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 9465,
+      "offset": 9600,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9533,
+      "offset": 9668,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9617,
+      "offset": 9752,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 9780,
+      "offset": 9915,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9848,
+      "offset": 9983,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9940,
+      "offset": 10075,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 10261,
+      "offset": 10396,
       "length": 3,
       "value": "\" \""
     },
