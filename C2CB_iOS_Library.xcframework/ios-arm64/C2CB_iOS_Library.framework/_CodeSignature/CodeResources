@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/TwilioVoice.framework/TwilioVoice</key>
 		<data>
-		qWhJ9GJ2CJdnMDC71jc2sDv7GFI=
+		6WPu/2gyWVFZqTkywj87WWsrCEY=
 		</data>
 		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		JGgXk2zcvHH2uetRji/lRhqnsxA=
+		PMyY94wkVzhtCLie5immxMglX/A=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		j3vm8cdiVxvg1O3qgMi71f2f8TQ=
+		JYNTJh/F18dtYnZstkWO6LbQymU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +110,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xew3IZHaq7K686xGEVAMs0fDvhHWbP+u1xmny7Swf9g=
+			0G4Obi03ShDKVnfTLbPMNPxG5DIDUp2OIP/0G5kn+CE=
 			</data>
 		</dict>
 		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
@@ -145,7 +145,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sqX3Yle1Mt8ojEWvhKTXpDDDzauScB0vjijkJFnuFLc=
+			nfGE9w76TcutYvAXZ2KYju0zfcgclNMLrpqqHlUcQ3I=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -173,7 +173,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			auz/Gl9iKDSK5OhpbdycpY723P99ILjBXJSKhZj51OU=
+			/ojZFZBeP/n3HTbc256n3EC/qn7lkj1mxbLgLFRJfrM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
