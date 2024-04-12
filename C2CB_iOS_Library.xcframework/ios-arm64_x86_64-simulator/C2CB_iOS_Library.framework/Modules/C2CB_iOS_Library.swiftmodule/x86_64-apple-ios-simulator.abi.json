@@ -12412,70 +12412,63 @@
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "BooleanLiteral",
-      "offset": 7439,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8035,
+      "offset": 7968,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 8349,
+      "offset": 8282,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 8999,
+      "offset": 8932,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9067,
+      "offset": 9000,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9151,
+      "offset": 9084,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 9314,
+      "offset": 9247,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9382,
+      "offset": 9315,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9474,
+      "offset": 9407,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9793,
+      "offset": 9726,
       "length": 3,
       "value": "\" \""
     },
@@ -17410,77 +17403,91 @@
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9319,
+      "offset": 10276,
+      "length": 6,
+      "value": "\"\\s+\""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
+      "kind": "StringLiteral",
+      "offset": 10290,
+      "length": 3,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
+      "kind": "StringLiteral",
+      "offset": 10387,
       "length": 21,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9335,
+      "offset": 10403,
       "length": 1,
       "value": "\"\/160\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9393,
+      "offset": 10461,
       "length": 21,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9409,
+      "offset": 10477,
       "length": 1,
       "value": "\"\/160\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 9600,
+      "offset": 10668,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9668,
+      "offset": 10736,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9752,
+      "offset": 10820,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "IntegerLiteral",
-      "offset": 9915,
+      "offset": 10983,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 9983,
+      "offset": 11051,
       "length": 12,
       "value": "\"channel_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 10075,
+      "offset": 11143,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSMSValidationSetUp.swift",
       "kind": "StringLiteral",
-      "offset": 10396,
+      "offset": 11464,
       "length": 3,
       "value": "\" \""
     },
