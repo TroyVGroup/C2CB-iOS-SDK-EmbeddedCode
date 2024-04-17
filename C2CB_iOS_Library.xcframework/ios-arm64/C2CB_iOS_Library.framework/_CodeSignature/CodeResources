@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/TwilioVoice.framework/TwilioVoice</key>
 		<data>
-		DeAN6KA8xE8kIIBJ9H5m9pOTO4w=
+		L2nElR5vAEozqLJiq7FcidfRpfU=
 		</data>
 		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		iriileD5qSpaqi8vBHhYs0DnkQo=
+		s89S6i9kt3M+xCPJRceFsO2i6Mg=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jf6kIv+Pkn1j+G4wZPyNBuNKRZE=
+		y7SZwnX4whMB+onz9PZMUu0FSCs=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jf6kIv+Pkn1j+G4wZPyNBuNKRZE=
+		y7SZwnX4whMB+onz9PZMUu0FSCs=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		j3vm8cdiVxvg1O3qgMi71f2f8TQ=
+		QDXzIGnc0LFFSPQSl4Xv3qYtmWE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -110,7 +110,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EgKsx+NC1LbqiOiUaETQpQG9tFAu+Qtm2NveDGWJ1K8=
+			BG+8uqZmmc/9NMibRh+eWMfqCHhLzXaXACwh5tX/oL4=
 			</data>
 		</dict>
 		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
@@ -145,14 +145,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kWyfC0Wyy5heYgr2lsy34r+/xDK8MHQKsZHbJJZn2RU=
+			8bjAgqoYf0NAQTD+2INJkYCG8TdTOjGC0QpfmY/qsx0=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+KIU3sJR6mySzso8VuYAr7urf8ioy/93muyJR6vj/44=
+			Pj7jbyD1SafnbMPgDSwO9WeymSSdPfIGNYll6Gz+jIg=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -166,14 +166,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+KIU3sJR6mySzso8VuYAr7urf8ioy/93muyJR6vj/44=
+			Pj7jbyD1SafnbMPgDSwO9WeymSSdPfIGNYll6Gz+jIg=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			auz/Gl9iKDSK5OhpbdycpY723P99ILjBXJSKhZj51OU=
+			cYNZDUdxJ5AHyvyAu1gygzdCIA4s2PdjXOD3GxxBk1M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
