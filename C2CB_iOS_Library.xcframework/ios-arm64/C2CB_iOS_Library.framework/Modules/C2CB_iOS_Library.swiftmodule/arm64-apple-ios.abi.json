@@ -4592,13 +4592,6 @@
         "moduleName": "C2CB_iOS_Library"
       },
       {
-        "kind": "Import",
-        "name": "MediaPlayer",
-        "printedName": "MediaPlayer",
-        "declKind": "Import",
-        "moduleName": "C2CB_iOS_Library"
-      },
-      {
         "kind": "TypeDecl",
         "name": "C2CSdkOutgoingCallModelView",
         "printedName": "C2CSdkOutgoingCallModelView",
@@ -10794,43 +10787,43 @@
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7113,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 7144,
+      "offset": 7198,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7197,
+      "offset": 7251,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 7308,
+      "offset": 7362,
       "length": 9,
       "value": "\"Success\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 7338,
-      "length": 9,
-      "value": "\"message\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationModel.swift",
-      "kind": "StringLiteral",
-      "offset": 7363,
-      "length": 2,
-      "value": "\"\""
+      "offset": 7382,
+      "length": 25,
+      "value": "\"Email Sent Successfully\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkEmailValidationForm\/C2CSdkEmailValidationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7490,
+      "offset": 7532,
       "length": 4,
       "value": "true"
     },
@@ -15512,694 +15505,694 @@
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSmsValidationModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6986,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSmsValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 7019,
+      "offset": 7071,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSmsValidationModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7072,
+      "offset": 7124,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSmsValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 7183,
+      "offset": 7235,
       "length": 9,
       "value": "\"Success\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSmsValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 7213,
-      "length": 9,
-      "value": "\"message\""
-    },
-    {
-      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSmsValidationModel.swift",
-      "kind": "StringLiteral",
-      "offset": 7238,
-      "length": 2,
-      "value": "\"\""
+      "offset": 7255,
+      "length": 23,
+      "value": "\"SMS Sent Successfully\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkSMSValidationFormView\/C2CSdkSmsValidationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 7361,
+      "offset": 7399,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 855,
-      "length": 47,
-      "value": "\"https:\/\/c2c-uatapi.contexttocall.com\/uat_c2c\/\""
+      "offset": 1190,
+      "length": 37,
+      "value": "\"https:\/\/apis.contexttocall.com\/c2c\/\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 935,
-      "length": 44,
-      "value": "\"https:\/\/c2c-uat.contexttocall.com:90\/terms\""
+      "offset": 1260,
+      "length": 37,
+      "value": "\"https:\/\/app.contexttocall.com\/terms\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1012,
+      "offset": 1330,
       "length": 28,
       "value": "\"https:\/\/contexttocall.com\/\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1071,
+      "offset": 1389,
       "length": 54,
       "value": "\"prj_live_sk_569b6f639edde6120a26f703511c61aaecd3f7ef\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1263,
+      "offset": 1581,
       "length": 36,
       "value": "\"https:\/\/api.radar.io\/v1\/geocode\/ip\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1331,
+      "offset": 1649,
       "length": 36,
       "value": "\"global\/master\/ur\/countrylistsorted\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1398,
+      "offset": 1716,
       "length": 27,
       "value": "\"product\/channel\/ur\/modes\/\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1452,
+      "offset": 1770,
       "length": 29,
       "value": "\"utilities\/twilio\/ur\/sms\/otp\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1510,
+      "offset": 1828,
       "length": 36,
       "value": "\"utilities\/twilio\/ur\/sms\/verify\/otp\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1575,
+      "offset": 1893,
       "length": 29,
       "value": "\"utilities\/mail\/ur\/email\/otp\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1639,
+      "offset": 1957,
       "length": 36,
       "value": "\"utilities\/mail\/ur\/email\/verify\/otp\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1697,
+      "offset": 2015,
       "length": 21,
       "value": "\"product\/channel\/ur\/\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1760,
+      "offset": 2078,
       "length": 29,
       "value": "\"utilities\/mail\/ur\/send\/mail\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1827,
+      "offset": 2145,
       "length": 30,
       "value": "\"utilities\/twilio\/ur\/send\/sms\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1912,
+      "offset": 2230,
       "length": 35,
       "value": "\"utilities\/twilio\/ur\/initiate\/call\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1990,
+      "offset": 2308,
       "length": 36,
       "value": "\"utilities\/twilio\/ur\/generate\/token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2085,
+      "offset": 2403,
       "length": 33,
       "value": "\"utilities\/twilio\/ur\/cancel\/call\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1263,
+      "offset": 1581,
       "length": 36,
       "value": "\"https:\/\/api.radar.io\/v1\/geocode\/ip\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1331,
+      "offset": 1649,
       "length": 36,
       "value": "\"global\/master\/ur\/countrylistsorted\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1398,
+      "offset": 1716,
       "length": 27,
       "value": "\"product\/channel\/ur\/modes\/\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1452,
+      "offset": 1770,
       "length": 29,
       "value": "\"utilities\/twilio\/ur\/sms\/otp\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1510,
+      "offset": 1828,
       "length": 36,
       "value": "\"utilities\/twilio\/ur\/sms\/verify\/otp\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1575,
+      "offset": 1893,
       "length": 29,
       "value": "\"utilities\/mail\/ur\/email\/otp\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1639,
+      "offset": 1957,
       "length": 36,
       "value": "\"utilities\/mail\/ur\/email\/verify\/otp\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1697,
+      "offset": 2015,
       "length": 21,
       "value": "\"product\/channel\/ur\/\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1760,
+      "offset": 2078,
       "length": 29,
       "value": "\"utilities\/mail\/ur\/send\/mail\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1827,
+      "offset": 2145,
       "length": 30,
       "value": "\"utilities\/twilio\/ur\/send\/sms\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1912,
+      "offset": 2230,
       "length": 35,
       "value": "\"utilities\/twilio\/ur\/initiate\/call\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1990,
+      "offset": 2308,
       "length": 36,
       "value": "\"utilities\/twilio\/ur\/generate\/token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2085,
+      "offset": 2403,
       "length": 33,
       "value": "\"utilities\/twilio\/ur\/cancel\/call\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 855,
-      "length": 47,
-      "value": "\"https:\/\/c2c-uatapi.contexttocall.com\/uat_c2c\/\""
+      "offset": 1190,
+      "length": 37,
+      "value": "\"https:\/\/apis.contexttocall.com\/c2c\/\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 935,
-      "length": 44,
-      "value": "\"https:\/\/c2c-uat.contexttocall.com:90\/terms\""
+      "offset": 1260,
+      "length": 37,
+      "value": "\"https:\/\/app.contexttocall.com\/terms\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1012,
+      "offset": 1330,
       "length": 28,
       "value": "\"https:\/\/contexttocall.com\/\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1071,
+      "offset": 1389,
       "length": 54,
       "value": "\"prj_live_sk_569b6f639edde6120a26f703511c61aaecd3f7ef\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2331,
+      "offset": 2649,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2631,
+      "offset": 2949,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2821,
+      "offset": 3139,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2845,
+      "offset": 3163,
       "length": 17,
       "value": "\"request-package\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2893,
+      "offset": 3211,
       "length": 5,
       "value": "\"GET\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3136,
+      "offset": 3454,
       "length": 17,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3152,
+      "offset": 3470,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 3325,
+      "offset": 3643,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 3331,
+      "offset": 3649,
       "length": 3,
       "value": "299"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3399,
+      "offset": 3717,
       "length": 23,
       "value": "\"Invalid HTTP response\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3579,
+      "offset": 3897,
       "length": 18,
       "value": "\"No data received\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "Array",
-      "offset": 3829,
+      "offset": 4147,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3900,
+      "offset": 4218,
       "length": 7,
       "value": "\"empty\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 3946,
+      "offset": 4264,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 3989,
+      "offset": 4307,
       "length": 13,
       "value": "\"Missing Api\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4100,
+      "offset": 4418,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4152,
+      "offset": 4470,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 4169,
+      "offset": 4487,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4300,
+      "offset": 4618,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4374,
+      "offset": 4692,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4555,
+      "offset": 4873,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4615,
+      "offset": 4933,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4653,
+      "offset": 4971,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4699,
+      "offset": 5017,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4733,
+      "offset": 5051,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4740,
+      "offset": 5058,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4743,
+      "offset": 5061,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 4751,
+      "offset": 5069,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 4754,
+      "offset": 5072,
       "length": 1,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5318,
+      "offset": 5636,
       "length": 13,
       "value": "\"Invalid URL\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5518,
+      "offset": 5836,
       "length": 37,
       "value": "\"Error converting parameters to JSON\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5732,
+      "offset": 6050,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5756,
+      "offset": 6074,
       "length": 17,
       "value": "\"request-package\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5852,
+      "offset": 6170,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5941,
+      "offset": 6259,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5985,
+      "offset": 6303,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6025,
+      "offset": 6343,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6070,
+      "offset": 6388,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6337,
+      "offset": 6655,
       "length": 17,
       "value": "\"Error: \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6353,
+      "offset": 6671,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 6526,
+      "offset": 6844,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 6532,
+      "offset": 6850,
       "length": 3,
       "value": "299"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6600,
+      "offset": 6918,
       "length": 23,
       "value": "\"Invalid HTTP response\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6780,
+      "offset": 7098,
       "length": 18,
       "value": "\"No data received\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "Array",
-      "offset": 7030,
+      "offset": 7348,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7102,
+      "offset": 7420,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7154,
+      "offset": 7472,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "BooleanLiteral",
-      "offset": 7171,
+      "offset": 7489,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7302,
+      "offset": 7620,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7376,
+      "offset": 7694,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7557,
+      "offset": 7875,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7617,
+      "offset": 7935,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7655,
+      "offset": 7973,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7701,
+      "offset": 8019,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7735,
+      "offset": 8053,
       "length": 23,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7742,
+      "offset": 8060,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7745,
+      "offset": 8063,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "IntegerLiteral",
-      "offset": 7753,
+      "offset": 8071,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/APIConfig\/APIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7756,
+      "offset": 8074,
       "length": 1,
       "value": "\" \""
     },
@@ -17003,99 +16996,106 @@
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7976,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8008,
+      "offset": 8061,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8061,
+      "offset": 8114,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8159,
+      "offset": 8212,
       "length": 7,
       "value": "\"token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8229,
+      "offset": 8282,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8300,
+      "offset": 8353,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8394,
+      "offset": 8447,
       "length": 10,
       "value": "\"verified\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8481,
+      "offset": 8534,
       "length": 6,
       "value": "\"call\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8549,
+      "offset": 8602,
       "length": 5,
       "value": "\"ext\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8670,
+      "offset": 8723,
       "length": 20,
       "value": "\"verified_mobile_no\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8760,
+      "offset": 8813,
       "length": 10,
       "value": "\"call_ext\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8864,
+      "offset": 8917,
       "length": 9,
       "value": "\"call_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "StringLiteral",
-      "offset": 8951,
+      "offset": 9004,
       "length": 12,
       "value": "\"call_token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9022,
+      "offset": 9075,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCallValidationForm\/C2CSdkCallValidationModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 9719,
+      "offset": 9772,
       "length": 4,
       "value": "true"
     },
@@ -17501,224 +17501,224 @@
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 496,
+      "offset": 421,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 786,
+      "offset": 711,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1376,
+      "offset": 1301,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1468,
+      "offset": 1393,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1781,
+      "offset": 1706,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 1935,
+      "offset": 1860,
       "length": 19,
       "value": "\"Voice Quick Start\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 2013,
+      "offset": 1938,
       "length": 35,
       "value": "\"Microphone permission not granted\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 2185,
+      "offset": 2110,
       "length": 29,
       "value": "\"Continue without microphone\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 2396,
+      "offset": 2321,
       "length": 10,
       "value": "\"Settings\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2629,
+      "offset": 2554,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 2760,
+      "offset": 2685,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2855,
+      "offset": 2780,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3039,
+      "offset": 2964,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3170,
+      "offset": 3095,
       "length": 4,
       "value": "3600"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3209,
+      "offset": 3134,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3214,
+      "offset": 3139,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3250,
+      "offset": 3175,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 3281,
+      "offset": 3206,
       "length": 16,
       "value": "\"%02i:%02i:%02i\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 4426,
+      "offset": 4351,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 4484,
+      "offset": 4409,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 4639,
+      "offset": 4564,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4692,
+      "offset": 4617,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4817,
+      "offset": 4742,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 5128,
+      "offset": 5053,
       "length": 20,
       "value": "\"verified_mobile_no\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 5217,
+      "offset": 5142,
       "length": 10,
       "value": "\"call_ext\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 5296,
+      "offset": 5221,
       "length": 9,
       "value": "\"call_id\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 5374,
+      "offset": 5299,
       "length": 12,
       "value": "\"call_token\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 5553,
+      "offset": 5478,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 5751,
+      "offset": 5676,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "StringLiteral",
-      "offset": 5894,
+      "offset": 5819,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6044,
+      "offset": 5969,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroupinc\/Documents\/Github Data\/C2C-iOS-Library-Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallModelView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6200,
+      "offset": 6125,
       "length": 4,
       "value": "true"
     },
