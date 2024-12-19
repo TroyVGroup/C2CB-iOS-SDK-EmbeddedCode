@@ -1,5 +1,5 @@
 PODS:
-  - C2CB-iOS-Library (1.6):
+  - C2CB-iOS-Library (1.7):
     - TwilioVoice
   - TwilioVoice (6.10.0)
 
@@ -15,9 +15,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  C2CB-iOS-Library: 30c6550731349dc4c295f666c0997d440549ce82
+  C2CB-iOS-Library: f47cd604dc083ba9392fc7036cf0ad8a6ffa92bb
   TwilioVoice: 3a2f8bf8112be77d94db8fe8068e4e673e1195e0
 
 PODFILE CHECKSUM: e86ee758318e9ba6df0f1f53ce6dafd90b837549
 
-COCOAPODS: 1.14.3
+COCOAPODS: 1.15.2

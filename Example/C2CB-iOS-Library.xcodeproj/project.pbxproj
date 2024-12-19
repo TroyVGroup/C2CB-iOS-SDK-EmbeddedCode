@@ -46,6 +46,7 @@
 		A1870ACC2BB448D200569E20 /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = C2CB_iOS_Library.xcframework; path = ../C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
 		A5B2D48AC1FF7FD6C2D93940 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		B64FB817BB130142F38CAF20 /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = "C2CB-iOS-Library.podspec"; path = "../C2CB-iOS-Library.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		C9FBC2832D145A6F0032DFB4 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		E9BED2FD48C58857553548B5 /* Pods-C2CB-iOS-Library_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-C2CB-iOS-Library_Example.release.xcconfig"; path = "Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F354FFC27EDF2403275E3120 /* Pods-C2CB-iOS-Library_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-C2CB-iOS-Library_Tests.release.xcconfig"; path = "Target Support Files/Pods-C2CB-iOS-Library_Tests/Pods-C2CB-iOS-Library_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -144,6 +145,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
+				C9FBC2832D145A6F0032DFB4 /* Package.swift */,
 				B64FB817BB130142F38CAF20 /* C2CB-iOS-Library.podspec */,
 				9B236FA26F18F13F41407567 /* README.md */,
 				A5B2D48AC1FF7FD6C2D93940 /* LICENSE */,

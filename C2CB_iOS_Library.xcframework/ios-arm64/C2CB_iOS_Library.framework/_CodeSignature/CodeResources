@@ -10,7 +10,7 @@
 		</data>
 		<key>Frameworks/TwilioVoice.framework/TwilioVoice</key>
 		<data>
-		oJBZ+5A18Akk0/Md3bun2TOXQEs=
+		Csugv4J0J8FNe4QY7SaPTPogb0g=
 		</data>
 		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/C2CB_iOS_Library-Swift.h</key>
 		<data>
-		pUwN8FxHYd+la1R4C4X2W1zf8qs=
+		YY5FzEt0KHL7L9yM63tFECfvDnY=
 		</data>
 		<key>Headers/C2CB_iOS_Library.h</key>
 		<data>
@@ -30,35 +30,63 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		f5qwGvPD4AOHpSmOzulY6xoNvmw=
+		SRDo1PqkebrOCpK3VChUeBHBLcE=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		YguLrQFzjXPl4RXU67dmF4QHLAc=
+		awQw/fSYPS4Yig1lf98YIsEEeic=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jf6kIv+Pkn1j+G4wZPyNBuNKRZE=
+		1klM7Im3MU2Z8BqXZnFDFNav8L0=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		rfN2SHuaFmaobDCgMPqWHQj727I=
+		UCNqrL69ZF0kUjmH+KWegaKVeEE=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jf6kIv+Pkn1j+G4wZPyNBuNKRZE=
+		1klM7Im3MU2Z8BqXZnFDFNav8L0=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		QmNqh+8IBElar+JY2I97JxMdpXQ=
+		j8wZYRd6GK6rQl0/rP2LT+W7lhU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		m7sOiBdEh71OdlqGbABk1qvABUw=
 		</data>
+		<key>OFL.txt</key>
+		<data>
+		jWw0tw49Y4yC17Wro/hH99bSyDE=
+		</data>
+		<key>Poppins-Bold.ttf</key>
+		<data>
+		h1zwzs1ke88i551jPYaMGx7Jjfo=
+		</data>
+		<key>Poppins-Medium.ttf</key>
+		<data>
+		KD8htE772/J2uoAr4tlJo2u8QjM=
+		</data>
+		<key>Poppins-Regular.ttf</key>
+		<data>
+		/dMALn2BTuR8HBuEh8csa7s6LQA=
+		</data>
+		<key>Poppins-SemiBold.ttf</key>
+		<data>
+		ikrOk5LQa8t/jqL1FpsH5MODqQ0=
+		</data>
 		<key>audio.png</key>
 		<data>
 		KqM8pKNmXfdNyJqAh0+33z79s4M=
+		</data>
+		<key>camera.png</key>
+		<data>
+		3NTv/HRWGtZeZYs+Do+KZRnnJNs=
+		</data>
+		<key>camera_white.png</key>
+		<data>
+		gCMtRblfBZ2O+6b3PWUaijI8A+U=
 		</data>
 		<key>cancel.png</key>
 		<data>
@@ -72,6 +100,18 @@
 		<data>
 		26usoOmI7+RywwGp5rnUgIhH8fs=
 		</data>
+		<key>delete.png</key>
+		<data>
+		BkTHsn3pjmRhF4V6mzAJJU/dT0I=
+		</data>
+		<key>gallery.png</key>
+		<data>
+		tS5l4UgUZ3dzF6271Mn95bD/6CM=
+		</data>
+		<key>gallery_white.png</key>
+		<data>
+		aHd1jBHhsCAIR83WyW8fU/RcW3A=
+		</data>
 		<key>hangUp.png</key>
 		<data>
 		vhc2ZTyfb4qSX6x6vv565+0aBmI=
@@ -79,6 +119,10 @@
 		<key>keypad.png</key>
 		<data>
 		kaU0Th6V8XBu7OoIG1uDp64MXkE=
+		</data>
+		<key>logo.png</key>
+		<data>
+		MaObP04TO0Q7zz0GnU9vLM7OsLI=
 		</data>
 		<key>mute.png</key>
 		<data>
@@ -110,7 +154,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HE03kc3uASX2sMfeSHVewr0wqqmSWlD+3mW7crJrpEU=
+			Uu/oWU/65q7MmcTMGcfbWrI98Y3CB9631yyFmqW+m24=
 			</data>
 		</dict>
 		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
@@ -131,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ln4DUKDrA0FDMwh9s89F1J9rsK0LYwwfTbLOif3U1EY=
+			1dBFMkNxliv69DSSfXQVN2eC6wNsHVGdTqzXFlYuEhs=
 			</data>
 		</dict>
 		<key>Headers/C2CB_iOS_Library.h</key>
@@ -145,35 +189,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nsj77ADRpHQSwekoS7dZD2YAgQ+z6xMtwYLXf+xwvqI=
+			Hg/x7Rh81cQ39nAC6Dm5hCsaYTwrwXR6/vcouh1v3k4=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+KIU3sJR6mySzso8VuYAr7urf8ioy/93muyJR6vj/44=
+			jLHQ9pmCa+F0L1EKGKr06X1lvwkKRRrlZN81uCUATO0=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yaw4UcNPHyp5sUhcDA6lz3zLs5SeYi0cr8AeWIbWTp8=
+			NorqWGi2hZOvMynlEk1P44+UkkCaqJuHnYE3idACkGQ=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+KIU3sJR6mySzso8VuYAr7urf8ioy/93muyJR6vj/44=
+			jLHQ9pmCa+F0L1EKGKr06X1lvwkKRRrlZN81uCUATO0=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zM6iLTexxwKv1XOAgGJKBk89yZ3gmewAIYQ+UbrQyLs=
+			o02jwsCbT17/DuGcGpZYBzn0oHFDGiqU4ihchmZ4anI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -183,11 +227,60 @@
 			ldk85FjXuGN2+2pdgqj24Es3iay8Cc+JnhVSB9Onu3s=
 			</data>
 		</dict>
+		<key>OFL.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iXW+veZQbMbULo+BsMfFp6MejSQShoGpbCFjQGaeqcY=
+			</data>
+		</dict>
+		<key>Poppins-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			chlUfuJTNMusD+SzrPC/Yx5I67YixxrwOO2qplLGCHU=
+			</data>
+		</dict>
+		<key>Poppins-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jZCYg96BNE4PvP7zDpMYcuktmu7N+Fttz24LKMB46Y4=
+			</data>
+		</dict>
+		<key>Poppins-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cH/cXIurV6kAYcao7Xtw1f+4L8gQ6ZTnn5C6zokMJVo=
+			</data>
+		</dict>
+		<key>Poppins-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JIwCRLNQ7GiICZaqa+bXeWJ0tJmS1fy77+JRkGqk6jY=
+			</data>
+		</dict>
 		<key>audio.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			U0GYdjCN9WOiLiq+T72hseV08ItGIVuw6QSebSY3A6E=
+			</data>
+		</dict>
+		<key>camera.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lIretxI7HUtdUtahRWAGSuODvYIjOvk+B/OjLNGYmSU=
+			</data>
+		</dict>
+		<key>camera_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u35okD6CKLFVjhRW8Id8gcLzHzGrSh5Wp4f7GKzugWY=
 			</data>
 		</dict>
 		<key>cancel.png</key>
@@ -211,6 +304,27 @@
 			Li2JI4N+mW3vX5daFFPJwwWPvEy8BMVo1VlEcRBCigg=
 			</data>
 		</dict>
+		<key>delete.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BD+hVj4kub9zU1mIbredkE6/sjfzpROD9k5kIaS/8y8=
+			</data>
+		</dict>
+		<key>gallery.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UpWCB6eVdQwFJPO17X3q+Qp9zx9m0Avh9zoMcNcybg8=
+			</data>
+		</dict>
+		<key>gallery_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zdCiBID7WLqVKZaMPAzvTJmyOxYQAYJ+IyrfsSQjYUY=
+			</data>
+		</dict>
 		<key>hangUp.png</key>
 		<dict>
 			<key>hash2</key>
@@ -223,6 +337,13 @@
 			<key>hash2</key>
 			<data>
 			5A1Xb3t0gVx+WFmf8zYSAmtO4z8VqoZyBl4HvN6ZOOs=
+			</data>
+		</dict>
+		<key>logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MdNyNDn5w5szz5CMMJYJOPDtXxNWgZGaC2NikxDCbfU=
 			</data>
 		</dict>
 		<key>mute.png</key>

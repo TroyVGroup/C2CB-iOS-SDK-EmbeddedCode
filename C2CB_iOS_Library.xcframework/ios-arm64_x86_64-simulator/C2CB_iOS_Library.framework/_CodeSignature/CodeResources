@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/C2CB_iOS_Library-Swift.h</key>
 		<data>
-		AL3d9qVNt538I6JW8U2APC2yoeo=
+		E2mk1zeD+1knOCE19OEia7EKSVw=
 		</data>
 		<key>Headers/C2CB_iOS_Library.h</key>
 		<data>
@@ -30,55 +30,83 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EUyeo59QeovSvkZyDJSjC4zUH4M=
+		ktYT0ufb8rAUGjj9dp21bmEplao=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		YguLrQFzjXPl4RXU67dmF4QHLAc=
+		awQw/fSYPS4Yig1lf98YIsEEeic=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		iZuoPcQ01rarWC4PRVxvamqzfR4=
+		R/KtPLYEXKMtElTdDZe4ZNHSdo8=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Zn02Oyj8qHs3/o71zhSBL1XJRp0=
+		m22BBHEtpIAOSXZLHPWzcLd98fE=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		iZuoPcQ01rarWC4PRVxvamqzfR4=
+		R/KtPLYEXKMtElTdDZe4ZNHSdo8=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		T2sk+pTofpOKtW1HbsIieofBrts=
+		0p2F2L8ynslh9rR8aD7mEgPtsSE=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		YguLrQFzjXPl4RXU67dmF4QHLAc=
+		awQw/fSYPS4Yig1lf98YIsEEeic=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		GS26d7lBqdgNFO9DxucKmigaaR0=
+		g4lmoNxAeYpCFhr2PRs+m6unIPs=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Le/CMBSH/LLgi3FW5tqb9truZ68=
+		rBPGCusDuTk0cTl4FzR9T3CmH6Y=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		GS26d7lBqdgNFO9DxucKmigaaR0=
+		g4lmoNxAeYpCFhr2PRs+m6unIPs=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UbtPIUk/GGHfBilDwyihN5jo8yA=
+		X4+Tu1IeiX6YX5Ei5AuiOi3uEGY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		m7sOiBdEh71OdlqGbABk1qvABUw=
 		</data>
+		<key>OFL.txt</key>
+		<data>
+		jWw0tw49Y4yC17Wro/hH99bSyDE=
+		</data>
+		<key>Poppins-Bold.ttf</key>
+		<data>
+		h1zwzs1ke88i551jPYaMGx7Jjfo=
+		</data>
+		<key>Poppins-Medium.ttf</key>
+		<data>
+		KD8htE772/J2uoAr4tlJo2u8QjM=
+		</data>
+		<key>Poppins-Regular.ttf</key>
+		<data>
+		/dMALn2BTuR8HBuEh8csa7s6LQA=
+		</data>
+		<key>Poppins-SemiBold.ttf</key>
+		<data>
+		ikrOk5LQa8t/jqL1FpsH5MODqQ0=
+		</data>
 		<key>audio.png</key>
 		<data>
 		KqM8pKNmXfdNyJqAh0+33z79s4M=
+		</data>
+		<key>camera.png</key>
+		<data>
+		3NTv/HRWGtZeZYs+Do+KZRnnJNs=
+		</data>
+		<key>camera_white.png</key>
+		<data>
+		gCMtRblfBZ2O+6b3PWUaijI8A+U=
 		</data>
 		<key>cancel.png</key>
 		<data>
@@ -92,6 +120,18 @@
 		<data>
 		26usoOmI7+RywwGp5rnUgIhH8fs=
 		</data>
+		<key>delete.png</key>
+		<data>
+		BkTHsn3pjmRhF4V6mzAJJU/dT0I=
+		</data>
+		<key>gallery.png</key>
+		<data>
+		tS5l4UgUZ3dzF6271Mn95bD/6CM=
+		</data>
+		<key>gallery_white.png</key>
+		<data>
+		aHd1jBHhsCAIR83WyW8fU/RcW3A=
+		</data>
 		<key>hangUp.png</key>
 		<data>
 		vhc2ZTyfb4qSX6x6vv565+0aBmI=
@@ -99,6 +139,10 @@
 		<key>keypad.png</key>
 		<data>
 		kaU0Th6V8XBu7OoIG1uDp64MXkE=
+		</data>
+		<key>logo.png</key>
+		<data>
+		MaObP04TO0Q7zz0GnU9vLM7OsLI=
 		</data>
 		<key>mute.png</key>
 		<data>
@@ -151,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rmg1ysrLmBR1SUwhMXHf7gLRf28mj7ZuL0NvGZnFCAY=
+			gJ8FVBmBzTiQaDXD5hn91N+oxNEBoy+vHGVAsOYQExA=
 			</data>
 		</dict>
 		<key>Headers/C2CB_iOS_Library.h</key>
@@ -165,70 +209,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nsj77ADRpHQSwekoS7dZD2YAgQ+z6xMtwYLXf+xwvqI=
+			Hg/x7Rh81cQ39nAC6Dm5hCsaYTwrwXR6/vcouh1v3k4=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g8FdjXSbnU+nnGPZUm/VP1mPp155n0FttnlnGP451zk=
+			7C0nf187arXdZgGrMj3KcKutmP3Q+Xz5x8uPwwntuAc=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GfACaQ+FwXJ8571P9PZch6jvpCSaCf48xbLQrU7E0uo=
+			6fajcaDfmmFPT6ZdoltZGcbsJquXKj9Bs7UFBmOA1qE=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g8FdjXSbnU+nnGPZUm/VP1mPp155n0FttnlnGP451zk=
+			7C0nf187arXdZgGrMj3KcKutmP3Q+Xz5x8uPwwntuAc=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zYXdzZ8Tmygar6LaiBv5UnWoOIajDQTrtGP0vnwRGjQ=
+			H72x98JYz+wFq/JddiIhWC3+/3PRS/GkB4+GGKSnXwg=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nsj77ADRpHQSwekoS7dZD2YAgQ+z6xMtwYLXf+xwvqI=
+			Hg/x7Rh81cQ39nAC6Dm5hCsaYTwrwXR6/vcouh1v3k4=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hp+cowpeliU0nMByA7hUlnr8PNIo57seprz641zIElQ=
+			vZhaRgnegsasl6wJiVWJQkvpN9ZA+FI+U7wcFkOeryY=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			apMO/VMvVAVV4yGaE4cKzwdWnsJDv4l8tC0NCTcVwNg=
+			PejhyFHdRzdJ3AZfWc+h0CWsiBLnVPPzqI3FQBXSXSU=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hp+cowpeliU0nMByA7hUlnr8PNIo57seprz641zIElQ=
+			vZhaRgnegsasl6wJiVWJQkvpN9ZA+FI+U7wcFkOeryY=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bZg3koN3ASd60b2uJoTHaHhy05h6tNjRiz8SH+B/fqQ=
+			Gz8qajPSJKCCgnpNczex48aF+upzwgkDmwed9ZN/4Ig=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -238,11 +282,60 @@
 			ldk85FjXuGN2+2pdgqj24Es3iay8Cc+JnhVSB9Onu3s=
 			</data>
 		</dict>
+		<key>OFL.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iXW+veZQbMbULo+BsMfFp6MejSQShoGpbCFjQGaeqcY=
+			</data>
+		</dict>
+		<key>Poppins-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			chlUfuJTNMusD+SzrPC/Yx5I67YixxrwOO2qplLGCHU=
+			</data>
+		</dict>
+		<key>Poppins-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jZCYg96BNE4PvP7zDpMYcuktmu7N+Fttz24LKMB46Y4=
+			</data>
+		</dict>
+		<key>Poppins-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cH/cXIurV6kAYcao7Xtw1f+4L8gQ6ZTnn5C6zokMJVo=
+			</data>
+		</dict>
+		<key>Poppins-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JIwCRLNQ7GiICZaqa+bXeWJ0tJmS1fy77+JRkGqk6jY=
+			</data>
+		</dict>
 		<key>audio.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			U0GYdjCN9WOiLiq+T72hseV08ItGIVuw6QSebSY3A6E=
+			</data>
+		</dict>
+		<key>camera.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lIretxI7HUtdUtahRWAGSuODvYIjOvk+B/OjLNGYmSU=
+			</data>
+		</dict>
+		<key>camera_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u35okD6CKLFVjhRW8Id8gcLzHzGrSh5Wp4f7GKzugWY=
 			</data>
 		</dict>
 		<key>cancel.png</key>
@@ -266,6 +359,27 @@
 			Li2JI4N+mW3vX5daFFPJwwWPvEy8BMVo1VlEcRBCigg=
 			</data>
 		</dict>
+		<key>delete.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BD+hVj4kub9zU1mIbredkE6/sjfzpROD9k5kIaS/8y8=
+			</data>
+		</dict>
+		<key>gallery.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UpWCB6eVdQwFJPO17X3q+Qp9zx9m0Avh9zoMcNcybg8=
+			</data>
+		</dict>
+		<key>gallery_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zdCiBID7WLqVKZaMPAzvTJmyOxYQAYJ+IyrfsSQjYUY=
+			</data>
+		</dict>
 		<key>hangUp.png</key>
 		<dict>
 			<key>hash2</key>
@@ -278,6 +392,13 @@
 			<key>hash2</key>
 			<data>
 			5A1Xb3t0gVx+WFmf8zYSAmtO4z8VqoZyBl4HvN6ZOOs=
+			</data>
+		</dict>
+		<key>logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MdNyNDn5w5szz5CMMJYJOPDtXxNWgZGaC2NikxDCbfU=
 			</data>
 		</dict>
 		<key>mute.png</key>
