@@ -14,9 +14,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var mycustomeView:C2CSdkCustomView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        mycustomeView.channel_id = "673dbc6cc1f637a0f0f28f50"
-       // self.DoneKeyboard(dismissOnTap: true)
-    }//657b0f55632f4ca91909ce0e
+        mycustomeView.channel_id = ""
+       
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()

@@ -38,7 +38,8 @@
 		2F9F7EEB6D826EF111094B92666CD439 /* Pods-C2CB-iOS-Library_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FB09D3EB2C8565D005C21EE6B1B5B691 /* Pods-C2CB-iOS-Library_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6805017B632EAEB09CB18EFA8169D559 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		6BCABA6E972BAE861D0445A86E21FED3 /* Pods-C2CB-iOS-Library_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */; };
-		C943E1B42CF7435200AE3D2A /* C2CB_iOS_Library.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C943E1B32CF7435200AE3D2A /* C2CB_iOS_Library.xcframework */; };
+		C95FD8972D2E61F100327E0E /* C2CB_iOS_Library.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C95FD8962D2E61F100327E0E /* C2CB_iOS_Library.xcframework */; };
+		C95FD8982D2E61F100327E0E /* C2CB_iOS_Library.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = C95FD8962D2E61F100327E0E /* C2CB_iOS_Library.xcframework */; };
 		EEF194EA603F2AFCAED80F1AE5341365 /* Pods-C2CB-iOS-Library_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -95,7 +96,7 @@
 		9EFAB19F08B07E751FBBBE5B69B52B1F /* TwilioVoice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; path = TwilioVoice.xcframework; sourceTree = "<group>"; };
 		A7E09460C76092E773DF1A65A641CDD4 /* Pods-C2CB-iOS-Library_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BDDB675EDD5503DEDBDB192899096193 /* TwilioVoice-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "TwilioVoice-xcframeworks.sh"; sourceTree = "<group>"; };
-		C943E1B32CF7435200AE3D2A /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
+		C95FD8962D2E61F100327E0E /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
 		CA980E4F18C594F7A72D2606425A8FE3 /* Pods-C2CB-iOS-Library_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Tests.modulemap"; sourceTree = "<group>"; };
 		CD13F9E4468A8181A9D708930957B247 /* C2CB-iOS-Library-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "C2CB-iOS-Library-xcframeworks.sh"; sourceTree = "<group>"; };
 		CF052119B06484561D043C912210C4E0 /* C2CB-iOS-Library.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.debug.xcconfig"; sourceTree = "<group>"; };
@@ -114,6 +115,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6805017B632EAEB09CB18EFA8169D559 /* Foundation.framework in Frameworks */,
+				C95FD8972D2E61F100327E0E /* C2CB_iOS_Library.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -122,7 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				127CB255A6E23EBEEB761426A181339F /* Foundation.framework in Frameworks */,
-				C943E1B42CF7435200AE3D2A /* C2CB_iOS_Library.xcframework in Frameworks */,
+				C95FD8982D2E61F100327E0E /* C2CB_iOS_Library.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -157,7 +159,7 @@
 		6513B0BEAFACD8FDE852ED76E5985761 /* C2CB-iOS-Library */ = {
 			isa = PBXGroup;
 			children = (
-				C943E1B32CF7435200AE3D2A /* C2CB_iOS_Library.xcframework */,
+				C95FD8962D2E61F100327E0E /* C2CB_iOS_Library.xcframework */,
 				CDD32B89E59674E0888503BB4EBC9DC9 /* Pod */,
 				D76E177CD1814233B08797879D69D6D1 /* Support Files */,
 			);
