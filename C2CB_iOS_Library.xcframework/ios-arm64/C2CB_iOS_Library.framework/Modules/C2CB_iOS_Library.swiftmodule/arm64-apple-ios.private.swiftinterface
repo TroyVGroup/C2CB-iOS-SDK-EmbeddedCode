@@ -204,6 +204,9 @@ extension C2CB_iOS_Library.C2CSdkCallValidationSetUp : UIKit.UITextFieldDelegate
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
 }
+extension C2CB_iOS_Library.C2CSdkOutgoingCallUISetup : UIKit.UITextFieldDelegate {
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
+}
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable @_Concurrency.MainActor @preconcurrency public class C2CSdkCustomView : UIKit.UIView {
   @objc @IBInspectable @_Concurrency.MainActor @preconcurrency public var width: CoreFoundation.CGFloat {
     @objc get

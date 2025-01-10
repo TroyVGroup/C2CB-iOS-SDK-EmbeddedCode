@@ -543,6 +543,11 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library25C2CSdkOutgoingCallUISetup")
 @end
 
 
+@interface C2CSdkOutgoingCallUISetup (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextFieldDelegate>
+- (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
+@end
+
+
 
 SWIFT_CLASS("_TtC16C2CB_iOS_Library24C2CSdkSMSValidationSetUp")
 @interface C2CSdkSMSValidationSetUp : C2CSdkBaseViewController

@@ -4,25 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Frameworks/TwilioVoice.framework/Info.plist</key>
-		<data>
-		qfur8wbDdzLUT0MLyFq8Tcihjlg=
-		</data>
-		<key>Frameworks/TwilioVoice.framework/TwilioVoice</key>
-		<data>
-		2fFVXOc7Ul5BRiCkSHzG+f1pvTo=
-		</data>
-		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
-		<data>
-		NQB493yK1nC6EPqANugkETSAfvU=
-		</data>
-		<key>Frameworks/TwilioVoice.framework/remove_archs</key>
-		<data>
-		hWFTH6Xhs1VsyKCmHBzIp0xtXaE=
-		</data>
 		<key>Headers/C2CB_iOS_Library-Swift.h</key>
 		<data>
-		E2mk1zeD+1knOCE19OEia7EKSVw=
+		QVmTydBF3vYdahxXFb/1YOjIhmg=
 		</data>
 		<key>Headers/C2CB_iOS_Library.h</key>
 		<data>
@@ -34,11 +18,11 @@
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		soNu4QAhqCN7whmku19Yia+d9K0=
+		pxfO63ka7o4n/iIk2y1gzK6/Yjw=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		R/KtPLYEXKMtElTdDZe4ZNHSdo8=
+		UZqfA48cHPvzEk9TOJlrcr9Rgjk=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,19 +30,19 @@
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		R/KtPLYEXKMtElTdDZe4ZNHSdo8=
+		UZqfA48cHPvzEk9TOJlrcr9Rgjk=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8xM58SSXIyDzBcqt8K0LQVcX73A=
+		Dpcm6Ub56wVVED2D1HHDMjtN/T0=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		soNu4QAhqCN7whmku19Yia+d9K0=
+		pxfO63ka7o4n/iIk2y1gzK6/Yjw=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		g4lmoNxAeYpCFhr2PRs+m6unIPs=
+		bnk3HgOxkVBjcUmWGVladfTpxJY=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,11 +50,11 @@
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		g4lmoNxAeYpCFhr2PRs+m6unIPs=
+		bnk3HgOxkVBjcUmWGVladfTpxJY=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9vThrELy/AO6KepPK4m3YCrrB+8=
+		4NDr8VgxUT07ECCzCkTvI6U409Q=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -163,39 +147,11 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Frameworks/TwilioVoice.framework/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yuJihDvPaWbB1SDegDLF3qeQ8bFg39HkjBarcjw5Gq0=
-			</data>
-		</dict>
-		<key>Frameworks/TwilioVoice.framework/TwilioVoice</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EJ4QPt45FVW6feqy6MDhr1rbmhfe5mbfv2b5fVQaBos=
-			</data>
-		</dict>
-		<key>Frameworks/TwilioVoice.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OM4wEAIvHrPmITrC+TYGQXvmo11i12KJ8RXN7ChMH5o=
-			</data>
-		</dict>
-		<key>Frameworks/TwilioVoice.framework/remove_archs</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OXzikzUDaEcnkDkiBNCDBe4v/p0YZrmfgNQLo+JK+Ys=
-			</data>
-		</dict>
 		<key>Headers/C2CB_iOS_Library-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gJ8FVBmBzTiQaDXD5hn91N+oxNEBoy+vHGVAsOYQExA=
+			iEELA7DPjLY2BqC03V+NWjG10VqP3XMDGB57nTRyRJw=
 			</data>
 		</dict>
 		<key>Headers/C2CB_iOS_Library.h</key>
@@ -209,14 +165,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			13k9Geb3HH2xJU2PbPvCXYSKYcQNKTGXZBPm2FauYVI=
+			Hy/ki09V9mPCQOJwIXVmD2V+MacXWVPuyd5oe2qM0h4=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7C0nf187arXdZgGrMj3KcKutmP3Q+Xz5x8uPwwntuAc=
+			SV9GU8yb/mKwNTNJC2fYS5Zw21+XAkkjU2V2vo50r8o=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -230,28 +186,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7C0nf187arXdZgGrMj3KcKutmP3Q+Xz5x8uPwwntuAc=
+			SV9GU8yb/mKwNTNJC2fYS5Zw21+XAkkjU2V2vo50r8o=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5dsUoCFCkKm90qgeFWQSrXOgTFE/hVxg4n3JaRqMIYU=
+			tQVJyguK41k2C/mi49zVB49jMKkrwoB1IXhAYG0TQG4=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			13k9Geb3HH2xJU2PbPvCXYSKYcQNKTGXZBPm2FauYVI=
+			Hy/ki09V9mPCQOJwIXVmD2V+MacXWVPuyd5oe2qM0h4=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZhaRgnegsasl6wJiVWJQkvpN9ZA+FI+U7wcFkOeryY=
+			4ZnBSwerAw0t1nXKuwUYhZNOF7k5aMhv/Ri6dlae0Aw=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -265,14 +221,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vZhaRgnegsasl6wJiVWJQkvpN9ZA+FI+U7wcFkOeryY=
+			4ZnBSwerAw0t1nXKuwUYhZNOF7k5aMhv/Ri6dlae0Aw=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pKyY0B+Ml/qe+0d9F5/xmDzk9GsrlRpgtnShPsHdZqY=
+			kMjat/znEEtCjhF6uawPdfJ7i5rHmOpkD3R4YHjPg9o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

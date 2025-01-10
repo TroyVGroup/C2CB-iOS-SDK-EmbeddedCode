@@ -543,6 +543,11 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library25C2CSdkOutgoingCallUISetup")
 @end
 
 
+@interface C2CSdkOutgoingCallUISetup (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextFieldDelegate>
+- (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
+@end
+
+
 
 SWIFT_CLASS("_TtC16C2CB_iOS_Library24C2CSdkSMSValidationSetUp")
 @interface C2CSdkSMSValidationSetUp : C2CSdkBaseViewController
@@ -1124,6 +1129,11 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library25C2CSdkOutgoingCallUISetup")
 - (void)viewWillLayoutSubviews;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+@interface C2CSdkOutgoingCallUISetup (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextFieldDelegate>
+- (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
 @end
 
 
