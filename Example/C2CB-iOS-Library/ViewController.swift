@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var mycustomeView:C2CSdkCustomView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        mycustomeView.channel_id = ""
+        mycustomeView.channel_id = "678e4707e3da2cfe5e677430"
        
     }
 

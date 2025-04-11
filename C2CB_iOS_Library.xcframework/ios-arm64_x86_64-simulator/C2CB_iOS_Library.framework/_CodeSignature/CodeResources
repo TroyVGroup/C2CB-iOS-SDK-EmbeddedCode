@@ -4,9 +4,117 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>C2CResource.bundle/Info.plist</key>
+		<data>
+		u+yenRR3RlRnKc6Z2VYddDf4XYw=
+		</data>
+		<key>C2CResource.bundle/OFL.txt</key>
+		<data>
+		jWw0tw49Y4yC17Wro/hH99bSyDE=
+		</data>
+		<key>C2CResource.bundle/Poppins-Bold.ttf</key>
+		<data>
+		h1zwzs1ke88i551jPYaMGx7Jjfo=
+		</data>
+		<key>C2CResource.bundle/Poppins-Medium.ttf</key>
+		<data>
+		KD8htE772/J2uoAr4tlJo2u8QjM=
+		</data>
+		<key>C2CResource.bundle/Poppins-Regular.ttf</key>
+		<data>
+		/dMALn2BTuR8HBuEh8csa7s6LQA=
+		</data>
+		<key>C2CResource.bundle/Poppins-SemiBold.ttf</key>
+		<data>
+		ikrOk5LQa8t/jqL1FpsH5MODqQ0=
+		</data>
+		<key>C2CResource.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		Rxe/jdIXAgG2UqYzOuftCOilXSU=
+		</data>
+		<key>C2CResource.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>C2CResource.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		qVR/F1KjKXSjbm9L2J0KoWQr5fI=
+		</data>
+		<key>C2CResource.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		f3h4WgIxOhasQOGWJMxB0wTg9Ow=
+		</data>
+		<key>C2CResource.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>C2CResource.bundle/audio.png</key>
+		<data>
+		KqM8pKNmXfdNyJqAh0+33z79s4M=
+		</data>
+		<key>C2CResource.bundle/camera.png</key>
+		<data>
+		3NTv/HRWGtZeZYs+Do+KZRnnJNs=
+		</data>
+		<key>C2CResource.bundle/camera_white.png</key>
+		<data>
+		gCMtRblfBZ2O+6b3PWUaijI8A+U=
+		</data>
+		<key>C2CResource.bundle/cancel.png</key>
+		<data>
+		BqZiSSaHC2MqnhqoyZRDk7tzA+o=
+		</data>
+		<key>C2CResource.bundle/checked.png</key>
+		<data>
+		QY5MMJ1Iprd2u2k5hzsMlgJgs3w=
+		</data>
+		<key>C2CResource.bundle/checkmark.png</key>
+		<data>
+		26usoOmI7+RywwGp5rnUgIhH8fs=
+		</data>
+		<key>C2CResource.bundle/delete.png</key>
+		<data>
+		BkTHsn3pjmRhF4V6mzAJJU/dT0I=
+		</data>
+		<key>C2CResource.bundle/gallery.png</key>
+		<data>
+		tS5l4UgUZ3dzF6271Mn95bD/6CM=
+		</data>
+		<key>C2CResource.bundle/gallery_white.png</key>
+		<data>
+		aHd1jBHhsCAIR83WyW8fU/RcW3A=
+		</data>
+		<key>C2CResource.bundle/hangUp.png</key>
+		<data>
+		vhc2ZTyfb4qSX6x6vv565+0aBmI=
+		</data>
+		<key>C2CResource.bundle/keypad.png</key>
+		<data>
+		kaU0Th6V8XBu7OoIG1uDp64MXkE=
+		</data>
+		<key>C2CResource.bundle/logo.png</key>
+		<data>
+		MaObP04TO0Q7zz0GnU9vLM7OsLI=
+		</data>
+		<key>C2CResource.bundle/mute.png</key>
+		<data>
+		bc1cWuEU+dC6J8Vkg624ksusJy4=
+		</data>
+		<key>C2CResource.bundle/speaker.png</key>
+		<data>
+		0uVVM9BimomqzJxG7IFyA9tC6JA=
+		</data>
+		<key>C2CResource.bundle/unChecked.png</key>
+		<data>
+		jK7KmMsewkiAs/VMLVY9asXb+Fs=
+		</data>
+		<key>C2CResource.bundle/unmute.png</key>
+		<data>
+		rdnubFNjHaZZX+Os2brlgMbWLr8=
+		</data>
 		<key>Headers/C2CB_iOS_Library-Swift.h</key>
 		<data>
-		QVmTydBF3vYdahxXFb/1YOjIhmg=
+		PYxODgmbv76zdVDUdeGhG8SLVG8=
 		</data>
 		<key>Headers/C2CB_iOS_Library.h</key>
 		<data>
@@ -14,47 +122,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Tz/TRcn8aTtvFHvdZ5OItXql5AY=
+		oC04f9Wxy9X0ZdKuzagNlbBtF5o=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		pxfO63ka7o4n/iIk2y1gzK6/Yjw=
+		rMwkH4l+bD2bTh95qwqQuYrsU6M=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UZqfA48cHPvzEk9TOJlrcr9Rgjk=
+		A7nLmS9Xnp0QWiqMBPzvwd/UX2g=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		m22BBHEtpIAOSXZLHPWzcLd98fE=
+		VUVU1mQz3czt1iPCP+w0ZX8s0O4=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UZqfA48cHPvzEk9TOJlrcr9Rgjk=
+		A7nLmS9Xnp0QWiqMBPzvwd/UX2g=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Dpcm6Ub56wVVED2D1HHDMjtN/T0=
+		2qJ7rHSrb7g1fI5EuHCzn9H+r7o=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		pxfO63ka7o4n/iIk2y1gzK6/Yjw=
+		rMwkH4l+bD2bTh95qwqQuYrsU6M=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bnk3HgOxkVBjcUmWGVladfTpxJY=
+		oea3puCBUzVjXlMz+L4rv+pk/cg=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		rBPGCusDuTk0cTl4FzR9T3CmH6Y=
+		ffHv/5Hqsv4dcBSF2R8PyAvaXVM=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bnk3HgOxkVBjcUmWGVladfTpxJY=
+		oea3puCBUzVjXlMz+L4rv+pk/cg=
 		</data>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4NDr8VgxUT07ECCzCkTvI6U409Q=
+		cwgv3UZQ/xpkO/bX+UXcE6F2f50=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -147,11 +255,200 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>C2CResource.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AdIWjx4Ptlw/KXtMan0fo9i5qTbOMDToLOO1pITAmfU=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/OFL.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iXW+veZQbMbULo+BsMfFp6MejSQShoGpbCFjQGaeqcY=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/Poppins-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			chlUfuJTNMusD+SzrPC/Yx5I67YixxrwOO2qplLGCHU=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/Poppins-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jZCYg96BNE4PvP7zDpMYcuktmu7N+Fttz24LKMB46Y4=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/Poppins-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cH/cXIurV6kAYcao7Xtw1f+4L8gQ6ZTnn5C6zokMJVo=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/Poppins-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JIwCRLNQ7GiICZaqa+bXeWJ0tJmS1fy77+JRkGqk6jY=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z2jaHj6ZORGv5W971wVMnv83FigXHn4Yfuu2jZJyads=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OTs5gyU6bBPP/cNa8QkBPC5z+ownmW5K3eXJMbC+PEM=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v6h2ABougzCZG0B0K0FgOyP65HTVPf4APKgAKEoWXrk=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/audio.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U0GYdjCN9WOiLiq+T72hseV08ItGIVuw6QSebSY3A6E=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/camera.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lIretxI7HUtdUtahRWAGSuODvYIjOvk+B/OjLNGYmSU=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/camera_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u35okD6CKLFVjhRW8Id8gcLzHzGrSh5Wp4f7GKzugWY=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/cancel.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RehMuUt+LylkUZdZ16V+yK04ExbNkzTdGvLEcDVsaPw=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/checked.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HjULzRu3Z4FhOQwv9fBCO0jNb8Dm6lIxzQvaL5nmzbU=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/checkmark.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Li2JI4N+mW3vX5daFFPJwwWPvEy8BMVo1VlEcRBCigg=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/delete.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BD+hVj4kub9zU1mIbredkE6/sjfzpROD9k5kIaS/8y8=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/gallery.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UpWCB6eVdQwFJPO17X3q+Qp9zx9m0Avh9zoMcNcybg8=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/gallery_white.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zdCiBID7WLqVKZaMPAzvTJmyOxYQAYJ+IyrfsSQjYUY=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/hangUp.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			d2nxVFMO/bwQWbeOnIXfDuik42VoqurlCQbI1peC5A8=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/keypad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5A1Xb3t0gVx+WFmf8zYSAmtO4z8VqoZyBl4HvN6ZOOs=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MdNyNDn5w5szz5CMMJYJOPDtXxNWgZGaC2NikxDCbfU=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/mute.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PMWmM992QV7e+nOqurYiZFplpM/NT3xdlSY0238P6DM=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/speaker.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xf9lH299E6oSOSTmVv68XMaT7rpp12TXxJD/nraZk4g=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/unChecked.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xDGPfeYMnUz8qdw7D9/ztKpSURTlUfXe2WMnZRGvUao=
+			</data>
+		</dict>
+		<key>C2CResource.bundle/unmute.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K3E6GYNIBxfZgKPf8tVtq6B+BhX8wQwyqggZI6A3Hkk=
+			</data>
+		</dict>
 		<key>Headers/C2CB_iOS_Library-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iEELA7DPjLY2BqC03V+NWjG10VqP3XMDGB57nTRyRJw=
+			ofs8Lc6R7HgECKpehZfGpiNEd15Sn/93RVaAHZMseCI=
 			</data>
 		</dict>
 		<key>Headers/C2CB_iOS_Library.h</key>
@@ -165,70 +462,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hy/ki09V9mPCQOJwIXVmD2V+MacXWVPuyd5oe2qM0h4=
+			XWzKr//PJOZg8mW8N68NLOCQqFCVt/S2EcETNRkh/as=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SV9GU8yb/mKwNTNJC2fYS5Zw21+XAkkjU2V2vo50r8o=
+			Jg4X65ohuAEpmx5f2a4njcztuWaquSO0QJkTjOHr61E=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6fajcaDfmmFPT6ZdoltZGcbsJquXKj9Bs7UFBmOA1qE=
+			f6/QNiZiLW4pXV1R+ctF+DMiI8MoqdRJtLcq85qBSgE=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SV9GU8yb/mKwNTNJC2fYS5Zw21+XAkkjU2V2vo50r8o=
+			Jg4X65ohuAEpmx5f2a4njcztuWaquSO0QJkTjOHr61E=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tQVJyguK41k2C/mi49zVB49jMKkrwoB1IXhAYG0TQG4=
+			sS4st+Ll+yvfQgHHWpe9QDoFs0ZG7+exHqM++oxalSM=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hy/ki09V9mPCQOJwIXVmD2V+MacXWVPuyd5oe2qM0h4=
+			XWzKr//PJOZg8mW8N68NLOCQqFCVt/S2EcETNRkh/as=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ZnBSwerAw0t1nXKuwUYhZNOF7k5aMhv/Ri6dlae0Aw=
+			e2kr/mVejy2EWQGR37BpIpCjltcBhNDH6tv9RYmw2jg=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PejhyFHdRzdJ3AZfWc+h0CWsiBLnVPPzqI3FQBXSXSU=
+			3J9rHxFiQkSmkTWArqd+pBPZ/iU+tFbMgew4qtoP69E=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ZnBSwerAw0t1nXKuwUYhZNOF7k5aMhv/Ri6dlae0Aw=
+			e2kr/mVejy2EWQGR37BpIpCjltcBhNDH6tv9RYmw2jg=
 			</data>
 		</dict>
 		<key>Modules/C2CB_iOS_Library.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kMjat/znEEtCjhF6uawPdfJ7i5rHmOpkD3R4YHjPg9o=
+			sRbOcszSV9W5Rao9fbGq7vgmVonPaqWIwwmbwAqXjvY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

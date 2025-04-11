@@ -4606,7 +4606,10 @@
             "declKind": "EnumElement",
             "usr": "s:16C2CB_iOS_Library0A14CSdkWebServiceO16termConditionUrlyA2CmF",
             "mangledName": "$s16C2CB_iOS_Library0A14CSdkWebServiceO16termConditionUrlyA2CmF",
-            "moduleName": "C2CB_iOS_Library"
+            "moduleName": "C2CB_iOS_Library",
+            "declAttributes": [
+              "RawDocComment"
+            ]
           },
           {
             "kind": "Var",
@@ -7720,6 +7723,106 @@
           },
           {
             "kind": "Var",
+            "name": "bundle_version",
+            "printedName": "bundle_version",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16C2CB_iOS_Library0A12CSdkConstantC14bundle_versionSSvpZ",
+            "mangledName": "$s16C2CB_iOS_Library0A12CSdkConstantC14bundle_versionSSvpZ",
+            "moduleName": "C2CB_iOS_Library",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16C2CB_iOS_Library0A12CSdkConstantC14bundle_versionSSvgZ",
+                "mangledName": "$s16C2CB_iOS_Library0A12CSdkConstantC14bundle_versionSSvgZ",
+                "moduleName": "C2CB_iOS_Library",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16C2CB_iOS_Library0A12CSdkConstantC14bundle_versionSSvsZ",
+                "mangledName": "$s16C2CB_iOS_Library0A12CSdkConstantC14bundle_versionSSvsZ",
+                "moduleName": "C2CB_iOS_Library",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16C2CB_iOS_Library0A12CSdkConstantC14bundle_versionSSvMZ",
+                "mangledName": "$s16C2CB_iOS_Library0A12CSdkConstantC14bundle_versionSSvMZ",
+                "moduleName": "C2CB_iOS_Library",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "IS_IPAD",
             "printedName": "IS_IPAD",
             "children": [
@@ -8483,1281 +8586,1344 @@
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2964,
-      "length": 9,
-      "value": "\"Email* \""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3035,
-      "length": 5,
-      "value": "false"
+      "offset": 2984,
+      "length": 59,
+      "value": "\"Note: OTP verification is enabled for US and Canada only.\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3098,
-      "length": 2,
-      "value": "45"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3113,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3300,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3334,
+      "offset": 3096,
       "length": 1,
-      "value": "0"
+      "value": "2"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 3475,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 3620,
-      "length": 8,
-      "value": "\"Verify\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 3708,
-      "length": 9,
-      "value": "\"#225E81\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3894,
-      "length": 2,
-      "value": "22"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4035,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 4212,
-      "length": 21,
-      "value": "\"Verification Code* \""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4295,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4358,
-      "length": 2,
-      "value": "45"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4373,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 4570,
-      "length": 21,
-      "value": "\"checkmark.seal.fill\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4766,
+      "offset": 3146,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4829,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 4993,
-      "length": 14,
-      "value": "\"First Name* \""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5069,
+      "offset": 3207,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5132,
-      "length": 2,
-      "value": "45"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5147,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 5311,
-      "length": 13,
-      "value": "\"Last Name* \""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5386,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5449,
-      "length": 2,
-      "value": "45"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5464,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 5636,
-      "length": 8,
-      "value": "\"Code* \""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5706,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5769,
-      "length": 2,
-      "value": "45"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 5784,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 5990,
-      "length": 25,
-      "value": "\"arrowtriangle.down.fill\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6408,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6414,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6424,
-      "length": 2,
-      "value": "90"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6436,
+      "offset": 3266,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6713,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6777,
-      "length": 2,
-      "value": "90"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6792,
+      "offset": 3281,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6825,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7099,
-      "length": 15,
-      "value": "\"Contact no.* \""
+      "offset": 3438,
+      "length": 9,
+      "value": "\"*Email \""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7176,
+      "offset": 3509,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7239,
+      "offset": 3572,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7254,
+      "offset": 3587,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 7423,
-      "length": 34,
-      "value": "\"Enter extension here (optional).\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7519,
+      "offset": 3774,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7582,
-      "length": 2,
-      "value": "45"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7597,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 7921,
-      "length": 11,
-      "value": "\"unChecked\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 8055,
-      "length": 23,
-      "value": "\"Failed to load image.\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8368,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8572,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8633,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8812,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8846,
+      "offset": 3808,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 9098,
-      "length": 6,
-      "value": "\"Code\""
+      "kind": "BooleanLiteral",
+      "offset": 3949,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9184,
+      "offset": 4094,
+      "length": 8,
+      "value": "\"Verify\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4182,
       "length": 9,
       "value": "\"#225E81\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9370,
+      "offset": 4368,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9511,
+      "offset": 4509,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9698,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9732,
-      "length": 1,
-      "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10019,
+      "offset": 4686,
       "length": 21,
-      "value": "\"Verification Code* \""
+      "value": "\"*Verification Code \""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10102,
+      "offset": 4769,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10165,
+      "offset": 4832,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10180,
+      "offset": 4847,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 10406,
+      "offset": 5044,
       "length": 21,
       "value": "\"checkmark.seal.fill\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 10531,
-      "length": 11,
-      "value": "\"checkmark\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10656,
+      "offset": 5240,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10719,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 10912,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10946,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11087,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11324,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11489,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11593,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11855,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11916,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12194,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12232,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12498,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12972,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13010,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13276,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13752,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13790,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14056,
+      "offset": 5303,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 14418,
-      "length": 10,
-      "value": "\"Subject \""
+      "offset": 5467,
+      "length": 14,
+      "value": "\"*First Name \""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14490,
+      "offset": 5543,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 14553,
+      "offset": 5606,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14568,
+      "offset": 5621,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15228,
-      "length": 17,
-      "value": "\"Enter message* \""
+      "offset": 5785,
+      "length": 13,
+      "value": "\"*Last Name \""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15307,
+      "offset": 5860,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 15370,
-      "length": 3,
-      "value": "130"
+      "offset": 5923,
+      "length": 2,
+      "value": "45"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15386,
+      "offset": 5938,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15522,
-      "length": 7,
-      "value": "\"0\/160\""
+      "offset": 6110,
+      "length": 8,
+      "value": "\"*Code \""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 15649,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 15710,
+      "offset": 6180,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6243,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6258,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 15873,
-      "length": 17,
-      "value": "\"Enter message* \""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 15952,
-      "length": 5,
-      "value": "false"
+      "offset": 6464,
+      "length": 25,
+      "value": "\"arrowtriangle.down.fill\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16015,
-      "length": 3,
-      "value": "130"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 16031,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16065,
+      "offset": 6882,
       "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 16232,
-      "length": 17,
-      "value": "\"Enter message* \""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 16311,
-      "length": 5,
-      "value": "false"
+      "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 16374,
-      "length": 3,
-      "value": "130"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 16390,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 16674,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 16735,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 16857,
-      "length": 14,
-      "value": "\"Attach File:\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17021,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17082,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17262,
-      "length": 5,
-      "value": "false"
+      "offset": 6888,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17394,
+      "offset": 6898,
       "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17409,
-      "length": 4,
-      "value": "true"
+      "value": "90"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 17466,
+      "offset": 6910,
       "length": 2,
-      "value": "30"
+      "value": "40"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 17481,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 17596,
-      "length": 4,
-      "value": "\"Or\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17750,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17811,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17990,
+      "offset": 7187,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18122,
+      "offset": 7251,
       "length": 2,
-      "value": "30"
+      "value": "90"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18137,
+      "offset": 7266,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 18194,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 18209,
-      "length": 4,
-      "value": "true"
+      "offset": 7299,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18387,
-      "length": 17,
-      "value": "\"Preview Image..\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 18476,
-      "length": 9,
-      "value": "\"#225E81\""
+      "offset": 7573,
+      "length": 15,
+      "value": "\"*Contact no. \""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 18525,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 18586,
+      "offset": 7650,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7713,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7728,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 18906,
+      "offset": 7897,
+      "length": 34,
+      "value": "\"Enter extension here (optional).\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7993,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8056,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8071,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 8395,
       "length": 11,
       "value": "\"unChecked\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19038,
+      "offset": 8529,
       "length": 23,
       "value": "\"Failed to load image.\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8842,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9046,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9107,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9286,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 19199,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19214,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19271,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19286,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19347,
-      "length": 5,
-      "value": "false"
+      "offset": 9320,
+      "length": 1,
+      "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19458,
-      "length": 16,
-      "value": "\"I agree to the\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19590,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19651,
-      "length": 5,
-      "value": "false"
+      "offset": 9572,
+      "length": 6,
+      "value": "\"Code\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 19834,
-      "length": 22,
-      "value": "\"terms and condition.\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 19928,
-      "length": 9,
-      "value": "\"#225E81\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 20010,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 20230,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 20279,
-      "length": 4,
-      "value": "22.5"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 20428,
-      "length": 9,
-      "value": "\"Connect\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 20517,
+      "offset": 9658,
       "length": 9,
       "value": "\"#225E81\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 20637,
+      "offset": 9844,
+      "length": 2,
+      "value": "22"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9985,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10172,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10206,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 10493,
+      "length": 21,
+      "value": "\"*Verification Code \""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10576,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10639,
       "length": 2,
       "value": "45"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 20652,
+      "offset": 10654,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 20694,
-      "length": 4,
-      "value": "22.5"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 20742,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 20772,
-      "length": 3,
-      "value": "0.4"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 20836,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 20955,
-      "length": 13,
-      "value": "\"Powered by:\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21084,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21145,
-      "length": 5,
-      "value": "false"
+      "offset": 10880,
+      "length": 21,
+      "value": "\"checkmark.seal.fill\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 21600,
-      "length": 6,
-      "value": "\"logo\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 21727,
-      "length": 23,
-      "value": "\"Failed to load image.\""
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21815,
-      "length": 2,
-      "value": "35"
+      "offset": 11005,
+      "length": 11,
+      "value": "\"checkmark\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 21830,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21887,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 21902,
+      "offset": 11130,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 21963,
+      "offset": 11193,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22141,
+      "offset": 11386,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22175,
+      "offset": 11420,
       "length": 1,
-      "value": "8"
+      "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 22476,
+      "offset": 11561,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11798,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 22510,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 22811,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 22845,
+      "offset": 11963,
       "length": 2,
-      "value": "10"
+      "value": "15"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23139,
+      "offset": 12067,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12329,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12390,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23173,
+      "offset": 12668,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12706,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23470,
+      "offset": 12972,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23504,
+      "offset": 13446,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13484,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13750,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14226,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14264,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14530,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 14892,
+      "length": 10,
+      "value": "\"Subject \""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14964,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15027,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15042,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15702,
+      "length": 17,
+      "value": "\"*Enter message \""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15781,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15844,
+      "length": 3,
+      "value": "130"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15860,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 15996,
+      "length": 7,
+      "value": "\"0\/160\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16123,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16184,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 16347,
+      "length": 17,
+      "value": "\"Enter message* \""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16426,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16489,
+      "length": 3,
+      "value": "130"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16505,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16539,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 16706,
+      "length": 17,
+      "value": "\"Enter message* \""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16785,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16848,
+      "length": 3,
+      "value": "130"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16864,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17148,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17209,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 17331,
+      "length": 14,
+      "value": "\"Attach File:\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17495,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17556,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17736,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17868,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17883,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17940,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17955,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 18070,
+      "length": 4,
+      "value": "\"Or\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18224,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18285,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18464,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18596,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18611,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18668,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18683,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 18861,
+      "length": 17,
+      "value": "\"Preview Image..\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 18950,
+      "length": 9,
+      "value": "\"#225E81\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18999,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19060,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 19380,
+      "length": 11,
+      "value": "\"unChecked\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 19512,
+      "length": 23,
+      "value": "\"Failed to load image.\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19673,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19688,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19745,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19760,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19821,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 19936,
+      "length": 45,
+      "value": "\"Note: Only one image allowed with the form.\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20030,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20091,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20150,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20165,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20275,
+      "length": 16,
+      "value": "\"I agree to the\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20407,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20468,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20651,
+      "length": 22,
+      "value": "\"terms and condition.\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 20745,
+      "length": 9,
+      "value": "\"#225E81\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20827,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21047,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 21096,
+      "length": 4,
+      "value": "22.5"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21245,
+      "length": 9,
+      "value": "\"Connect\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 21334,
+      "length": 9,
+      "value": "\"#225E81\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21454,
+      "length": 2,
+      "value": "45"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21469,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 21511,
+      "length": 4,
+      "value": "22.5"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21559,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "FloatLiteral",
+      "offset": 21589,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21653,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21903,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21964,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22135,
+      "length": 2,
+      "value": "35"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22150,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22207,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22222,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22283,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22461,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22495,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 23797,
+      "offset": 22796,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 23831,
+      "offset": 22830,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24118,
+      "offset": 23131,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24152,
+      "offset": 23165,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 23459,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23493,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 23790,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 23824,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24117,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 24151,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24438,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "IntegerLiteral",
+      "offset": 24472,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 24443,
+      "offset": 24763,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24477,
+      "offset": 24797,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 24693,
+      "offset": 25013,
       "length": 17,
       "value": "\"Enter message* \""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 24777,
+      "offset": 25097,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25082,
+      "offset": 25435,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 25118,
+      "offset": 25471,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25205,
+      "offset": 25558,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 25359,
+      "offset": 25593,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 25747,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 25781,
+      "offset": 26169,
       "length": 5,
       "value": "false"
     },
@@ -9806,21 +9972,28 @@
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCountryCode\/C2CSdkCountryCodeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1777,
+      "offset": 1784,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCountryCode\/C2CSdkCountryCodeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1828,
+      "offset": 1827,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCountryCode\/C2CSdkCountryCodeViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1878,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkCountryCode\/C2CSdkCountryCodeViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2003,
+      "offset": 2178,
       "length": 1,
       "value": "0"
     },
@@ -9834,462 +10007,462 @@
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 259,
-      "length": 13,
-      "value": "\"countrycode\""
+      "offset": 261,
+      "length": 15,
+      "value": "\"countrycodeId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 301,
+      "offset": 305,
       "length": 8,
       "value": "\"number\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 380,
+      "offset": 384,
       "length": 11,
       "value": "\"channelid\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 425,
+      "offset": 429,
       "length": 13,
       "value": "\"countrycode\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 467,
+      "offset": 471,
       "length": 8,
       "value": "\"number\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 501,
+      "offset": 505,
       "length": 5,
       "value": "\"otp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 577,
+      "offset": 581,
       "length": 11,
       "value": "\"channelid\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 616,
+      "offset": 620,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 701,
+      "offset": 705,
       "length": 11,
       "value": "\"channelid\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 740,
+      "offset": 744,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 773,
+      "offset": 777,
       "length": 5,
       "value": "\"otp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 845,
+      "offset": 849,
       "length": 11,
       "value": "\"channelId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 890,
+      "offset": 894,
       "length": 13,
       "value": "\"countrycode\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 931,
+      "offset": 935,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 968,
+      "offset": 972,
       "length": 9,
       "value": "\"mailotp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1007,
+      "offset": 1011,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1043,
+      "offset": 1047,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1078,
+      "offset": 1082,
       "length": 8,
       "value": "\"number\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1115,
+      "offset": 1119,
       "length": 8,
       "value": "\"numotp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1157,
+      "offset": 1161,
       "length": 13,
       "value": "\"imageFolder\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1202,
+      "offset": 1206,
       "length": 11,
       "value": "\"imageName\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1242,
+      "offset": 1246,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1278,
+      "offset": 1282,
       "length": 7,
       "value": "\"fname\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1313,
+      "offset": 1317,
       "length": 7,
       "value": "\"lname\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1354,
+      "offset": 1358,
       "length": 13,
       "value": "\"saveContact\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1397,
+      "offset": 1401,
       "length": 9,
       "value": "\"subject\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1471,
+      "offset": 1475,
       "length": 11,
       "value": "\"channelId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1516,
+      "offset": 1520,
       "length": 13,
       "value": "\"countrycode\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1557,
+      "offset": 1561,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1594,
+      "offset": 1598,
       "length": 9,
       "value": "\"mailotp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1633,
+      "offset": 1637,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1669,
+      "offset": 1673,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1704,
+      "offset": 1708,
       "length": 8,
       "value": "\"number\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1741,
+      "offset": 1745,
       "length": 8,
       "value": "\"numotp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1783,
+      "offset": 1787,
       "length": 13,
       "value": "\"imageFolder\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1828,
+      "offset": 1832,
       "length": 11,
       "value": "\"imageName\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1868,
+      "offset": 1872,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1904,
+      "offset": 1908,
       "length": 7,
       "value": "\"fname\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1939,
+      "offset": 1943,
       "length": 7,
       "value": "\"lname\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 1980,
+      "offset": 1984,
       "length": 13,
       "value": "\"saveContact\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2023,
+      "offset": 2027,
       "length": 9,
       "value": "\"subject\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2106,
+      "offset": 2110,
       "length": 11,
       "value": "\"channelId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2151,
+      "offset": 2155,
       "length": 13,
       "value": "\"countrycode\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2192,
+      "offset": 2196,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2229,
+      "offset": 2233,
       "length": 9,
       "value": "\"mailotp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2268,
+      "offset": 2272,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2304,
+      "offset": 2308,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2339,
+      "offset": 2343,
       "length": 8,
       "value": "\"number\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2376,
+      "offset": 2380,
       "length": 8,
       "value": "\"numotp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2418,
+      "offset": 2422,
       "length": 13,
       "value": "\"imageFolder\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2463,
+      "offset": 2467,
       "length": 11,
       "value": "\"imageName\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2503,
+      "offset": 2507,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2544,
+      "offset": 2548,
       "length": 11,
       "value": "\"extension\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2583,
+      "offset": 2587,
       "length": 7,
       "value": "\"fname\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2618,
+      "offset": 2622,
       "length": 7,
       "value": "\"lname\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2659,
+      "offset": 2663,
       "length": 13,
       "value": "\"saveContact\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2702,
+      "offset": 2706,
       "length": 9,
       "value": "\"subject\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2774,
+      "offset": 2778,
       "length": 8,
       "value": "\"authId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2846,
+      "offset": 2850,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2921,
+      "offset": 2925,
       "length": 11,
       "value": "\"channelId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 2960,
+      "offset": 2964,
       "length": 7,
       "value": "\"image\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 3001,
+      "offset": 3005,
       "length": 13,
       "value": "\"imageFolder\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 3046,
+      "offset": 3050,
       "length": 11,
       "value": "\"imageName\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 3136,
+      "offset": 3140,
       "length": 11,
       "value": "\"channelId\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 3181,
+      "offset": 3185,
       "length": 13,
       "value": "\"imageFolder\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkApiParaKey.swift",
       "kind": "StringLiteral",
-      "offset": 3226,
+      "offset": 3230,
       "length": 11,
       "value": "\"imageName\""
     },
@@ -10380,394 +10553,478 @@
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 1312,
+      "offset": 1363,
       "length": 10,
       "value": "\"smsstats\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 1349,
+      "offset": 1400,
       "length": 12,
       "value": "\"emailstats\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 1387,
+      "offset": 1438,
       "length": 11,
       "value": "\"callstats\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 1426,
+      "offset": 1477,
       "length": 13,
       "value": "\"preferences\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 1465,
+      "offset": 1516,
       "length": 11,
       "value": "\"countries\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 1501,
+      "offset": 1552,
       "length": 10,
       "value": "\"contexts\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 1534,
+      "offset": 1585,
       "length": 8,
       "value": "\"status\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 2424,
+      "offset": 1626,
+      "length": 18,
+      "value": "\"limitedCountries\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 2662,
       "length": 8,
       "value": "\"enable\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 2451,
+      "offset": 2689,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 2865,
+      "offset": 2718,
+      "length": 10,
+      "value": "\"iconLink\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 3252,
       "length": 8,
       "value": "\"enable\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 2892,
+      "offset": 3279,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 3329,
+      "offset": 3308,
+      "length": 10,
+      "value": "\"iconLink\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 3856,
       "length": 8,
       "value": "\"enable\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 3361,
+      "offset": 3888,
       "length": 9,
       "value": "\"dialpad\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 3389,
+      "offset": 3916,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5126,
+      "offset": 3945,
+      "length": 10,
+      "value": "\"iconLink\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 5766,
       "length": 14,
       "value": "\"call_contact\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5181,
+      "offset": 5821,
       "length": 22,
       "value": "\"call_image_mandatory\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5241,
+      "offset": 5881,
       "length": 19,
       "value": "\"sms_verifycontact\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5293,
+      "offset": 5933,
       "length": 14,
       "value": "\"call_message\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5341,
+      "offset": 5981,
       "length": 15,
       "value": "\"email_context\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5388,
+      "offset": 6028,
       "length": 13,
       "value": "\"sms_context\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5435,
+      "offset": 6075,
       "length": 15,
       "value": "\"email_message\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5492,
+      "offset": 6132,
       "length": 23,
       "value": "\"sms_context_mandatory\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5545,
+      "offset": 6185,
       "length": 11,
       "value": "\"sms_image\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5588,
+      "offset": 6228,
       "length": 13,
       "value": "\"sms_message\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5632,
+      "offset": 6272,
       "length": 12,
       "value": "\"email_name\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5674,
+      "offset": 6314,
       "length": 11,
       "value": "\"sms_email\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5727,
+      "offset": 6367,
       "length": 23,
       "value": "\"email_image_mandatory\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5787,
+      "offset": 6427,
       "length": 18,
       "value": "\"call_verifyemail\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5838,
+      "offset": 6478,
       "length": 14,
       "value": "\"call_subject\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5888,
+      "offset": 6528,
       "length": 17,
       "value": "\"sms_verifyemail\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 5945,
+      "offset": 6585,
       "length": 21,
       "value": "\"email_verifycontact\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6010,
+      "offset": 6650,
       "length": 25,
       "value": "\"email_context_mandatory\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6066,
+      "offset": 6706,
       "length": 12,
       "value": "\"call_email\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6107,
+      "offset": 6747,
       "length": 10,
       "value": "\"sms_name\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6156,
+      "offset": 6796,
       "length": 20,
       "value": "\"call_verifycontact\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6206,
+      "offset": 6846,
       "length": 11,
       "value": "\"call_name\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6248,
+      "offset": 6888,
       "length": 12,
       "value": "\"call_image\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6301,
+      "offset": 6941,
       "length": 22,
       "value": "\"sms_context_multiple\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6355,
+      "offset": 6995,
       "length": 13,
       "value": "\"email_email\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6411,
+      "offset": 7051,
       "length": 24,
       "value": "\"email_context_multiple\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6468,
+      "offset": 7108,
       "length": 14,
       "value": "\"call_context\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6525,
+      "offset": 7165,
       "length": 24,
       "value": "\"call_context_mandatory\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6591,
+      "offset": 7231,
       "length": 23,
       "value": "\"call_context_multiple\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6646,
+      "offset": 7286,
       "length": 13,
       "value": "\"email_image\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6691,
+      "offset": 7331,
       "length": 13,
       "value": "\"sms_contact\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6744,
+      "offset": 7384,
       "length": 21,
       "value": "\"sms_image_mandatory\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6799,
+      "offset": 7439,
       "length": 15,
       "value": "\"email_contact\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6848,
+      "offset": 7488,
       "length": 15,
       "value": "\"email_subject\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6895,
+      "offset": 7535,
       "length": 13,
       "value": "\"sms_subject\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 6946,
+      "offset": 7586,
       "length": 19,
       "value": "\"email_verifyemail\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 10627,
+      "offset": 11297,
       "length": 6,
       "value": "\"code\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 10657,
+      "offset": 11327,
       "length": 9,
       "value": "\"country\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 10685,
+      "offset": 11355,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 11227,
+      "offset": 11387,
+      "length": 13,
+      "value": "\"countryCode\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 12027,
+      "length": 6,
+      "value": "\"code\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 12057,
+      "length": 9,
+      "value": "\"country\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 12085,
+      "length": 4,
+      "value": "\"id\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 12117,
+      "length": 13,
+      "value": "\"countryCode\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 12753,
       "length": 13,
       "value": "\"callContext\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 11269,
+      "offset": 12795,
       "length": 14,
       "value": "\"emailContext\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
       "kind": "StringLiteral",
-      "offset": 11310,
+      "offset": 12836,
       "length": 12,
       "value": "\"smsContext\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 13414,
+      "length": 9,
+      "value": "\"altText\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 13447,
+      "length": 9,
+      "value": "\"logoUrl\""
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkChannelModelDetails\/ChannelModePage.swift",
+      "kind": "StringLiteral",
+      "offset": 13481,
+      "length": 10,
+      "value": "\"textLine\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkBaseViewController\/C2CSdkBubbleMessageCell\/C2CSdkBubbleMessageCollectionViewCell.swift",
@@ -11619,133 +11876,133 @@
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1307,
-      "length": 37,
-      "value": "\"https:\/\/apis.contexttocall.com\/c2c\/\""
+      "offset": 225,
+      "length": 48,
+      "value": "\"https:\/\/dev-api-t10.vgroupinc.com\/dev_c2c_p82\/\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1377,
-      "length": 37,
-      "value": "\"https:\/\/app.contexttocall.com\/terms\""
+      "offset": 404,
+      "length": 36,
+      "value": "\"https:\/\/dev.vgroupinc.com:82\/terms\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1447,
+      "offset": 473,
       "length": 28,
       "value": "\"https:\/\/contexttocall.com\/\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1506,
+      "offset": 532,
       "length": 54,
       "value": "\"prj_live_sk_569b6f639edde6120a26f703511c61aaecd3f7ef\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1698,
+      "offset": 1696,
       "length": 36,
       "value": "\"https:\/\/api.radar.io\/v1\/geocode\/ip\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1766,
+      "offset": 1764,
       "length": 36,
       "value": "\"global\/master\/ur\/countrylistsorted\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1833,
+      "offset": 1831,
       "length": 27,
       "value": "\"product\/channel\/ur\/modes\/\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1887,
+      "offset": 1885,
       "length": 29,
       "value": "\"utilities\/twilio\/ur\/sms\/otp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1945,
+      "offset": 1943,
       "length": 36,
       "value": "\"utilities\/twilio\/ur\/sms\/verify\/otp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2010,
+      "offset": 2008,
       "length": 29,
       "value": "\"utilities\/mail\/ur\/email\/otp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2074,
+      "offset": 2072,
       "length": 36,
       "value": "\"utilities\/mail\/ur\/email\/verify\/otp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2132,
+      "offset": 2130,
       "length": 21,
       "value": "\"product\/channel\/ur\/\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2195,
+      "offset": 2193,
       "length": 29,
       "value": "\"utilities\/mail\/ur\/send\/mail\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2262,
+      "offset": 2260,
       "length": 30,
       "value": "\"utilities\/twilio\/ur\/send\/sms\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2347,
+      "offset": 2345,
       "length": 35,
       "value": "\"utilities\/twilio\/ur\/initiate\/call\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2425,
+      "offset": 2423,
       "length": 36,
       "value": "\"utilities\/twilio\/ur\/generate\/token\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2520,
+      "offset": 2518,
       "length": 33,
       "value": "\"utilities\/twilio\/ur\/cancel\/call\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2631,
+      "offset": 2629,
       "length": 34,
       "value": "\"utilities\/twilio\/ur\/upload\/image\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 2694,
+      "offset": 2692,
       "length": 34,
       "value": "\"utilities\/twilio\/ur\/delete\/image\""
     },
@@ -11786,904 +12043,967 @@
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
-      "kind": "StringLiteral",
-      "offset": 950,
-      "length": 9,
-      "value": "\"#225E81\""
+      "kind": "FloatLiteral",
+      "offset": 939,
+      "length": 12,
+      "value": "0.4745098039"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "FloatLiteral",
+      "offset": 960,
+      "length": 12,
+      "value": "0.4745098039"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "FloatLiteral",
+      "offset": 980,
+      "length": 12,
+      "value": "0.4745098039"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1001,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 1022,
+      "offset": 1116,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 1066,
+      "offset": 1160,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 1108,
+      "offset": 1202,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 1269,
+      "offset": 1363,
       "length": 6,
       "value": "\"mute\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 1452,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1467,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1531,
-      "length": 2,
-      "value": "30"
-    },
-    {
-      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
-      "kind": "BooleanLiteral",
       "offset": 1546,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1561,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1625,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1640,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 1614,
+      "offset": 1708,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 1796,
+      "offset": 1890,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 1802,
+      "offset": 1896,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 1812,
+      "offset": 1906,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 1824,
+      "offset": 1918,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
-      "kind": "StringLiteral",
-      "offset": 2032,
-      "length": 9,
-      "value": "\"#225E81\""
+      "kind": "FloatLiteral",
+      "offset": 2115,
+      "length": 12,
+      "value": "0.4745098039"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "FloatLiteral",
+      "offset": 2136,
+      "length": 12,
+      "value": "0.4745098039"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "FloatLiteral",
+      "offset": 2156,
+      "length": 12,
+      "value": "0.4745098039"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2177,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 2108,
+      "offset": 2296,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 2156,
+      "offset": 2344,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 2202,
+      "offset": 2390,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 2375,
+      "offset": 2563,
       "length": 8,
       "value": "\"keypad\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 2572,
+      "offset": 2760,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 2587,
+      "offset": 2775,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 2655,
+      "offset": 2843,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 2670,
+      "offset": 2858,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 2742,
+      "offset": 2930,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 2937,
+      "offset": 3125,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 2943,
+      "offset": 3131,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 2953,
+      "offset": 3141,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 2965,
+      "offset": 3153,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
-      "kind": "StringLiteral",
-      "offset": 3161,
-      "length": 9,
-      "value": "\"#225E81\""
+      "kind": "FloatLiteral",
+      "offset": 3338,
+      "length": 12,
+      "value": "0.4745098039"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "FloatLiteral",
+      "offset": 3359,
+      "length": 12,
+      "value": "0.4745098039"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "FloatLiteral",
+      "offset": 3379,
+      "length": 12,
+      "value": "0.4745098039"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3400,
+      "length": 1,
+      "value": "1"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 3234,
+      "offset": 3516,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 3279,
+      "offset": 3561,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 3322,
+      "offset": 3604,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 3486,
+      "offset": 3768,
       "length": 7,
       "value": "\"audio\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 3673,
+      "offset": 3955,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 3688,
+      "offset": 3970,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 3753,
+      "offset": 4035,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 3768,
+      "offset": 4050,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 3837,
+      "offset": 4119,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 4021,
+      "offset": 4303,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 4027,
+      "offset": 4309,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 4037,
+      "offset": 4319,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 4049,
+      "offset": 4331,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 4298,
+      "offset": 4580,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 4348,
+      "offset": 4630,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 4396,
+      "offset": 4678,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 4580,
+      "offset": 4862,
       "length": 8,
       "value": "\"hangUp\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 4783,
+      "offset": 5065,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 4798,
+      "offset": 5080,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 4868,
+      "offset": 5150,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 4883,
+      "offset": 5165,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 4957,
+      "offset": 5239,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 5114,
+      "offset": 5396,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 5120,
+      "offset": 5402,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 5130,
+      "offset": 5412,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 5142,
+      "offset": 5424,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 5366,
+      "offset": 5648,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 5400,
+      "offset": 5682,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 5735,
+      "offset": 6017,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 5769,
+      "offset": 6051,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 6071,
+      "offset": 6353,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 6105,
+      "offset": 6387,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 6399,
+      "offset": 6681,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 6433,
+      "offset": 6715,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 6765,
+      "offset": 7047,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 6799,
+      "offset": 7081,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 7131,
+      "offset": 7413,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 7169,
+      "offset": 7451,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 7317,
+      "offset": 7599,
       "length": 6,
       "value": "\"Hide\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 7598,
+      "offset": 7880,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 7658,
+      "offset": 7940,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 7673,
+      "offset": 7955,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 7913,
+      "offset": 8195,
       "length": 18,
       "value": "\"delete.left.fill\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 8020,
+      "offset": 8302,
       "length": 8,
       "value": "\"cancel\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 8408,
+      "offset": 8690,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 8442,
+      "offset": 8724,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 8729,
+      "offset": 9011,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 8752,
+      "offset": 9034,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 8875,
+      "offset": 9157,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 9033,
+      "offset": 9315,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 9056,
+      "offset": 9338,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 9179,
+      "offset": 9461,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 9339,
+      "offset": 9621,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 9362,
+      "offset": 9644,
       "length": 3,
       "value": "\"3\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 9485,
+      "offset": 9767,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 9654,
+      "offset": 9936,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 9688,
+      "offset": 9970,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 9981,
+      "offset": 10263,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 10004,
+      "offset": 10286,
       "length": 3,
       "value": "\"4\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 10127,
+      "offset": 10409,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 10286,
+      "offset": 10568,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 10309,
+      "offset": 10591,
       "length": 3,
       "value": "\"5\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 10432,
+      "offset": 10714,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 10590,
+      "offset": 10872,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 10613,
+      "offset": 10895,
       "length": 3,
       "value": "\"6\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 10736,
+      "offset": 11018,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 10905,
+      "offset": 11187,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 10939,
+      "offset": 11221,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 11233,
+      "offset": 11515,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 11256,
+      "offset": 11538,
       "length": 3,
       "value": "\"7\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 11379,
+      "offset": 11661,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 11539,
+      "offset": 11821,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 11562,
+      "offset": 11844,
       "length": 3,
       "value": "\"8\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 11685,
+      "offset": 11967,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 11844,
+      "offset": 12126,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 11867,
+      "offset": 12149,
       "length": 3,
       "value": "\"9\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 11990,
+      "offset": 12272,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 12161,
+      "offset": 12443,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 12195,
+      "offset": 12477,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 12488,
+      "offset": 12770,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 12512,
+      "offset": 12794,
       "length": 3,
       "value": "\"*\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 12635,
+      "offset": 12917,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 12794,
+      "offset": 13076,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 12817,
+      "offset": 13099,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 12940,
+      "offset": 13222,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 13100,
+      "offset": 13382,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "StringLiteral",
-      "offset": 13124,
+      "offset": 13406,
       "length": 3,
       "value": "\"#\""
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 13247,
+      "offset": 13529,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 13417,
+      "offset": 13699,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 13451,
+      "offset": 13733,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "BooleanLiteral",
-      "offset": 13753,
+      "offset": 14035,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 13787,
+      "offset": 14069,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkOutgoingCall\/C2CSdkOutgoingCallUISetup.swift",
       "kind": "IntegerLiteral",
-      "offset": 13996,
+      "offset": 14278,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "FloatLiteral",
-      "offset": 3064,
+      "offset": 3159,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "FloatLiteral",
-      "offset": 3227,
+      "offset": 3310,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 4345,
+      "offset": 4400,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 4531,
+      "offset": 4586,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 4724,
+      "offset": 4779,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "BooleanLiteral",
-      "offset": 4917,
+      "offset": 4972,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/IBDesignableFiles.swift",
       "kind": "IntegerLiteral",
-      "offset": 4951,
+      "offset": 5006,
       "length": 2,
       "value": "15"
     },
@@ -12742,6 +13062,13 @@
       "offset": 998,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vgroup\/Documents\/GithHub\/C2CBusinessSDK_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/Constant\/C2CSdkConstant.swift",
+      "kind": "StringLiteral",
+      "offset": 1022,
+      "length": 5,
+      "value": "\"1.0\""
     }
   ]
 }

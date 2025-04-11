@@ -33,15 +33,22 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		002978D410B5808C4C1132285C2FA5AC /* Pods-C2CB-iOS-Library_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 522B5319B55E155BBD40EEE4F2A3DC09 /* Pods-C2CB-iOS-Library_Example-dummy.m */; };
-		127CB255A6E23EBEEB761426A181339F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		2F9F7EEB6D826EF111094B92666CD439 /* Pods-C2CB-iOS-Library_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FB09D3EB2C8565D005C21EE6B1B5B691 /* Pods-C2CB-iOS-Library_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6805017B632EAEB09CB18EFA8169D559 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		6BCABA6E972BAE861D0445A86E21FED3 /* Pods-C2CB-iOS-Library_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */; };
-		EEF194EA603F2AFCAED80F1AE5341365 /* Pods-C2CB-iOS-Library_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		269ED0C23F9479699E63B5FBEF05EF00 /* Pods-C2CB-iOS-Library_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FB09D3EB2C8565D005C21EE6B1B5B691 /* Pods-C2CB-iOS-Library_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3935546614D7FA0D496E3E58A2C21A75 /* Pods-C2CB-iOS-Library_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */; };
+		59A7BED7300AA8563991D61DA84B054A /* Pods-C2CB-iOS-Library_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		702E9B43433A2F9E9FA5DEF1E1050C81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */; };
+		C661D9EFE6A199812346FF0323A2E31F /* Pods-C2CB-iOS-Library_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 522B5319B55E155BBD40EEE4F2A3DC09 /* Pods-C2CB-iOS-Library_Example-dummy.m */; };
+		F7E3613300B7D69B9863DCBDD48C2BB6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		1CE91FD58CC1CB2215F6A05C8BAF7666 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1AFF963248C86E64D3558F376CF02E1A;
+			remoteInfo = "C2CB-iOS-Library";
+		};
 		33A52AB68E0CAD58F431DF345368A7B3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
@@ -49,21 +56,14 @@
 			remoteGlobalIDString = 73614281932881D538B76C26B92E0193;
 			remoteInfo = TwilioVoice;
 		};
-		3B90890687912B1577F2716BAF517A81 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1AFF963248C86E64D3558F376CF02E1A;
-			remoteInfo = "C2CB-iOS-Library";
-		};
-		7DBAC4D0818484CDD57030555BAB4ED7 /* PBXContainerItemProxy */ = {
+		DDBAF5847F5630A34D270A64506BAD89 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 59F9E8102C77E95A1F9A30F6A099E245;
 			remoteInfo = "Pods-C2CB-iOS-Library_Example";
 		};
-		A4D2D3EE69F37CC8317D88FCCBAF22AE /* PBXContainerItemProxy */ = {
+		DEEED3094C8FA7CF5AD7D84046BA2337 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -79,6 +79,7 @@
 		2E402A43452DBD685AD127E1AD60D6BB /* C2CB-iOS-Library.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.release.xcconfig"; sourceTree = "<group>"; };
 		2E7E706E53250DC8AD24E2BF1A08A647 /* Pods-C2CB-iOS-Library_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		35AA39C62E68A53F131C35DF01B31C56 /* Pods-C2CB-iOS-Library_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3B3ADCE03C22CF9BFC1A56C9F576DFE5 /* Pods-C2CB-iOS-Library_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.release.xcconfig"; sourceTree = "<group>"; };
 		3C89F55C97C86CC35FE7D4164E138673 /* TwilioVoice.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TwilioVoice.release.xcconfig; sourceTree = "<group>"; };
 		3D49FAB9E1939792ABB06C61852FBF2A /* Pods-C2CB-iOS-Library_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -89,12 +90,11 @@
 		5AD6C55EE401404FBFAEDCC3E90FD647 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		68591176D5368E65D60DF9322FF54094 /* Pods-C2CB-iOS-Library_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Example.modulemap"; sourceTree = "<group>"; };
 		6FA24A3274F76A4D6B52D219CCAF64C9 /* Pods-C2CB-iOS-Library_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Example-Info.plist"; sourceTree = "<group>"; };
-		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9EFAB19F08B07E751FBBBE5B69B52B1F /* TwilioVoice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; path = TwilioVoice.xcframework; sourceTree = "<group>"; };
 		A7E09460C76092E773DF1A65A641CDD4 /* Pods-C2CB-iOS-Library_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BDDB675EDD5503DEDBDB192899096193 /* TwilioVoice-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "TwilioVoice-xcframeworks.sh"; sourceTree = "<group>"; };
-		C968A4E92D313FB300C0F9CF /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
+		C9A63C9F2DA564E20041E21D /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
 		CA980E4F18C594F7A72D2606425A8FE3 /* Pods-C2CB-iOS-Library_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Tests.modulemap"; sourceTree = "<group>"; };
 		CD13F9E4468A8181A9D708930957B247 /* C2CB-iOS-Library-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "C2CB-iOS-Library-xcframeworks.sh"; sourceTree = "<group>"; };
 		CF052119B06484561D043C912210C4E0 /* C2CB-iOS-Library.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.debug.xcconfig"; sourceTree = "<group>"; };
@@ -108,19 +108,19 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		60DE249488FA3BD9CE1709CE3384D0C5 /* Frameworks */ = {
+		5DB6D8321364B857B2E9A76DE97FFAF0 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6805017B632EAEB09CB18EFA8169D559 /* Foundation.framework in Frameworks */,
+				702E9B43433A2F9E9FA5DEF1E1050C81 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F39A81BF5C562F6AE4DD99055E999907 /* Frameworks */ = {
+		DD39A5B047BBA02BBE9093C6FD76B221 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				127CB255A6E23EBEEB761426A181339F /* Foundation.framework in Frameworks */,
+				F7E3613300B7D69B9863DCBDD48C2BB6 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,23 +144,23 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		578452D2E740E91742655AC8F1636D1F /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		6513B0BEAFACD8FDE852ED76E5985761 /* C2CB-iOS-Library */ = {
 			isa = PBXGroup;
 			children = (
+				69F89AEE6C216EC6BDA27951A4381F73 /* Frameworks */,
 				CDD32B89E59674E0888503BB4EBC9DC9 /* Pod */,
 				D76E177CD1814233B08797879D69D6D1 /* Support Files */,
-				C968A4E92D313FB300C0F9CF /* C2CB_iOS_Library.xcframework */,
 			);
 			name = "C2CB-iOS-Library";
 			path = ../..;
+			sourceTree = "<group>";
+		};
+		69F89AEE6C216EC6BDA27951A4381F73 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C9A63C9F2DA564E20041E21D /* C2CB_iOS_Library.xcframework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		763FA481AED057D3E15BF8C055024859 /* Support Files */ = {
@@ -241,7 +241,7 @@
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				578452D2E740E91742655AC8F1636D1F /* iOS */,
+				E4801F62A6B08CD9B5410329F1A18FDE /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -265,6 +265,14 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
+		E4801F62A6B08CD9B5410329F1A18FDE /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
 		F8CF629B05ECD716949F8D4A7DF2B60D /* Pods-C2CB-iOS-Library_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -285,19 +293,19 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		22A0D063A678C917AE80D8FABE2A7C45 /* Headers */ = {
+		ABF32E2A88933720D28FF0AF0F36AA2D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EEF194EA603F2AFCAED80F1AE5341365 /* Pods-C2CB-iOS-Library_Example-umbrella.h in Headers */,
+				269ED0C23F9479699E63B5FBEF05EF00 /* Pods-C2CB-iOS-Library_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		29164F56CC9206E08EB5A965D1213B79 /* Headers */ = {
+		E41343D369F5F9B47F82C5A3683ABBF3 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2F9F7EEB6D826EF111094B92666CD439 /* Pods-C2CB-iOS-Library_Tests-umbrella.h in Headers */,
+				59A7BED7300AA8563991D61DA84B054A /* Pods-C2CB-iOS-Library_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,17 +314,17 @@
 /* Begin PBXNativeTarget section */
 		2F3C0ED6C832510DAF173B9AAD75578A /* Pods-C2CB-iOS-Library_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 871B714BEDAF4167D49D12F029271F56 /* Build configuration list for PBXNativeTarget "Pods-C2CB-iOS-Library_Tests" */;
+			buildConfigurationList = 40242D4953C703BD8C3841A4875528D8 /* Build configuration list for PBXNativeTarget "Pods-C2CB-iOS-Library_Tests" */;
 			buildPhases = (
-				29164F56CC9206E08EB5A965D1213B79 /* Headers */,
-				44D372B88FBFD031A958037DF5D7C793 /* Sources */,
-				60DE249488FA3BD9CE1709CE3384D0C5 /* Frameworks */,
-				1E5AC91C3F71925E057A921C36FFB627 /* Resources */,
+				ABF32E2A88933720D28FF0AF0F36AA2D /* Headers */,
+				0C369A17FF7568B37637EFCFFD6B5CB7 /* Sources */,
+				5DB6D8321364B857B2E9A76DE97FFAF0 /* Frameworks */,
+				BCC50A8FEC45C54BD602A9947632E8C1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E5EB8B340FF4C73BC8419B91091C9AA8 /* PBXTargetDependency */,
+				24CDB7B1C13156D539B974B633C6800E /* PBXTargetDependency */,
 			);
 			name = "Pods-C2CB-iOS-Library_Tests";
 			productName = Pods_C2CB_iOS_Library_Tests;
@@ -325,18 +333,18 @@
 		};
 		59F9E8102C77E95A1F9A30F6A099E245 /* Pods-C2CB-iOS-Library_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 88C20F227BFEB962B43D4F358B7572DB /* Build configuration list for PBXNativeTarget "Pods-C2CB-iOS-Library_Example" */;
+			buildConfigurationList = 8A383B0A7A1D0BF519F6D31F71396E2F /* Build configuration list for PBXNativeTarget "Pods-C2CB-iOS-Library_Example" */;
 			buildPhases = (
-				22A0D063A678C917AE80D8FABE2A7C45 /* Headers */,
-				8F1D4058D0665AF6082A5DA6A3905BA6 /* Sources */,
-				F39A81BF5C562F6AE4DD99055E999907 /* Frameworks */,
-				23CCA6375D6E1652D50DECDA882F0A36 /* Resources */,
+				E41343D369F5F9B47F82C5A3683ABBF3 /* Headers */,
+				1A2587287239993E2888D2B5507D2167 /* Sources */,
+				DD39A5B047BBA02BBE9093C6FD76B221 /* Frameworks */,
+				8C0680E80429DC3D234EF0C63487241D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9549C109AF1254E8289FACB0174CE677 /* PBXTargetDependency */,
-				8E722CCFC36B0B7027B9E9E095516504 /* PBXTargetDependency */,
+				41A1DDEEB99B123845EFA42B01C96356 /* PBXTargetDependency */,
+				BCEB16664248760BDE9C02CDE5E6A353 /* PBXTargetDependency */,
 			);
 			name = "Pods-C2CB-iOS-Library_Example";
 			productName = Pods_C2CB_iOS_Library_Example;
@@ -349,8 +357,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1500;
-				LastUpgradeCheck = 1500;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 12.0";
@@ -374,14 +382,14 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1E5AC91C3F71925E057A921C36FFB627 /* Resources */ = {
+		8C0680E80429DC3D234EF0C63487241D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		23CCA6375D6E1652D50DECDA882F0A36 /* Resources */ = {
+		BCC50A8FEC45C54BD602A9947632E8C1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -399,9 +407,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-xcframeworks-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Copy XCFrameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-xcframeworks-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -416,9 +428,13 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/TwilioVoice/TwilioVoice-xcframeworks-input-files.xcfilelist",
 			);
+			inputPaths = (
+			);
 			name = "[CP] Copy XCFrameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/TwilioVoice/TwilioVoice-xcframeworks-output-files.xcfilelist",
+			);
+			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -428,36 +444,42 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		44D372B88FBFD031A958037DF5D7C793 /* Sources */ = {
+		0C369A17FF7568B37637EFCFFD6B5CB7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BCABA6E972BAE861D0445A86E21FED3 /* Pods-C2CB-iOS-Library_Tests-dummy.m in Sources */,
+				3935546614D7FA0D496E3E58A2C21A75 /* Pods-C2CB-iOS-Library_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8F1D4058D0665AF6082A5DA6A3905BA6 /* Sources */ = {
+		1A2587287239993E2888D2B5507D2167 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				002978D410B5808C4C1132285C2FA5AC /* Pods-C2CB-iOS-Library_Example-dummy.m in Sources */,
+				C661D9EFE6A199812346FF0323A2E31F /* Pods-C2CB-iOS-Library_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		8E722CCFC36B0B7027B9E9E095516504 /* PBXTargetDependency */ = {
+		24CDB7B1C13156D539B974B633C6800E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = TwilioVoice;
-			target = 73614281932881D538B76C26B92E0193 /* TwilioVoice */;
-			targetProxy = A4D2D3EE69F37CC8317D88FCCBAF22AE /* PBXContainerItemProxy */;
+			name = "Pods-C2CB-iOS-Library_Example";
+			target = 59F9E8102C77E95A1F9A30F6A099E245 /* Pods-C2CB-iOS-Library_Example */;
+			targetProxy = DDBAF5847F5630A34D270A64506BAD89 /* PBXContainerItemProxy */;
 		};
-		9549C109AF1254E8289FACB0174CE677 /* PBXTargetDependency */ = {
+		41A1DDEEB99B123845EFA42B01C96356 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "C2CB-iOS-Library";
 			target = 1AFF963248C86E64D3558F376CF02E1A /* C2CB-iOS-Library */;
-			targetProxy = 3B90890687912B1577F2716BAF517A81 /* PBXContainerItemProxy */;
+			targetProxy = 1CE91FD58CC1CB2215F6A05C8BAF7666 /* PBXContainerItemProxy */;
+		};
+		BCEB16664248760BDE9C02CDE5E6A353 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = TwilioVoice;
+			target = 73614281932881D538B76C26B92E0193 /* TwilioVoice */;
+			targetProxy = DEEED3094C8FA7CF5AD7D84046BA2337 /* PBXContainerItemProxy */;
 		};
 		D9097C0C9231295013A02EAFE624A13D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -465,15 +487,48 @@
 			target = 73614281932881D538B76C26B92E0193 /* TwilioVoice */;
 			targetProxy = 33A52AB68E0CAD58F431DF345368A7B3 /* PBXContainerItemProxy */;
 		};
-		E5EB8B340FF4C73BC8419B91091C9AA8 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-C2CB-iOS-Library_Example";
-			target = 59F9E8102C77E95A1F9A30F6A099E245 /* Pods-C2CB-iOS-Library_Example */;
-			targetProxy = 7DBAC4D0818484CDD57030555BAB4ED7 /* PBXContainerItemProxy */;
-		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		1F69DD2B14387C432DCFE74BDF44FBAE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A7E09460C76092E773DF1A65A641CDD4 /* Pods-C2CB-iOS-Library_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				INFOPLIST_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		2B9E26EAE2CD392AD762421F663075A1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -540,13 +595,14 @@
 			};
 			name = Debug;
 		};
-		2E743C80665221B85C0CABD957F187EB /* Debug */ = {
+		2DDE7BD983243EAFE1FF282821082636 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = CF052119B06484561D043C912210C4E0 /* C2CB-iOS-Library.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -557,7 +613,7 @@
 			};
 			name = Debug;
 		};
-		38491C03E880C0560B302A886CCF05BD /* Release */ = {
+		50B96E09F454093981832B077CA14D86 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2E7E706E53250DC8AD24E2BF1A08A647 /* Pods-C2CB-iOS-Library_Tests.release.xcconfig */;
 			buildSettings = {
@@ -571,6 +627,8 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Tests/Pods-C2CB-iOS-Library_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
@@ -592,42 +650,6 @@
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		496D5ABD96255C54047539729A50C871 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3C89F55C97C86CC35FE7D4164E138673 /* TwilioVoice.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		6274561A880738DBFB3ABDE4C6F42B94 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2E402A43452DBD685AD127E1AD60D6BB /* C2CB-iOS-Library.release.xcconfig */;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				SDKROOT = iphoneos;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
@@ -693,44 +715,25 @@
 			};
 			name = Release;
 		};
-		7B50EE77FC73B143844EC2A337020DEF /* Debug */ = {
+		7EC5BEEC8ADD2F9BD815B6A5932A955B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A7E09460C76092E773DF1A65A641CDD4 /* Pods-C2CB-iOS-Library_Example.debug.xcconfig */;
+			baseConfigurationReference = D149737AF0A873A6E01C707A7756237B /* TwilioVoice.debug.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
 				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		984CADFE2312852264E64E3A529E1349 /* Release */ = {
+		ABAE96311E91D871566B4847AEC8AA2E /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3B3ADCE03C22CF9BFC1A56C9F576DFE5 /* Pods-C2CB-iOS-Library_Example.release.xcconfig */;
 			buildSettings = {
@@ -744,6 +747,8 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Example/Pods-C2CB-iOS-Library_Example-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
@@ -768,7 +773,26 @@
 			};
 			name = Release;
 		};
-		CE3CF6F5D23DDF51C36CBA65AB7AD07F /* Debug */ = {
+		B7E316B270A7B8ABCBCC7D5A2EBEFFF5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2E402A43452DBD685AD127E1AD60D6BB /* C2CB-iOS-Library.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E0DC4CCFF23A61D2F06102A77575F576 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 3D49FAB9E1939792ABB06C61852FBF2A /* Pods-C2CB-iOS-Library_Tests.debug.xcconfig */;
 			buildSettings = {
@@ -782,6 +806,8 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_MODULE_VERIFIER = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "Target Support Files/Pods-C2CB-iOS-Library_Tests/Pods-C2CB-iOS-Library_Tests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
@@ -805,13 +831,14 @@
 			};
 			name = Debug;
 		};
-		E79D603482FEA8B467BD7F6E8706684B /* Debug */ = {
+		F0BA907E38066BFFFA0CCCA05ED8DCB0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D149737AF0A873A6E01C707A7756237B /* TwilioVoice.debug.xcconfig */;
+			baseConfigurationReference = 3C89F55C97C86CC35FE7D4164E138673 /* TwilioVoice.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CLANG_ENABLE_OBJC_WEAK = NO;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -819,12 +846,22 @@
 				);
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 			};
-			name = Debug;
+			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		40242D4953C703BD8C3841A4875528D8 /* Build configuration list for PBXNativeTarget "Pods-C2CB-iOS-Library_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E0DC4CCFF23A61D2F06102A77575F576 /* Debug */,
+				50B96E09F454093981832B077CA14D86 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -837,8 +874,8 @@
 		55033E3DD47935132F13BFD4BEBB2C19 /* Build configuration list for PBXAggregateTarget "TwilioVoice" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E79D603482FEA8B467BD7F6E8706684B /* Debug */,
-				496D5ABD96255C54047539729A50C871 /* Release */,
+				7EC5BEEC8ADD2F9BD815B6A5932A955B /* Debug */,
+				F0BA907E38066BFFFA0CCCA05ED8DCB0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -846,26 +883,17 @@
 		81331229D23FC82D106AA50ED71C9AD2 /* Build configuration list for PBXAggregateTarget "C2CB-iOS-Library" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2E743C80665221B85C0CABD957F187EB /* Debug */,
-				6274561A880738DBFB3ABDE4C6F42B94 /* Release */,
+				2DDE7BD983243EAFE1FF282821082636 /* Debug */,
+				B7E316B270A7B8ABCBCC7D5A2EBEFFF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		871B714BEDAF4167D49D12F029271F56 /* Build configuration list for PBXNativeTarget "Pods-C2CB-iOS-Library_Tests" */ = {
+		8A383B0A7A1D0BF519F6D31F71396E2F /* Build configuration list for PBXNativeTarget "Pods-C2CB-iOS-Library_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CE3CF6F5D23DDF51C36CBA65AB7AD07F /* Debug */,
-				38491C03E880C0560B302A886CCF05BD /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		88C20F227BFEB962B43D4F358B7572DB /* Build configuration list for PBXNativeTarget "Pods-C2CB-iOS-Library_Example" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7B50EE77FC73B143844EC2A337020DEF /* Debug */,
-				984CADFE2312852264E64E3A529E1349 /* Release */,
+				1F69DD2B14387C432DCFE74BDF44FBAE /* Debug */,
+				ABAE96311E91D871566B4847AEC8AA2E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

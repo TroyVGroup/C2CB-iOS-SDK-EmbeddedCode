@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
-// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name C2CB_iOS_Library
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name C2CB_iOS_Library
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
 import AVFoundation
 @_exported import C2CB_iOS_Library
 import CallKit
@@ -274,7 +274,8 @@ public typealias alertActionHandler = () -> Swift.Void
   public var smsBtn: Swift.Bool?
   public var emailBtn: Swift.Bool?
   public static var bundle_idenitifier: Swift.String?
-  public static var IS_IPAD: (Swift.Bool)
+  public static var bundle_version: Swift.String
+  public static var IS_IPAD: Swift.Bool
   public static var bundle: Foundation.Bundle {
     get
   }
