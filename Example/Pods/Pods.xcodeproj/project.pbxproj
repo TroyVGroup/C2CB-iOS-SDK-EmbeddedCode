@@ -17,7 +17,6 @@
 				D9097C0C9231295013A02EAFE624A13D /* PBXTargetDependency */,
 			);
 			name = "C2CB-iOS-Library";
-			productName = "C2CB-iOS-Library";
 		};
 		73614281932881D538B76C26B92E0193 /* TwilioVoice */ = {
 			isa = PBXAggregateTarget;
@@ -28,7 +27,6 @@
 			dependencies = (
 			);
 			name = TwilioVoice;
-			productName = TwilioVoice;
 		};
 /* End PBXAggregateTarget section */
 
@@ -73,10 +71,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		044ED0612DDDF279007E200D /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
+		043F364F7A430B577D9BE5528EB18DD4 /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
 		12F692DEF1857FD9D162391A23A7AB1F /* Pods-C2CB-iOS-Library_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Tests-Info.plist"; sourceTree = "<group>"; };
 		192A9107EA453D3614441A832506F998 /* Pods-C2CB-iOS-Library_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-C2CB-iOS-Library_Example-frameworks.sh"; sourceTree = "<group>"; };
-		2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods_C2CB_iOS_Library_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_C2CB_iOS_Library_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods-C2CB-iOS-Library_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-C2CB-iOS-Library_Example"; path = Pods_C2CB_iOS_Library_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E402A43452DBD685AD127E1AD60D6BB /* C2CB-iOS-Library.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "C2CB-iOS-Library.release.xcconfig"; sourceTree = "<group>"; };
 		2E7E706E53250DC8AD24E2BF1A08A647 /* Pods-C2CB-iOS-Library_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		35AA39C62E68A53F131C35DF01B31C56 /* Pods-C2CB-iOS-Library_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Example-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -86,13 +84,13 @@
 		3D49FAB9E1939792ABB06C61852FBF2A /* Pods-C2CB-iOS-Library_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		3E099E3D1B7BDBFFF01CAF8B2A69F35E /* Pods-C2CB-iOS-Library_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-C2CB-iOS-Library_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-C2CB-iOS-Library_Tests-dummy.m"; sourceTree = "<group>"; };
-		4CC6E1AF63AF1D7AD27C3382E8C18187 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		4CC6E1AF63AF1D7AD27C3382E8C18187 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		522B5319B55E155BBD40EEE4F2A3DC09 /* Pods-C2CB-iOS-Library_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-C2CB-iOS-Library_Example-dummy.m"; sourceTree = "<group>"; };
-		5AD6C55EE401404FBFAEDCC3E90FD647 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		5AD6C55EE401404FBFAEDCC3E90FD647 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		68591176D5368E65D60DF9322FF54094 /* Pods-C2CB-iOS-Library_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Example.modulemap"; sourceTree = "<group>"; };
 		6FA24A3274F76A4D6B52D219CCAF64C9 /* Pods-C2CB-iOS-Library_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Example-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9EFAB19F08B07E751FBBBE5B69B52B1F /* TwilioVoice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = wrapper.xcframework; path = TwilioVoice.xcframework; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9EFAB19F08B07E751FBBBE5B69B52B1F /* TwilioVoice.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; path = TwilioVoice.xcframework; sourceTree = "<group>"; };
 		A7E09460C76092E773DF1A65A641CDD4 /* Pods-C2CB-iOS-Library_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-C2CB-iOS-Library_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BDDB675EDD5503DEDBDB192899096193 /* TwilioVoice-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "TwilioVoice-xcframeworks.sh"; sourceTree = "<group>"; };
 		CA980E4F18C594F7A72D2606425A8FE3 /* Pods-C2CB-iOS-Library_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-C2CB-iOS-Library_Tests.modulemap"; sourceTree = "<group>"; };
@@ -102,8 +100,8 @@
 		D6817CC62EEE648F5D1D13E41DE6DA81 /* Pods-C2CB-iOS-Library_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-C2CB-iOS-Library_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D87DB28751D172D637B0F05271939367 /* Pods-C2CB-iOS-Library_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-C2CB-iOS-Library_Example-umbrella.h"; sourceTree = "<group>"; };
-		EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods_C2CB_iOS_Library_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_C2CB_iOS_Library_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F16675137794CE9EC87857BCD668CFEF /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "C2CB-iOS-Library.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods-C2CB-iOS-Library_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-C2CB-iOS-Library_Tests"; path = Pods_C2CB_iOS_Library_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F16675137794CE9EC87857BCD668CFEF /* C2CB-iOS-Library.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "C2CB-iOS-Library.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FB09D3EB2C8565D005C21EE6B1B5B691 /* Pods-C2CB-iOS-Library_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-C2CB-iOS-Library_Tests-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -138,8 +136,8 @@
 		44F670EA1D44BEF1C887241F1B4EFFFC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods_C2CB_iOS_Library_Example.framework */,
-				EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods_C2CB_iOS_Library_Tests.framework */,
+				2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods-C2CB-iOS-Library_Example */,
+				EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods-C2CB-iOS-Library_Tests */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -158,7 +156,7 @@
 		69F89AEE6C216EC6BDA27951A4381F73 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				044ED0612DDDF279007E200D /* C2CB_iOS_Library.xcframework */,
+				043F364F7A430B577D9BE5528EB18DD4 /* C2CB_iOS_Library.xcframework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -205,6 +203,7 @@
 				C637C9E01950FCAAFB245F146BBBA659 /* Frameworks */,
 				763FA481AED057D3E15BF8C055024859 /* Support Files */,
 			);
+			name = TwilioVoice;
 			path = TwilioVoice;
 			sourceTree = "<group>";
 		};
@@ -328,7 +327,7 @@
 			);
 			name = "Pods-C2CB-iOS-Library_Tests";
 			productName = Pods_C2CB_iOS_Library_Tests;
-			productReference = EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods_C2CB_iOS_Library_Tests.framework */;
+			productReference = EDCC2FD3A98830D8A5F4B05F5B005215 /* Pods-C2CB-iOS-Library_Tests */;
 			productType = "com.apple.product-type.framework";
 		};
 		59F9E8102C77E95A1F9A30F6A099E245 /* Pods-C2CB-iOS-Library_Example */ = {
@@ -348,7 +347,7 @@
 			);
 			name = "Pods-C2CB-iOS-Library_Example";
 			productName = Pods_C2CB_iOS_Library_Example;
-			productReference = 2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods_C2CB_iOS_Library_Example.framework */;
+			productReference = 2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods-C2CB-iOS-Library_Example */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -369,6 +368,8 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			minimizedProjectReferenceProxies = 0;
+			preferredProjectObjectVersion = 77;
 			productRefGroup = 44F670EA1D44BEF1C887241F1B4EFFFC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -407,13 +408,9 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-xcframeworks-input-files.xcfilelist",
 			);
-			inputPaths = (
-			);
 			name = "[CP] Copy XCFrameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/C2CB-iOS-Library/C2CB-iOS-Library-xcframeworks-output-files.xcfilelist",
-			);
-			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -428,13 +425,9 @@
 			inputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/TwilioVoice/TwilioVoice-xcframeworks-input-files.xcfilelist",
 			);
-			inputPaths = (
-			);
 			name = "[CP] Copy XCFrameworks";
 			outputFileListPaths = (
 				"${PODS_ROOT}/Target Support Files/TwilioVoice/TwilioVoice-xcframeworks-output-files.xcfilelist",
-			);
-			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
