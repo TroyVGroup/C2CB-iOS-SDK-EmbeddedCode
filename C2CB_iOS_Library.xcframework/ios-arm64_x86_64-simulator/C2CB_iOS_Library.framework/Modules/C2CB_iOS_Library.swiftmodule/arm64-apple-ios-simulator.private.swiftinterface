@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1 effective-5.10 (swiftlang-6.1.0.110.21 clang-1700.0.13.3)
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
 // swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name C2CB_iOS_Library
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
 import AVFoundation
 @_exported import C2CB_iOS_Library
 import CallKit
@@ -20,7 +20,9 @@ import _SwiftConcurrencyShims
   @_Concurrency.MainActor @preconcurrency final public let textField: UIKit.UITextField
   @_Concurrency.MainActor @preconcurrency final public let floatingLabel: UIKit.UILabel
   @_Concurrency.MainActor @preconcurrency final public let borderLayer: QuartzCore.CAShapeLayer
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func layoutSubviews()
   @_Concurrency.MainActor @preconcurrency public func showFloatingLabelEvent()
   @_Concurrency.MainActor @preconcurrency public func hideFloatingLabelEvent()
@@ -33,7 +35,9 @@ import _SwiftConcurrencyShims
   @_Concurrency.MainActor @preconcurrency final public let floatingLabel: UIKit.UILabel
   @_Concurrency.MainActor @preconcurrency final public let borderLayer: QuartzCore.CAShapeLayer
   @_Concurrency.MainActor @preconcurrency public var message_TextCount: Swift.String
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func layoutSubviews()
   @_Concurrency.MainActor @preconcurrency public func showFloatingLabelEvent()
   @_Concurrency.MainActor @preconcurrency public func hideFloatingLabelEvent()
@@ -56,9 +60,15 @@ public enum ImageSource {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillDisappear(_ animated: Swift.Bool)
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func traitCollectionDidChange(_ previousTraitCollection: UIKit.UITraitCollection?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 extension C2CB_iOS_Library.C2CSdkBaseViewController {
@@ -90,8 +100,12 @@ extension C2CB_iOS_Library.C2CSdkBaseViewController : UIKit.UICollectionViewDele
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillLayoutSubviews()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 extension C2CB_iOS_Library.C2CSdkCountryCodeViewController : UIKit.UITableViewDelegate {
@@ -124,7 +138,9 @@ extension C2CB_iOS_Library.C2CSdkCallHandler : TwilioVoice.CallDelegate {
   public func call(call: TwilioVoice.Call, isReconnectingWithError error: any Swift.Error)
   @objc dynamic public func callDidReconnect(call: TwilioVoice.Call)
   @objc dynamic public func callDidFailToConnect(call: TwilioVoice.Call, error: any Swift.Error)
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc dynamic public func callDidDisconnect(call: TwilioVoice.Call, error: (any Swift.Error)?)
+  #endif
   public func callDisconnected(call: TwilioVoice.Call)
   @objc dynamic public func callDidReceiveQualityWarnings(call: TwilioVoice.Call, currentWarnings: Swift.Set<Foundation.NSNumber>, previousWarnings: Swift.Set<Foundation.NSNumber>)
   public func qualityWarningsUpdatePopup(_ warnings: Swift.Set<Foundation.NSNumber>, isCleared: Swift.Bool)
@@ -145,7 +161,9 @@ extension C2CB_iOS_Library.C2CSdkCallHandler : CallKit.CXProviderDelegate {
 }
 extension C2CB_iOS_Library.C2CSdkCallHandler : AVFAudio.AVAudioPlayerDelegate {
   @objc dynamic public func audioPlayerDidFinishPlaying(_ player: AVFAudio.AVAudioPlayer, successfully flag: Swift.Bool)
+  #if compiler(>=5.3) && $NonescapableTypes
   @objc dynamic public func audioPlayerDecodeErrorDidOccur(_ player: AVFAudio.AVAudioPlayer, error: (any Swift.Error)?)
+  #endif
 }
 @_hasMissingDesignatedInitializers open class C2CSdkCustomLoaderViewController {
   public func setUp(custom_view: UIKit.UIView)
@@ -168,7 +186,9 @@ extension C2CB_iOS_Library.C2CSdkCallHandler : AVFAudio.AVAudioPlayerDelegate {
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency open class C2CSdkBubbleMessageCollectionViewCell : UIKit.UICollectionViewCell {
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 public enum C2CSdkWebService : Swift.String {
@@ -176,7 +196,9 @@ public enum C2CSdkWebService : Swift.String {
   case termConditionUrl
   case contextToCallUrl
   case radar_auth_key
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
@@ -190,19 +212,35 @@ public func C2CSdkisValid(name: Swift.String) -> Swift.Bool
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency open class C2CSdkCallValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillLayoutSubviews()
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 extension C2CB_iOS_Library.C2CSdkCallValidationSetUp : UIKit.UITextFieldDelegate {
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
 }
+extension C2CB_iOS_Library.C2CSdkCallValidationSetUp : UIKit.UIPickerViewDelegate, UIKit.UIPickerViewDataSource {
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func numberOfComponents(in pickerView: UIKit.UIPickerView) -> Swift.Int
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func pickerView(_ pickerView: UIKit.UIPickerView, numberOfRowsInComponent component: Swift.Int) -> Swift.Int
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func pickerView(_ pickerView: UIKit.UIPickerView, titleForRow row: Swift.Int, forComponent component: Swift.Int) -> Swift.String?
+  #endif
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func pickerView(_ pickerView: UIKit.UIPickerView, didSelectRow row: Swift.Int, inComponent component: Swift.Int)
+}
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency open class C2CSdkOutgoingCallUISetup : UIKit.UIViewController {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @objc deinit
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillLayoutSubviews()
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
 }
 extension C2CB_iOS_Library.C2CSdkOutgoingCallUISetup : UIKit.UITextFieldDelegate {
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func textFieldDidEndEditing(_ textField: UIKit.UITextField)
@@ -216,9 +254,13 @@ extension C2CB_iOS_Library.C2CSdkOutgoingCallUISetup : UIKit.UITextFieldDelegate
     @objc get
     @objc set
   }
+  @objc @IBInspectable @_Concurrency.MainActor @preconcurrency public var viewBackgroundColor: UIKit.UIColor {
+    @objc get
+    @objc set
+  }
   @objc @IBInspectable @_Concurrency.MainActor @preconcurrency public var channel_id: Swift.String {
     @objc get
-    @objc set(channel_id_value)
+    @objc set
   }
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public func prepareForInterfaceBuilder()
   @objc deinit
@@ -226,15 +268,23 @@ extension C2CB_iOS_Library.C2CSdkOutgoingCallUISetup : UIKit.UITextFieldDelegate
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency open class C2CSdkImagePreviewViewController : UIKit.UIViewController {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency open class C2CSdkEmailValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillLayoutSubviews()
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 extension C2CB_iOS_Library.C2CSdkEmailValidationSetUp : UIKit.UITextFieldDelegate {
@@ -249,8 +299,12 @@ extension C2CB_iOS_Library.C2CSdkEmailValidationSetUp : UIKit.UITextFieldDelegat
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency open class C2CSdkSMSValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillLayoutSubviews()
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
+  #endif
   @objc deinit
 }
 extension C2CB_iOS_Library.C2CSdkSMSValidationSetUp : UIKit.UITextViewDelegate {
@@ -279,9 +333,13 @@ public typealias alertActionHandler = () -> Swift.Void
   public static var bundle: Foundation.Bundle {
     get
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func getImage(named: Swift.String) -> UIKit.UIImage?
+  #endif
   public static func loadFont(named fontName: Swift.String, withExtension fontExtension: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
   public static func customFont(withName name: Swift.String, size: CoreFoundation.CGFloat) -> UIKit.UIFont?
+  #endif
   @objc override dynamic public init()
   @objc deinit
 }
