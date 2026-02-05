@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'C2CB-iOS-Library'
-  s.version          = '1.10'
+  s.version          = '1.11'
   s.summary          = 'Context to Call is a very simple yet effective and flexible library to easily add Call, SMS or Email functionality'
 
 # This description is used to generate tags and improve search results.
