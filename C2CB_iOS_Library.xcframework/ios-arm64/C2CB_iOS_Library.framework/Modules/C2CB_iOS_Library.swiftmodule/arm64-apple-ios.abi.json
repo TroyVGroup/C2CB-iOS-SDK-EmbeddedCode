@@ -12467,28 +12467,28 @@
     {
       "filePath": "\/Users\/mac\/Documents\/GitHub\/C2CBusiness_Sdk_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 972,
-      "length": 47,
-      "value": "\"https:\/\/c2c-uatapi.contexttocall.com\/uat_c2c\/\""
+      "offset": 1307,
+      "length": 37,
+      "value": "\"https:\/\/apis.contexttocall.com\/c2c\/\""
     },
     {
       "filePath": "\/Users\/mac\/Documents\/GitHub\/C2CBusiness_Sdk_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1052,
-      "length": 44,
-      "value": "\"https:\/\/c2c-uat.contexttocall.com:90\/terms\""
+      "offset": 1377,
+      "length": 37,
+      "value": "\"https:\/\/app.contexttocall.com\/terms\""
     },
     {
       "filePath": "\/Users\/mac\/Documents\/GitHub\/C2CBusiness_Sdk_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1129,
+      "offset": 1447,
       "length": 28,
       "value": "\"https:\/\/contexttocall.com\/\""
     },
     {
       "filePath": "\/Users\/mac\/Documents\/GitHub\/C2CBusiness_Sdk_Build\/C2CB_iOS_Library\/C2CB_iOS_Library\/C2CSdkUtilitie\/C2CSdkAPIConfig\/C2CSdkAPIConfig.swift",
       "kind": "StringLiteral",
-      "offset": 1188,
+      "offset": 1506,
       "length": 54,
       "value": "\"prj_live_sk_569b6f639edde6120a26f703511c61aaecd3f7ef\""
     },
