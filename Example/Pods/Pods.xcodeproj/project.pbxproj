@@ -33,8 +33,8 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		041867432F67F461000AADD1 /* C2CB_iOS_Library.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 041867422F67F461000AADD1 /* C2CB_iOS_Library.xcframework */; };
-		041867442F67F461000AADD1 /* C2CB_iOS_Library.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 041867422F67F461000AADD1 /* C2CB_iOS_Library.xcframework */; };
+		041867462F67F532000AADD1 /* C2CB_iOS_Library.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 041867452F67F532000AADD1 /* C2CB_iOS_Library.xcframework */; };
+		041867472F67F532000AADD1 /* C2CB_iOS_Library.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 041867452F67F532000AADD1 /* C2CB_iOS_Library.xcframework */; };
 		269ED0C23F9479699E63B5FBEF05EF00 /* Pods-C2CB-iOS-Library_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FB09D3EB2C8565D005C21EE6B1B5B691 /* Pods-C2CB-iOS-Library_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3935546614D7FA0D496E3E58A2C21A75 /* Pods-C2CB-iOS-Library_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 466DD7136BD2425C0DA1A48DEC3DD881 /* Pods-C2CB-iOS-Library_Tests-dummy.m */; };
 		59A7BED7300AA8563991D61DA84B054A /* Pods-C2CB-iOS-Library_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB90A2B3BA9C86745A4964226424C902 /* Pods-C2CB-iOS-Library_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -75,7 +75,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		041867422F67F461000AADD1 /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
+		041867452F67F532000AADD1 /* C2CB_iOS_Library.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = C2CB_iOS_Library.xcframework; sourceTree = "<group>"; };
 		12F692DEF1857FD9D162391A23A7AB1F /* Pods-C2CB-iOS-Library_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-C2CB-iOS-Library_Tests-Info.plist"; sourceTree = "<group>"; };
 		192A9107EA453D3614441A832506F998 /* Pods-C2CB-iOS-Library_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-C2CB-iOS-Library_Example-frameworks.sh"; sourceTree = "<group>"; };
 		2BC5C7A3F0EAED32DC66B26B6B3FD1B9 /* Pods_C2CB_iOS_Library_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_C2CB_iOS_Library_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -115,7 +115,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				702E9B43433A2F9E9FA5DEF1E1050C81 /* Foundation.framework in Frameworks */,
-				041867442F67F461000AADD1 /* C2CB_iOS_Library.xcframework in Frameworks */,
+				041867462F67F532000AADD1 /* C2CB_iOS_Library.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -124,7 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F7E3613300B7D69B9863DCBDD48C2BB6 /* Foundation.framework in Frameworks */,
-				041867432F67F461000AADD1 /* C2CB_iOS_Library.xcframework in Frameworks */,
+				041867472F67F532000AADD1 /* C2CB_iOS_Library.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,7 +162,7 @@
 		69F89AEE6C216EC6BDA27951A4381F73 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				041867422F67F461000AADD1 /* C2CB_iOS_Library.xcframework */,
+				041867452F67F532000AADD1 /* C2CB_iOS_Library.xcframework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
