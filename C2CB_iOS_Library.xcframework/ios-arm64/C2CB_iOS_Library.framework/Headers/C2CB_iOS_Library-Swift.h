@@ -428,7 +428,7 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library14C2CSdkConstant")
 @end
 
 SWIFT_CLASS("_TtC16C2CB_iOS_Library31C2CSdkCountryCodeViewController")
-@interface C2CSdkCountryCodeViewController : UIViewController
+@interface C2CSdkCountryCodeViewController : C2CSdkBaseViewController
 - (void)viewWillLayoutSubviews;
 - (void)viewDidLoad;
 - (void)viewWillAppear:(BOOL)animated;
