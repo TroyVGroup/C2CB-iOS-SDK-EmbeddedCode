@@ -61,7 +61,7 @@ Open your project in Xcode.
 Select File → Add Package Dependencies...
 Enter the following repository URL:
 ```ruby
-https://github.com/Satyam-ios/C2CB_Package.git
+https://github.com/TroyVGroup/C2CB-iOS-Package.git
 ```
 Select the required package version.
 Add the package to your application target.
