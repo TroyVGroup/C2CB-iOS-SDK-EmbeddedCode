@@ -60,6 +60,11 @@ public enum ImageSource {
   }
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency open class C2CSdkBaseViewController : UIKit.UIViewController {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency open var callFormCaptchaView: UIKit.UIView? {
+    get
+  }
+  #endif
   @_Concurrency.MainActor @preconcurrency final public let ContectBorderContainerView: UIKit.UIView
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillAppear(_ animated: Swift.Bool)
@@ -202,6 +207,8 @@ public enum C2CSdkWebService : Swift.String {
   case termConditionUrl
   case contextToCallUrl
   case radar_auth_key
+  case recaptchaSiteKey
+  case recaptchaBaseUrl
   #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
   #endif
@@ -216,6 +223,11 @@ public func C2CSdkvalidateEmailID(emailID: Swift.String) -> Swift.Bool
 public func C2CSdkvalidateNumber(number: Swift.String) -> Swift.Bool
 public func C2CSdkisValid(name: Swift.String) -> Swift.Bool
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency open class C2CSdkCallValidationSetUp : C2CB_iOS_Library.C2CSdkBaseViewController {
+  #if compiler(>=5.3) && $NonescapableTypes
+  @_Concurrency.MainActor @preconcurrency override open var callFormCaptchaView: UIKit.UIView? {
+    get
+  }
+  #endif
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewWillLayoutSubviews()
   #if compiler(>=5.3) && $NonescapableTypes
@@ -236,6 +248,9 @@ extension C2CB_iOS_Library.C2CSdkCallValidationSetUp : UIKit.UIPickerViewDelegat
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func pickerView(_ pickerView: UIKit.UIPickerView, titleForRow row: Swift.Int, forComponent component: Swift.Int) -> Swift.String?
   #endif
   @_Concurrency.MainActor @preconcurrency @objc dynamic public func pickerView(_ pickerView: UIKit.UIPickerView, didSelectRow row: Swift.Int, inComponent component: Swift.Int)
+}
+extension C2CB_iOS_Library.C2CSdkCallValidationSetUp : WebKit.WKScriptMessageHandler {
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func userContentController(_ userContentController: WebKit.WKUserContentController, didReceive message: WebKit.WKScriptMessage)
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency open class C2CSdkOutgoingCallUISetup : UIKit.UIViewController {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic open func viewDidLoad()
