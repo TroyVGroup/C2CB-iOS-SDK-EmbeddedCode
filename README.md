@@ -37,7 +37,7 @@ C2CB-iOS-Library is available through [CocoaPods](https://cocoapods.org/).
 To install the library using CocoaPods, add the following to your `Podfile`:
 
 ```ruby
-pod 'C2CB-iOS-Library', '~> 4.0'  
+pod 'C2CB-iOS-Library', '~> 4.2'  
 ```
 Then run:
 
@@ -340,7 +340,7 @@ pod 'C2CB-iOS-Library'
 ```
 while your newer documentation says:
 ```ruby
-pod 'C2CB-iOS-Library', '~> 4.0'
+pod 'C2CB-iOS-Library', '~> 4.2'
 ```
 
 The CocoaPods page currently lists the published version separately, so don't hard-code 4.0 unless 4.0 is actually the version published to CocoaPods. If your current published version is different, use the version shown on the official CocoaPods page.

@@ -7,12 +7,15 @@
 //
 
 import UIKit
-
+import C2CB_iOS_Library
 class ViewController: UIViewController {
 
+    
+    @IBOutlet weak var mycustomeView:C2CSdkCustomView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        mycustomeView.channel_id = ""
+       
     }
 
     override func didReceiveMemoryWarning() {
@@ -21,4 +24,3 @@ class ViewController: UIViewController {
     }
 
 }
-

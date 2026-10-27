@@ -1,0 +1,11 @@
+framework module C2CB_iOS_Library {
+  umbrella header "C2CB_iOS_Library.h"
+  export *
+
+  module * { export * }
+}
+
+module C2CB_iOS_Library.Swift {
+  header "C2CB_iOS_Library-Swift.h"
+  requires objc
+}
