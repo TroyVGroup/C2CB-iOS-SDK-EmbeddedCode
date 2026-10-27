@@ -289,7 +289,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @import ObjectiveC;
 @import TwilioVoice;
 @import UIKit;
-@import WebKit;
 #endif
 
 #endif
@@ -413,12 +412,6 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library25C2CSdkCallValidationSetUp")
 @class UITextField;
 @interface C2CSdkCallValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextFieldDelegate>
 - (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
-@end
-
-@class WKUserContentController;
-@class WKScriptMessage;
-@interface C2CSdkCallValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <WKScriptMessageHandler>
-- (void)userContentController:(WKUserContentController * _Nonnull)userContentController didReceiveScriptMessage:(WKScriptMessage * _Nonnull)message;
 @end
 
 @class UIPickerView;
@@ -846,7 +839,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 @import ObjectiveC;
 @import TwilioVoice;
 @import UIKit;
-@import WebKit;
 #endif
 
 #endif
@@ -970,12 +962,6 @@ SWIFT_CLASS("_TtC16C2CB_iOS_Library25C2CSdkCallValidationSetUp")
 @class UITextField;
 @interface C2CSdkCallValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <UITextFieldDelegate>
 - (void)textFieldDidEndEditing:(UITextField * _Nonnull)textField;
-@end
-
-@class WKUserContentController;
-@class WKScriptMessage;
-@interface C2CSdkCallValidationSetUp (SWIFT_EXTENSION(C2CB_iOS_Library)) <WKScriptMessageHandler>
-- (void)userContentController:(WKUserContentController * _Nonnull)userContentController didReceiveScriptMessage:(WKScriptMessage * _Nonnull)message;
 @end
 
 @class UIPickerView;
